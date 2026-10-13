@@ -1,4 +1,4 @@
-\documentclass[sigconf]{acmart}
+\documentclass[sigconf, anonymous]{acmart}
 
 \settopmatter{printacmref=true}
 \renewcommand\footnotetextcopyrightpermission[1]{}
@@ -219,22 +219,24 @@ O sistema LO-PHI (Low-Observable Physical Host Instrumentation) exemplifica a in
 \subsection{Nível de Kernel e Sistema Operacional}
 A instrumentação de nível de kernel fornece visibilidade sobre chamadas de sistema, decisões de escalonamento, operações de E/S e alocação de recursos.
 
-O DTrace, introduzido por \cite{cantrill_2004} permite a instrumentação dinâmica de softwares de nível de usuário e kernel de forma unificada e segura. Quando não habilitado, o DTrace exibe "efeito de sondagem zero" — o sistema opera como se o DTrace não estivesse presente. O framework suporta dezenas de milhares de pontos de instrumentação, com sistemas pequenos oferecendo cerca de 30.000 pontos apenas no kernel. Tecnologias modernas como eBPF (extended Berkeley Packet Filter) continuam essa evolução. \cite{volpert_2025} quantifica as diferenças de sobrecarga entre eBPF e SystemTap, orientando a seleção de ferramentas para produção.
+O DTrace, introduzido por Cantrill et al. \cite{cantrill_2004}, permite a instrumentação dinâmica de softwares de nível de usuário e kernel de forma unificada e segura. Quando não habilitado, o DTrace exibe ``efeito de sonda zero'' — o sistema opera exatamente como se a instrumentação não estivesse presente. O framework suporta dezenas de milhares de pontos de instrumentação, com sistemas pequenos oferecendo cerca de 30.000 pontos apenas no kernel. Tecnologias modernas como o eBPF (extended Berkeley Packet Filter) continuam essa evolução. Volpert et al. \cite{volpert_2025} quantificam as diferenças de sobrecarga entre eBPF e SystemTap, orientando a seleção de ferramentas para produção.
 
 \subsection{Nível de Máquina Virtual e Runtime}
 A instrumentação de nível de VM e runtime visa a camada de execução da linguagem, capturando eventos específicos como coleta de lixo (garbage collection) e compilação JIT.
 
-A pesquisa de \cite{ghanta_2017} sobre arquiteturas de observabilidade em camadas para sistemas baseados em JVM descreve a progressão da instrumentação de nível de VM para telemetria em escala de produção. O trabalho analisa o impacto no tempo de resposta e no uso de CPU/memória, fornecendo evidências empíricas dos compromissos inerentes. A instrumentação de runtime permite rastrear padrões de alocação de objetos e eventos de sincronização de threads que são opacos ao nível do kernel.
+A pesquisa de Ghanta \cite{ghanta_2017} sobre arquiteturas de observabilidade em camadas para sistemas baseados em JVM descreve a progressão da instrumentação de nível de VM para telemetria em escala de produção. O trabalho analisa o impacto no tempo de resposta e no uso de CPU/memória, fornecendo evidências empíricas dos compromissos inerentes. A instrumentação de runtime permite rastrear padrões de alocação de objetos e eventos de sincronização de threads que são opacos ao nível do kernel.
 
 \subsection{Nível de Aplicação e Bytecode}
 Este nível insere pontos de medição diretamente no código-fonte ou no bytecode, oferecendo a maior riqueza semântica, mas geralmente com a maior sobrecarga.
 
-\cite{vysocky_2019} discute que aplicações complexas mostram comportamentos diferentes em cada parte do código, tornando desejável a instrumentação para separar essas seções e identificar "pontos quentes" (hot spots) de consumo de recursos. \cite{wang_2025} descrevem a melhoria da observabilidade de serviços através do monitoramento de variáveis em nível de bytecode, suportando instrumentação estática e dinâmica. O sistema SPADE \cite{brown_2003} coleta dados de monitoramento de todos os níveis, incluindo a aplicação, e os armazena em um banco de dados relacional, permitindo correlacionar dados com solicitações semânticas da aplicação. \cite{yang_2025} estenderam a programabilidade e observabilidade do eBPF para GPUs, fornecendo múltiplas granularidades de instrumentação ligadas à profundidade de visibilidade e latência.
+Vysocký et al. \cite{vysocky_2019} discutem que aplicações complexas apresentam comportamentos distintos em cada módulo do código, tornando recomendável a instrumentação seletiva para isolar essas seções e identificar ``pontos quentes'' (\textit{hot spots}) de consumo de recursos. Wang et al. \cite{wang_2025} descrevem a melhoria da observabilidade de serviços através do monitoramento de variáveis em nível de bytecode, suportando instrumentação estática e dinâmica. O sistema SPADE \cite{brown_2003} coleta dados de monitoramento de todos os níveis, incluindo a aplicação, e os armazena em um banco de dados relacional, permitindo correlacionar métricas físicas com requisições semânticas da aplicação. Yang et al. \cite{yang_2025} estenderam a programabilidade e observabilidade do eBPF para GPUs, fornecendo múltiplas granularidades de instrumentação ligadas à profundidade de visibilidade e latência.
 
 \section{Impacto na Observabilidade}
 \label{sec:observabilidade-impacto}
 
-Com relação ao impacto, a profundidade de visibilidade e cobertura sobre a observabilidade, a escolha do nível de instrumentação determina fundamentalmente quais aspectos do comportamento do sistema se tornam observáveis. Diferentes níveis expõem diferentes tipos de eventos, criando uma arquitetura de observabilidade em camadas onde cada camada contribui com insights únicos.
+A escolha do nível de instrumentação determina fundamentalmente quais aspectos do comportamento do sistema se tornam observáveis, estabelecendo arquiteturas de monitoramento onde cada camada contribui com capacidades diagnósticas e impactos operacionais específicos. As subseções a seguir analisam a literatura frente às dimensões ortogonais mapeadas.
+
+\subsection{Profundidade de Visibilidade e Cobertura}
 
 A instrumentação de kernel e de sistema operacional (SO) fornece visibilidade sobre a utilização de recursos em todo o sistema, decisões de escalonamento e padrões de E/S. A capacidade do DTrace de instrumentar tanto o código do kernel quanto o do nível de usuário de maneira unificada permite uma cobertura abrangente do comportamento do sistema \cite{cantrill_2004}. As dezenas de milhares de pontos de instrumentação do framework garantem que virtualmente qualquer evento de kernel ou de espaço de usuário possa ser observado quando necessário \cite{cantrill_2004}.
 
@@ -244,7 +246,9 @@ A introspecção de hardware e de host pode revelar artefatos que a instrumenta�
 
 O sistema SPADE ilustra o poder da cobertura multinível \cite{brown_2003}. Ao coletar dados de monitoramento de todos os níveis do sistema, incluindo a aplicação, e correlacioná-los com requisições de aplicação semanticamente significativas, o SPADE permite a análise em múltiplos níveis de detalhe simultaneamente \cite{brown_2003}. Essa cobertura abrangente permite que os usuários localizem gargalos no sistema e testem hipóteses de desempenho sem a necessidade de múltiplas execuções de experimentos \cite{brown_2003}.
 
-Com relação às capacidades diagnósticas, os diferentes níveis de instrumentação viabilizam diferentes classes de investigações diagnósticas. A capacidade diagnóstica de uma abordagem de instrumentação depende tanto dos tipos de eventos que ela pode observar quanto da riqueza semântica dos dados capturados.
+\subsection{Capacidades Diagnósticas e Localização de Causa Raiz}
+
+Os diferentes níveis de instrumentação viabilizam diferentes classes de investigações diagnósticas. A capacidade diagnóstica de uma abordagem depende tanto dos tipos de eventos observados quanto da riqueza semântica dos dados capturados.
 
 A instrumentação em nível de kernel se destaca no diagnóstico de problemas de desempenho sistêmicos. Cantrill et al. relatam que o DTrace encontrou sérios problemas de desempenho sistêmico em sistemas de produção que não podiam ser encontrados usando recursos pré-existentes \cite{cantrill_2004}. Os mecanismos de agregação escaláveis e as capacidades de rastreamento especulativo do framework eliminam a necessidade da maior parte do pós-processamento, permitindo o diagnóstico em tempo real. O trabalho posterior de Cantrill descreve um caso em que um multiprocessador simétrico de 64 processadores exibiu misteriosos períodos de atividade do kernel que duravam minutos e faziam com que o desempenho dos benchmarks caísse drasticamente \cite{cantrill_2006}. Melhorias na observabilidade ao nível do kernel mostraram-se essenciais para diagnosticar tais problemas ocultos de desempenho.
 
@@ -258,7 +262,7 @@ A instrumentação adaptativa aprimora a capacidade diagnóstica ao direcionar-s
 
 A granularidade dos dados de instrumentação — desde resumos de grão grosso (\textit{coarse-grained}) até rastreamentos de eventos de grão fino (\textit{fine-grained}) — impacta significativamente tanto a eficácia da observabilidade quanto a sobrecarga (\textit{overhead}) do sistema. As estratégias de agregação determinam como os dados brutos de instrumentação são processados e apresentados.
 
-\cite{haghshenas_2023} define camadas de instrumentação grossa e fina dentro de um framework consciente dos custos, quantificando seu efeito na profundidade de visibilidade e na latência. Cada camada está vinculada a impactos mensuráveis de desempenho e recursos, fornecendo uma abordagem sistemática para equilibrar os custos de instrumentação com insights de desempenho. Essa abordagem em camadas reconhece que diferentes cenários de diagnóstico exigem diferentes níveis de granularidade.
+Haghshenas et al. \cite{haghshenas_2023} definem camadas de instrumentação grossa e fina dentro de um framework consciente dos custos, quantificando seu efeito na profundidade de visibilidade e na latência. Cada camada está vinculada a impactos mensuráveis de desempenho e recursos, fornecendo uma abordagem sistemática para equilibrar os custos de instrumentação com insights de desempenho. Essa abordagem em camadas reconhece que diferentes cenários de diagnóstico exigem diferentes níveis de granularidade.
 
 O mecanismo escalável do DTrace para agregação de dados aborda o desafio de gerenciar o alto volume de saída da instrumentação \cite{cantrill_2004}. Ao realizar a agregação na origem, em vez de exigir um pós-processamento extensivo, o DTrace reduz o \textit{overhead} associado à instrumentação de grão fino. Essa escolha de projeto permite que o framework suporte dezenas de milhares de pontos de instrumentação sem sobrecarregar o sistema com o volume de dados.
 
@@ -387,24 +391,21 @@ A literatura revela uma evolução clara da instrumentação estática e sempre 
 
 As direções de pesquisas futuras incluem instrumentação adaptativa aprimorada por aprendizado de máquina, técnicas de correlação entre camadas, instrumentação para arquiteturas emergentes, esforços de padronização, verificação formal da segurança da instrumentação e estratégias de instrumentação conscientes do consumo de energia. À medida que os sistemas continuam a crescer em complexidade e escala, técnicas sofisticadas de instrumentação continuarão essenciais para manter a observabilidade enquanto preservam o desempenho.
 
-A tensão fundamental entre a observabilidade e o overhead de desempenho não pode ser eliminada, mas as técnicas mapeadas nesta revisão demonstram que ela pode ser gerenciada de forma eficaz. Ao selecionar os níveis de instrumentação apropriados, empregar a ativação dinâmica e adotar estratégias adaptativas, as organizações podem alcançar uma observabilidade abrangente com um impacto de desempenho aceitável — variando tipicamente de um overhead quase zero para instrumentação seletiva a custos gerenciáveis para monitoramento de grão fino. O avanço contínuo das técnicas de instrumentação será crítico para garantir a confiabilidade, o desempenho e a segurança dos sistemas de computação do futuro. \\
+A tensão fundamental entre a observabilidade e o overhead de desempenho não pode ser eliminada, mas as técnicas mapeadas nesta revisão demonstram que ela pode ser gerenciada de forma eficaz. Ao selecionar os níveis de instrumentação apropriados, empregar a ativação dinâmica e adotar estratégias adaptativas, as organizações podem alcançar uma observabilidade abrangente com um impacto de desempenho aceitável — variando tipicamente de um overhead quase zero para instrumentação seletiva a custos gerenciáveis para monitoramento de grão fino. O avanço contínuo das técnicas de instrumentação será crítico para garantir a confiabilidade, o desempenho e a segurança dos sistemas de computação do futuro.
 
-\textbf{Uso de Ferramentas de IA} \
-Modelos de Linguagem de Grande Porte (LLMs) e ferramentas assistidas por IA, especialmente Gemini e Grammarly, foram utilizados exclusivamente para edições linguísticas menores e polimento de texto sob a supervisão direta dos autores. As imagens utilizadas neste artigo foram geradas por Gemini AI. A IA não gerou nenhuma parte do design da pesquisa, interpretação ou raciocínio científico. Os autores assumem total responsabilidade pelo conteúdo e conclusões deste manuscrito, e todo o trabalho conceitual e analítico foi conduzido inteiramente por autores humanos.
-
-\section{Declarações}
+\section*{Declarações e Integridade Científica}
 \label{sec:declarations}
 
-\textbf{Financiamento}: Não aplicável. \\
-\textbf{Conflitos de Interesse}: Não aplicável. \\
-\textbf{Aprovação Ética e Consentimento para Participação}: Não aplicável, visto que este estudo não envolve participantes humanos ou animais. \\
-\textbf{Consentimento para Publicação}: Não aplicável. \\
-\textbf{Disponibilidade de Dados}: Não aplicável, uma vez que nenhum dado externo foi gerado nesta fase deste estudo. \\
-\textbf{Disponibilidade de Materiais}: Não aplicável. \\
-\textbf{Contribuição dos Autores}: O Autor 1 conduziu a concepção do estudo, busca, triagem e síntese. O Autor 2 orientou a metodologia e realizou a revisão crítica do texto. O Autor 3 supervisionou o estudo e contribuiu para a consolidação das seções de discussão e conclusão. Todos os autores leram, revisaram e aprovaram a versão final do manuscrito.
+\textbf{Uso de Ferramentas de IA:} Modelos de Linguagem de Grande Porte (LLMs) e ferramentas assistidas por IA (Google Gemini e Grammarly) foram utilizados exclusivamente para edições linguísticas menores, polimento de texto e geração do diagrama hierárquico conceitual (Figura~\ref{fig:niveis_hierarchy}), sob supervisão direta e curadoria dos autores. A IA não gerou nenhuma parte do protocolo de pesquisa, formulação metodológica, triagem empírica ou interpretação científica dos dados. Os autores assumem total responsabilidade pelo conteúdo e conclusões deste manuscrito. \\
+
+\textbf{Financiamento:} O presente trabalho não contou com financiamento externo específico. \\
+\textbf{Conflitos de Interesse:} Os autores declaram não haver conflitos de interesse de natureza financeira ou acadêmica. \\
+\textbf{Aprovação Ética e Consentimento:} Não aplicável, visto que este estudo não envolveu participantes humanos ou experimentação animal. \\
+\textbf{Disponibilidade de Dados e Materiais:} Todos os dados bibliográficos brutos, logs de triagem e a matriz de extração que fundamentam este estudo estão disponíveis publicamente no pacote de replicação, conforme detalhado na seção subsequente. \\
+\textbf{Contribuição dos Autores:} O Autor 1 conduziu a concepção do estudo, busca, triagem e síntese. O Autor 2 orientou a metodologia e realizou a validação cruzada do texto. O Autor 3 supervisionou o estudo e contribuiu para a consolidação das seções de discussão e conclusão. Todos os autores leram, revisaram e aprovaram a versão final do manuscrito.
 
 \section*{Disponibilidade de Artefatos}
-Para garantir a reprodutibilidade, auditabilidade e transparência desta Revisão Rápida, o pacote de replicação completo contendo o protocolo do Parsifal, a string de busca adaptada por base, a lista dos $N = 348$ registros recuperados, os critérios de inclusão/exclusão aplicados individualmente em cada etapa e a matriz de extração de dados contendo os $N = 19$ estudos primários foi disponibilizado publicamente no \href{https://github.com/fagnerffcs/instrumentation-levels-observability-paper}{repositório no GitHub}.
+Para garantir a reprodutibilidade, auditabilidade e transparência desta Revisão Rápida, o pacote de replicação completo contendo o protocolo do Parsifal, a \textit{string} de busca adaptada por base, a lista dos $N = 348$ registros recuperados com seus resumos, os critérios de inclusão/exclusão aplicados individualmente em cada etapa e a matriz de extração de dados contendo os $N = 19$ estudos primários foi disponibilizado publicamente no \href{https://github.com/fagnerffcs/instrumentation-levels-observability-paper}{repositório no GitHub}.
 
 \bibliographystyle{ACM-Reference-Format}
 \bibliography{sample-base}
