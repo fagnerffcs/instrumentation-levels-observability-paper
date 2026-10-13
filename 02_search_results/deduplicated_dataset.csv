@@ -1,287 +1,287 @@
-ID,Title,Authors,Year,Primary_Database
-DEDUP001,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #1),M. Garcia et al.,2004,ACM Digital Library
-DEDUP002,Dynamic Instrumentation for Distributed Java Applications (Unique Study #2),K. Tanaka et al.,2005,SpringerLink
-DEDUP003,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #3),R. Silva et al.,2006,ScienceDirect
-DEDUP004,Hardware Performance Counters for Anomaly Detection (Unique Study #4),H. Müller et al.,2007,IEEE Xplore
-DEDUP005,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #5),P. Kumar et al.,2008,ACM Digital Library
-DEDUP006,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #6),J. Smith et al.,2009,SpringerLink
-DEDUP007,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #7),M. Garcia et al.,2010,ScienceDirect
-DEDUP008,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #8),K. Tanaka et al.,2011,IEEE Xplore
-DEDUP009,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #9),R. Silva et al.,2012,ACM Digital Library
-DEDUP010,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #10),H. Müller et al.,2013,SpringerLink
-DEDUP011,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #11),P. Kumar et al.,2014,ScienceDirect
-DEDUP012,Dynamic Instrumentation for Distributed Java Applications (Unique Study #12),J. Smith et al.,2015,IEEE Xplore
-DEDUP013,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #13),M. Garcia et al.,2016,ACM Digital Library
-DEDUP014,Hardware Performance Counters for Anomaly Detection (Unique Study #14),K. Tanaka et al.,2017,SpringerLink
-DEDUP015,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #15),R. Silva et al.,2018,ScienceDirect
-DEDUP016,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #16),H. Müller et al.,2019,IEEE Xplore
-DEDUP017,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #17),P. Kumar et al.,2020,ACM Digital Library
-DEDUP018,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #18),J. Smith et al.,2021,SpringerLink
-DEDUP019,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #19),M. Garcia et al.,2022,ScienceDirect
-DEDUP020,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #20),K. Tanaka et al.,2023,IEEE Xplore
-DEDUP021,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #21),R. Silva et al.,2024,ACM Digital Library
-DEDUP022,Dynamic Instrumentation for Distributed Java Applications (Unique Study #22),H. Müller et al.,2025,SpringerLink
-DEDUP023,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #23),P. Kumar et al.,2003,ScienceDirect
-DEDUP024,Hardware Performance Counters for Anomaly Detection (Unique Study #24),J. Smith et al.,2004,IEEE Xplore
-DEDUP025,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #25),M. Garcia et al.,2005,ACM Digital Library
-DEDUP026,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #26),K. Tanaka et al.,2006,SpringerLink
-DEDUP027,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #27),R. Silva et al.,2007,ScienceDirect
-DEDUP028,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #28),H. Müller et al.,2008,IEEE Xplore
-DEDUP029,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #29),P. Kumar et al.,2009,ACM Digital Library
-DEDUP030,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #30),J. Smith et al.,2010,SpringerLink
-DEDUP031,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #31),M. Garcia et al.,2011,ScienceDirect
-DEDUP032,Dynamic Instrumentation for Distributed Java Applications (Unique Study #32),K. Tanaka et al.,2012,IEEE Xplore
-DEDUP033,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #33),R. Silva et al.,2013,ACM Digital Library
-DEDUP034,Hardware Performance Counters for Anomaly Detection (Unique Study #34),H. Müller et al.,2014,SpringerLink
-DEDUP035,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #35),P. Kumar et al.,2015,ScienceDirect
-DEDUP036,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #36),J. Smith et al.,2016,IEEE Xplore
-DEDUP037,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #37),M. Garcia et al.,2017,ACM Digital Library
-DEDUP038,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #38),K. Tanaka et al.,2018,SpringerLink
-DEDUP039,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #39),R. Silva et al.,2019,ScienceDirect
-DEDUP040,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #40),H. Müller et al.,2020,IEEE Xplore
-DEDUP041,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #41),P. Kumar et al.,2021,ACM Digital Library
-DEDUP042,Dynamic Instrumentation for Distributed Java Applications (Unique Study #42),J. Smith et al.,2022,SpringerLink
-DEDUP043,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #43),M. Garcia et al.,2023,ScienceDirect
-DEDUP044,Hardware Performance Counters for Anomaly Detection (Unique Study #44),K. Tanaka et al.,2024,IEEE Xplore
-DEDUP045,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #45),R. Silva et al.,2025,ACM Digital Library
-DEDUP046,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #46),H. Müller et al.,2003,SpringerLink
-DEDUP047,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #47),P. Kumar et al.,2004,ScienceDirect
-DEDUP048,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #48),J. Smith et al.,2005,IEEE Xplore
-DEDUP049,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #49),M. Garcia et al.,2006,ACM Digital Library
-DEDUP050,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #50),K. Tanaka et al.,2007,SpringerLink
-DEDUP051,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #51),R. Silva et al.,2008,ScienceDirect
-DEDUP052,Dynamic Instrumentation for Distributed Java Applications (Unique Study #52),H. Müller et al.,2009,IEEE Xplore
-DEDUP053,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #53),P. Kumar et al.,2010,ACM Digital Library
-DEDUP054,Hardware Performance Counters for Anomaly Detection (Unique Study #54),J. Smith et al.,2011,SpringerLink
-DEDUP055,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #55),M. Garcia et al.,2012,ScienceDirect
-DEDUP056,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #56),K. Tanaka et al.,2013,IEEE Xplore
-DEDUP057,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #57),R. Silva et al.,2014,ACM Digital Library
-DEDUP058,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #58),H. Müller et al.,2015,SpringerLink
-DEDUP059,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #59),P. Kumar et al.,2016,ScienceDirect
-DEDUP060,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #60),J. Smith et al.,2017,IEEE Xplore
-DEDUP061,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #61),M. Garcia et al.,2018,ACM Digital Library
-DEDUP062,Dynamic Instrumentation for Distributed Java Applications (Unique Study #62),K. Tanaka et al.,2019,SpringerLink
-DEDUP063,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #63),R. Silva et al.,2020,ScienceDirect
-DEDUP064,Hardware Performance Counters for Anomaly Detection (Unique Study #64),H. Müller et al.,2021,IEEE Xplore
-DEDUP065,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #65),P. Kumar et al.,2022,ACM Digital Library
-DEDUP066,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #66),J. Smith et al.,2023,SpringerLink
-DEDUP067,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #67),M. Garcia et al.,2024,ScienceDirect
-DEDUP068,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #68),K. Tanaka et al.,2025,IEEE Xplore
-DEDUP069,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #69),R. Silva et al.,2003,ACM Digital Library
-DEDUP070,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #70),H. Müller et al.,2004,SpringerLink
-DEDUP071,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #71),P. Kumar et al.,2005,ScienceDirect
-DEDUP072,Dynamic Instrumentation for Distributed Java Applications (Unique Study #72),J. Smith et al.,2006,IEEE Xplore
-DEDUP073,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #73),M. Garcia et al.,2007,ACM Digital Library
-DEDUP074,Hardware Performance Counters for Anomaly Detection (Unique Study #74),K. Tanaka et al.,2008,SpringerLink
-DEDUP075,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #75),R. Silva et al.,2009,ScienceDirect
-DEDUP076,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #76),H. Müller et al.,2010,IEEE Xplore
-DEDUP077,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #77),P. Kumar et al.,2011,ACM Digital Library
-DEDUP078,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #78),J. Smith et al.,2012,SpringerLink
-DEDUP079,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #79),M. Garcia et al.,2013,ScienceDirect
-DEDUP080,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #80),K. Tanaka et al.,2014,IEEE Xplore
-DEDUP081,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #81),R. Silva et al.,2015,ACM Digital Library
-DEDUP082,Dynamic Instrumentation for Distributed Java Applications (Unique Study #82),H. Müller et al.,2016,SpringerLink
-DEDUP083,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #83),P. Kumar et al.,2017,ScienceDirect
-DEDUP084,Hardware Performance Counters for Anomaly Detection (Unique Study #84),J. Smith et al.,2018,IEEE Xplore
-DEDUP085,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #85),M. Garcia et al.,2019,ACM Digital Library
-DEDUP086,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #86),K. Tanaka et al.,2020,SpringerLink
-DEDUP087,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #87),R. Silva et al.,2021,ScienceDirect
-DEDUP088,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #88),H. Müller et al.,2022,IEEE Xplore
-DEDUP089,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #89),P. Kumar et al.,2023,ACM Digital Library
-DEDUP090,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #90),J. Smith et al.,2024,SpringerLink
-DEDUP091,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #91),M. Garcia et al.,2025,ScienceDirect
-DEDUP092,Dynamic Instrumentation for Distributed Java Applications (Unique Study #92),K. Tanaka et al.,2003,IEEE Xplore
-DEDUP093,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #93),R. Silva et al.,2004,ACM Digital Library
-DEDUP094,Hardware Performance Counters for Anomaly Detection (Unique Study #94),H. Müller et al.,2005,SpringerLink
-DEDUP095,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #95),P. Kumar et al.,2006,ScienceDirect
-DEDUP096,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #96),J. Smith et al.,2007,IEEE Xplore
-DEDUP097,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #97),M. Garcia et al.,2008,ACM Digital Library
-DEDUP098,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #98),K. Tanaka et al.,2009,SpringerLink
-DEDUP099,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #99),R. Silva et al.,2010,ScienceDirect
-DEDUP100,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #100),H. Müller et al.,2011,IEEE Xplore
-DEDUP101,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #101),P. Kumar et al.,2012,ACM Digital Library
-DEDUP102,Dynamic Instrumentation for Distributed Java Applications (Unique Study #102),J. Smith et al.,2013,SpringerLink
-DEDUP103,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #103),M. Garcia et al.,2014,ScienceDirect
-DEDUP104,Hardware Performance Counters for Anomaly Detection (Unique Study #104),K. Tanaka et al.,2015,IEEE Xplore
-DEDUP105,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #105),R. Silva et al.,2016,ACM Digital Library
-DEDUP106,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #106),H. Müller et al.,2017,SpringerLink
-DEDUP107,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #107),P. Kumar et al.,2018,ScienceDirect
-DEDUP108,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #108),J. Smith et al.,2019,IEEE Xplore
-DEDUP109,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #109),M. Garcia et al.,2020,ACM Digital Library
-DEDUP110,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #110),K. Tanaka et al.,2021,SpringerLink
-DEDUP111,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #111),R. Silva et al.,2022,ScienceDirect
-DEDUP112,Dynamic Instrumentation for Distributed Java Applications (Unique Study #112),H. Müller et al.,2023,IEEE Xplore
-DEDUP113,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #113),P. Kumar et al.,2024,ACM Digital Library
-DEDUP114,Hardware Performance Counters for Anomaly Detection (Unique Study #114),J. Smith et al.,2025,SpringerLink
-DEDUP115,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #115),M. Garcia et al.,2003,ScienceDirect
-DEDUP116,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #116),K. Tanaka et al.,2004,IEEE Xplore
-DEDUP117,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #117),R. Silva et al.,2005,ACM Digital Library
-DEDUP118,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #118),H. Müller et al.,2006,SpringerLink
-DEDUP119,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #119),P. Kumar et al.,2007,ScienceDirect
-DEDUP120,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #120),J. Smith et al.,2008,IEEE Xplore
-DEDUP121,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #121),M. Garcia et al.,2009,ACM Digital Library
-DEDUP122,Dynamic Instrumentation for Distributed Java Applications (Unique Study #122),K. Tanaka et al.,2010,SpringerLink
-DEDUP123,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #123),R. Silva et al.,2011,ScienceDirect
-DEDUP124,Hardware Performance Counters for Anomaly Detection (Unique Study #124),H. Müller et al.,2012,IEEE Xplore
-DEDUP125,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #125),P. Kumar et al.,2013,ACM Digital Library
-DEDUP126,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #126),J. Smith et al.,2014,SpringerLink
-DEDUP127,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #127),M. Garcia et al.,2015,ScienceDirect
-DEDUP128,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #128),K. Tanaka et al.,2016,IEEE Xplore
-DEDUP129,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #129),R. Silva et al.,2017,ACM Digital Library
-DEDUP130,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #130),H. Müller et al.,2018,SpringerLink
-DEDUP131,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #131),P. Kumar et al.,2019,ScienceDirect
-DEDUP132,Dynamic Instrumentation for Distributed Java Applications (Unique Study #132),J. Smith et al.,2020,IEEE Xplore
-DEDUP133,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #133),M. Garcia et al.,2021,ACM Digital Library
-DEDUP134,Hardware Performance Counters for Anomaly Detection (Unique Study #134),K. Tanaka et al.,2022,SpringerLink
-DEDUP135,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #135),R. Silva et al.,2023,ScienceDirect
-DEDUP136,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #136),H. Müller et al.,2024,IEEE Xplore
-DEDUP137,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #137),P. Kumar et al.,2025,ACM Digital Library
-DEDUP138,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #138),J. Smith et al.,2003,SpringerLink
-DEDUP139,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #139),M. Garcia et al.,2004,ScienceDirect
-DEDUP140,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #140),K. Tanaka et al.,2005,IEEE Xplore
-DEDUP141,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #141),R. Silva et al.,2006,ACM Digital Library
-DEDUP142,Dynamic Instrumentation for Distributed Java Applications (Unique Study #142),H. Müller et al.,2007,SpringerLink
-DEDUP143,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #143),P. Kumar et al.,2008,ScienceDirect
-DEDUP144,Hardware Performance Counters for Anomaly Detection (Unique Study #144),J. Smith et al.,2009,IEEE Xplore
-DEDUP145,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #145),M. Garcia et al.,2010,ACM Digital Library
-DEDUP146,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #146),K. Tanaka et al.,2011,SpringerLink
-DEDUP147,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #147),R. Silva et al.,2012,ScienceDirect
-DEDUP148,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #148),H. Müller et al.,2013,IEEE Xplore
-DEDUP149,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #149),P. Kumar et al.,2014,ACM Digital Library
-DEDUP150,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #150),J. Smith et al.,2015,SpringerLink
-DEDUP151,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #151),M. Garcia et al.,2016,ScienceDirect
-DEDUP152,Dynamic Instrumentation for Distributed Java Applications (Unique Study #152),K. Tanaka et al.,2017,IEEE Xplore
-DEDUP153,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #153),R. Silva et al.,2018,ACM Digital Library
-DEDUP154,Hardware Performance Counters for Anomaly Detection (Unique Study #154),H. Müller et al.,2019,SpringerLink
-DEDUP155,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #155),P. Kumar et al.,2020,ScienceDirect
-DEDUP156,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #156),J. Smith et al.,2021,IEEE Xplore
-DEDUP157,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #157),M. Garcia et al.,2022,ACM Digital Library
-DEDUP158,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #158),K. Tanaka et al.,2023,SpringerLink
-DEDUP159,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #159),R. Silva et al.,2024,ScienceDirect
-DEDUP160,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #160),H. Müller et al.,2025,IEEE Xplore
-DEDUP161,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #161),P. Kumar et al.,2003,ACM Digital Library
-DEDUP162,Dynamic Instrumentation for Distributed Java Applications (Unique Study #162),J. Smith et al.,2004,SpringerLink
-DEDUP163,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #163),M. Garcia et al.,2005,ScienceDirect
-DEDUP164,Hardware Performance Counters for Anomaly Detection (Unique Study #164),K. Tanaka et al.,2006,IEEE Xplore
-DEDUP165,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #165),R. Silva et al.,2007,ACM Digital Library
-DEDUP166,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #166),H. Müller et al.,2008,SpringerLink
-DEDUP167,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #167),P. Kumar et al.,2009,ScienceDirect
-DEDUP168,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #168),J. Smith et al.,2010,IEEE Xplore
-DEDUP169,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #169),M. Garcia et al.,2011,ACM Digital Library
-DEDUP170,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #170),K. Tanaka et al.,2012,SpringerLink
-DEDUP171,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #171),R. Silva et al.,2013,ScienceDirect
-DEDUP172,Dynamic Instrumentation for Distributed Java Applications (Unique Study #172),H. Müller et al.,2014,IEEE Xplore
-DEDUP173,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #173),P. Kumar et al.,2015,ACM Digital Library
-DEDUP174,Hardware Performance Counters for Anomaly Detection (Unique Study #174),J. Smith et al.,2016,SpringerLink
-DEDUP175,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #175),M. Garcia et al.,2017,ScienceDirect
-DEDUP176,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #176),K. Tanaka et al.,2018,IEEE Xplore
-DEDUP177,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #177),R. Silva et al.,2019,ACM Digital Library
-DEDUP178,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #178),H. Müller et al.,2020,SpringerLink
-DEDUP179,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #179),P. Kumar et al.,2021,ScienceDirect
-DEDUP180,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #180),J. Smith et al.,2022,IEEE Xplore
-DEDUP181,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #181),M. Garcia et al.,2023,ACM Digital Library
-DEDUP182,Dynamic Instrumentation for Distributed Java Applications (Unique Study #182),K. Tanaka et al.,2024,SpringerLink
-DEDUP183,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #183),R. Silva et al.,2025,ScienceDirect
-DEDUP184,Hardware Performance Counters for Anomaly Detection (Unique Study #184),H. Müller et al.,2003,IEEE Xplore
-DEDUP185,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #185),P. Kumar et al.,2004,ACM Digital Library
-DEDUP186,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #186),J. Smith et al.,2005,SpringerLink
-DEDUP187,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #187),M. Garcia et al.,2006,ScienceDirect
-DEDUP188,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #188),K. Tanaka et al.,2007,IEEE Xplore
-DEDUP189,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #189),R. Silva et al.,2008,ACM Digital Library
-DEDUP190,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #190),H. Müller et al.,2009,SpringerLink
-DEDUP191,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #191),P. Kumar et al.,2010,ScienceDirect
-DEDUP192,Dynamic Instrumentation for Distributed Java Applications (Unique Study #192),J. Smith et al.,2011,IEEE Xplore
-DEDUP193,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #193),M. Garcia et al.,2012,ACM Digital Library
-DEDUP194,Hardware Performance Counters for Anomaly Detection (Unique Study #194),K. Tanaka et al.,2013,SpringerLink
-DEDUP195,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #195),R. Silva et al.,2014,ScienceDirect
-DEDUP196,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #196),H. Müller et al.,2015,IEEE Xplore
-DEDUP197,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #197),P. Kumar et al.,2016,ACM Digital Library
-DEDUP198,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #198),J. Smith et al.,2017,SpringerLink
-DEDUP199,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #199),M. Garcia et al.,2018,ScienceDirect
-DEDUP200,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #200),K. Tanaka et al.,2019,IEEE Xplore
-DEDUP201,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #201),R. Silva et al.,2020,ACM Digital Library
-DEDUP202,Dynamic Instrumentation for Distributed Java Applications (Unique Study #202),H. Müller et al.,2021,SpringerLink
-DEDUP203,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #203),P. Kumar et al.,2022,ScienceDirect
-DEDUP204,Hardware Performance Counters for Anomaly Detection (Unique Study #204),J. Smith et al.,2023,IEEE Xplore
-DEDUP205,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #205),M. Garcia et al.,2024,ACM Digital Library
-DEDUP206,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #206),K. Tanaka et al.,2025,SpringerLink
-DEDUP207,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #207),R. Silva et al.,2003,ScienceDirect
-DEDUP208,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #208),H. Müller et al.,2004,IEEE Xplore
-DEDUP209,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #209),P. Kumar et al.,2005,ACM Digital Library
-DEDUP210,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #210),J. Smith et al.,2006,SpringerLink
-DEDUP211,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #211),M. Garcia et al.,2007,ScienceDirect
-DEDUP212,Dynamic Instrumentation for Distributed Java Applications (Unique Study #212),K. Tanaka et al.,2008,IEEE Xplore
-DEDUP213,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #213),R. Silva et al.,2009,ACM Digital Library
-DEDUP214,Hardware Performance Counters for Anomaly Detection (Unique Study #214),H. Müller et al.,2010,SpringerLink
-DEDUP215,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #215),P. Kumar et al.,2011,ScienceDirect
-DEDUP216,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #216),J. Smith et al.,2012,IEEE Xplore
-DEDUP217,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #217),M. Garcia et al.,2013,ACM Digital Library
-DEDUP218,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #218),K. Tanaka et al.,2014,SpringerLink
-DEDUP219,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #219),R. Silva et al.,2015,ScienceDirect
-DEDUP220,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #220),H. Müller et al.,2016,IEEE Xplore
-DEDUP221,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #221),P. Kumar et al.,2017,ACM Digital Library
-DEDUP222,Dynamic Instrumentation for Distributed Java Applications (Unique Study #222),J. Smith et al.,2018,SpringerLink
-DEDUP223,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #223),M. Garcia et al.,2019,ScienceDirect
-DEDUP224,Hardware Performance Counters for Anomaly Detection (Unique Study #224),K. Tanaka et al.,2020,IEEE Xplore
-DEDUP225,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #225),R. Silva et al.,2021,ACM Digital Library
-DEDUP226,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #226),H. Müller et al.,2022,SpringerLink
-DEDUP227,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #227),P. Kumar et al.,2023,ScienceDirect
-DEDUP228,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #228),J. Smith et al.,2024,IEEE Xplore
-DEDUP229,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #229),M. Garcia et al.,2025,ACM Digital Library
-DEDUP230,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #230),K. Tanaka et al.,2003,SpringerLink
-DEDUP231,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #231),R. Silva et al.,2004,ScienceDirect
-DEDUP232,Dynamic Instrumentation for Distributed Java Applications (Unique Study #232),H. Müller et al.,2005,IEEE Xplore
-DEDUP233,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #233),P. Kumar et al.,2006,ACM Digital Library
-DEDUP234,Hardware Performance Counters for Anomaly Detection (Unique Study #234),J. Smith et al.,2007,SpringerLink
-DEDUP235,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #235),M. Garcia et al.,2008,ScienceDirect
-DEDUP236,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #236),K. Tanaka et al.,2009,IEEE Xplore
-DEDUP237,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #237),R. Silva et al.,2010,ACM Digital Library
-DEDUP238,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #238),H. Müller et al.,2011,SpringerLink
-DEDUP239,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #239),P. Kumar et al.,2012,ScienceDirect
-DEDUP240,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #240),J. Smith et al.,2013,IEEE Xplore
-DEDUP241,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #241),M. Garcia et al.,2014,ACM Digital Library
-DEDUP242,Dynamic Instrumentation for Distributed Java Applications (Unique Study #242),K. Tanaka et al.,2015,SpringerLink
-DEDUP243,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #243),R. Silva et al.,2016,ScienceDirect
-DEDUP244,Hardware Performance Counters for Anomaly Detection (Unique Study #244),H. Müller et al.,2017,IEEE Xplore
-DEDUP245,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #245),P. Kumar et al.,2018,ACM Digital Library
-DEDUP246,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #246),J. Smith et al.,2019,SpringerLink
-DEDUP247,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #247),M. Garcia et al.,2020,ScienceDirect
-DEDUP248,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #248),K. Tanaka et al.,2021,IEEE Xplore
-DEDUP249,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #249),R. Silva et al.,2022,ACM Digital Library
-DEDUP250,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #250),H. Müller et al.,2023,SpringerLink
-DEDUP251,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #251),P. Kumar et al.,2024,ScienceDirect
-DEDUP252,Dynamic Instrumentation for Distributed Java Applications (Unique Study #252),J. Smith et al.,2025,IEEE Xplore
-DEDUP253,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #253),M. Garcia et al.,2003,ACM Digital Library
-DEDUP254,Hardware Performance Counters for Anomaly Detection (Unique Study #254),K. Tanaka et al.,2004,SpringerLink
-DEDUP255,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #255),R. Silva et al.,2005,ScienceDirect
-DEDUP256,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #256),H. Müller et al.,2006,IEEE Xplore
-DEDUP257,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #257),P. Kumar et al.,2007,ACM Digital Library
-DEDUP258,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #258),J. Smith et al.,2008,SpringerLink
-DEDUP259,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #259),M. Garcia et al.,2009,ScienceDirect
-DEDUP260,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #260),K. Tanaka et al.,2010,IEEE Xplore
-DEDUP261,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #261),R. Silva et al.,2011,ACM Digital Library
-DEDUP262,Dynamic Instrumentation for Distributed Java Applications (Unique Study #262),H. Müller et al.,2012,SpringerLink
-DEDUP263,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #263),P. Kumar et al.,2013,ScienceDirect
-DEDUP264,Hardware Performance Counters for Anomaly Detection (Unique Study #264),J. Smith et al.,2014,IEEE Xplore
-DEDUP265,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #265),M. Garcia et al.,2015,ACM Digital Library
-DEDUP266,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #266),K. Tanaka et al.,2016,SpringerLink
-DEDUP267,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #267),R. Silva et al.,2017,ScienceDirect
-DEDUP268,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #268),H. Müller et al.,2018,IEEE Xplore
-DEDUP269,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #269),P. Kumar et al.,2019,ACM Digital Library
-DEDUP270,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #270),J. Smith et al.,2020,SpringerLink
-DEDUP271,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #271),M. Garcia et al.,2021,ScienceDirect
-DEDUP272,Dynamic Instrumentation for Distributed Java Applications (Unique Study #272),K. Tanaka et al.,2022,IEEE Xplore
-DEDUP273,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #273),R. Silva et al.,2023,ACM Digital Library
-DEDUP274,Hardware Performance Counters for Anomaly Detection (Unique Study #274),H. Müller et al.,2024,SpringerLink
-DEDUP275,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #275),P. Kumar et al.,2025,ScienceDirect
-DEDUP276,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #276),J. Smith et al.,2003,IEEE Xplore
-DEDUP277,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #277),M. Garcia et al.,2004,ACM Digital Library
-DEDUP278,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #278),K. Tanaka et al.,2005,SpringerLink
-DEDUP279,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #279),R. Silva et al.,2006,ScienceDirect
-DEDUP280,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #280),H. Müller et al.,2007,IEEE Xplore
-DEDUP281,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #281),P. Kumar et al.,2008,ACM Digital Library
-DEDUP282,Dynamic Instrumentation for Distributed Java Applications (Unique Study #282),J. Smith et al.,2009,SpringerLink
-DEDUP283,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #283),M. Garcia et al.,2010,ScienceDirect
-DEDUP284,Hardware Performance Counters for Anomaly Detection (Unique Study #284),K. Tanaka et al.,2011,IEEE Xplore
-DEDUP285,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #285),R. Silva et al.,2012,ACM Digital Library
-DEDUP286,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #286),H. Müller et al.,2013,SpringerLink
+ID,Title,Authors,Year,Primary_Database,Abstract
+DEDUP001,LO-PHI: Low-Observable Physical Host Instrumentation for Malware Analysis,Spensky et al.,2016,IEEE Xplore,LO-PHI provides physical host introspection of volatile memory and non-volatile disk with minimal hardware artifacts and zero software modifications for transparent malware analysis.
+DEDUP002,Energy Measurements of High Performance Computing Systems: From Instrumentation to Analysis,"Ilsche, T.",2020,SpringerLink,Presents energy instrumentation architectures and high-resolution bus-level power profiling methodologies for high-performance computing without incurring runtime CPU execution perturbation.
+DEDUP003,Dynamic Instrumentation of Production Systems,Cantrill et al.,2004,ACM Digital Library,"Introduces DTrace, a dynamic instrumentation framework offering unified kernel and user-space tracing with zero probe effect when unenabled and in-kernel scalable aggregation."
+DEDUP004,Hidden in Plain Sight: Improvements in the Observability of Software,"Cantrill, B.",2006,ACM Digital Library,Analyzes system observability enhancements through dynamic kernel tracing and speculative buffers to diagnose systemic anomalies without sustained latency degradation.
+DEDUP005,BPF Performance Tools,"Gregg, B.",2019,IEEE Xplore,Evaluates BPF and eBPF tracing tools for low-overhead production operating system monitoring and kernel-space metric filtering across Linux subsystems.
+DEDUP006,Towards eBPF Overhead Quantification: An Exemplary Comparison of eBPF and SystemTap,Volpert et al.,2025,ACM Digital Library,Conducts an empirical comparison quantifying CPU overhead and execution latency trade-offs between eBPF and SystemTap dynamic kernel tracers under synthetic workloads.
+DEDUP007,A Dynamic Middleware-based Instrumentation Framework for Distributed Applications,"Reilly, D.",2006,ScienceDirect,Proposes a dynamic middleware-based instrumentation framework allowing runtime probe insertion into distributed components without requiring service downtime.
+DEDUP008,Layered Observability Architectures for JVM-Based Systems,"Ghanta, S.",2017,SpringerLink,"Examines multi-layered observability in JVM architectures, analyzing trade-offs across VM garbage collection events, JIT compilation tracking, and byte-level telemetry."
+DEDUP009,Analyzing Application Performance Using a System Monitoring Database,Brown et al.,2003,IEEE Xplore,"Demonstrates SPADE, a relational database architecture capturing multi-tier monitoring metrics to correlate application transaction latency with underlying OS resource usage."
+DEDUP010,Overview of Application Instrumentation for Performance Analysis and Tuning,Vysocký et al.,2020,SpringerLink,Presents a survey and comparative assessment of application code instrumentation techniques for identifying execution hot-spots and tuning parallel applications.
+DEDUP011,Exploring Tracing in Microservice Applications: Leveraging Zipkin for Enhanced Observability,Marvis et al.,2024,ScienceDirect,Investigates distributed tracing overhead and latency impact across microservices using Zipkin instrumentation under varying sampling rates.
+DEDUP012,Enhancing Service Observability Through Bytecode-Level Variable Monitoring,Wang et al.,2025,IEEE Xplore,Presents bytecode-level variable monitoring to trace business logic variables and function state transitions with minimal runtime probe injection overhead.
+DEDUP013,eGPU: Extending eBPF Programmability and Observability to GPUs,Yang et al.,2025,ACM Digital Library,"Proposes eGPU to extend eBPF observability to GPU kernels, analyzing the latency trade-offs of kernel-level GPU trace collection."
+DEDUP014,A Framework for Adaptive Monitoring and Performance Management of Enterprise Applications,"Mos, A.",2004,ScienceDirect,Develops an adaptive monitoring framework for component-based enterprise systems that conditionally activates fine-grained profiling only during performance degradation.
+DEDUP015,Evaluating eBPF Overhead in Lightweight MicroVM Containers,A. Miller et al.,2021,IEEE Xplore,"A 3-page workshop brief discussing potential microVM tracing techniques using eBPF, without complete methodological validation or long-term workload benchmarks."
+DEDUP016,Industrial Whitepaper: Observability Pipelines and Telemetry Costs at Scale,E. Wagner et al.,2024,ScienceDirect,"An industry technical whitepaper overviewing vendor telemetry architectures and pipeline ingress costs, lacking peer-reviewed scientific methodology."
+DEDUP017,Distributed Tracing in Cloud-Native Mesh Architectures: Preliminary Workshop Insights,J. Fernandez et al.,2023,ScienceDirect,An extended 2-page conference abstract reporting preliminary architectural ideas for service mesh telemetry without empirical measurement data.
+DEDUP018,Fast Kernel Probing Using Extended Berkeley Packet Filter: Poster Abstract,D. Schultz et al.,2022,IEEE Xplore,A 2-page poster abstract sketching kernel hook placement without exhaustive experimental validation or detailed evaluation metrics.
+DEDUP019,OpenTelemetry Collector Deployment in Production Kubernetes: A Practitioner Brief,H. Becker et al.,2023,SpringerLink,A non-peer-reviewed practitioner report on OpenTelemetry pipeline deployment guidelines in cloud-native container clusters.
+DEDUP020,Continuous Profiling for Go Services in Production: Industry Case Study,K. Lindqvist et al.,2024,ScienceDirect,An industry engineering case study demonstrating continuous CPU profiling setup in Go backends without academic peer review.
+DEDUP021,A Lightweight Hardware Counter Monitoring Agent for Edge Nodes,M. Santos et al.,2020,IEEE Xplore,"A 3-page work-in-progress paper proposing a hardware counter polling loop on ARM SBCs, without rigorous multi-tenant benchmark evaluations."
+DEDUP022,Low-Overhead Distributed Tracing in Serverless Micro-frontends,R. Vance et al.,2022,ACM Digital Library,"A short 3-page paper illustrating browser-to-serverless trace propagation patterns, lacking in-depth system resource quantification."
+DEDUP023,eBPF-Based Security Auditing: Early Experiences and Challenges,T. Moreau et al.,2021,IEEE Xplore,A 3-page short paper presenting preliminary design lessons from deploying eBPF hooks for security audit logs in enterprise servers.
+DEDUP024,State of Observability 2024: Industry Benchmarks and Practices,L. Hoffman et al.,2024,ScienceDirect,"An annual enterprise survey report aggregating survey responses regarding cloud monitoring tools, not an empirical research paper."
+DEDUP025,Bytecode Instrumentation for Debugging Microservices: A Pilot Study,F. Dubois et al.,2019,SpringerLink,A preliminary 3-page pilot study assessing dynamic Java agents for microservice debugging with limited synthetic test scenarios.
+DEDUP026,Real-Time Telemetry Streaming for Cloud Workloads: Extended Abstract,C. Meyer et al.,2020,ACM Digital Library,"A 2-page extended abstract outlining telemetry ingestion pipelines using Apache Kafka, lacking empirical system perturbation metrics."
+DEDUP027,Comparative Study of Distributed Tracing Exporters in High-Load Scenarios,V. Novak et al.,2023,IEEE Xplore,A short 3-page paper benchmarking Jaeger and Zipkin exporters under local docker tests without comprehensive system profiling.
+DEDUP028,Architecting Low-Latency Monitoring Agents for Kubernetes Pods,S. Holzer et al.,2022,ScienceDirect,"A vendor architectural whitepaper proposing sidecar metrics scrapers for container pods, devoid of peer-reviewed experimental protocols."
+DEDUP029,Introspective Tracing in Containerized Micro-Runtimes,P. Jensen et al.,2021,ACM Digital Library,A 3-page workshop contribution discussing namespace introspection hooks in Linux containers without comprehensive performance tests.
+DEDUP030,Adaptive Telemetry Sampling in High-Frequency Cloud Monitoring Pipelines,B. Richter et al.,2020,SpringerLink,"A 2-page poster abstract conceptualizing rate-limiting filters for metrics aggregation, lacking empirical overhead measurements."
+DEDUP031,Hardware-Assisted Tracing for Embedded RTOS Workloads: Work in Progress,G. Bianchi et al.,2018,IEEE Xplore,A 3-page work-in-progress report describing hardware trace port integration in automotive microcontrollers.
+DEDUP032,Dynamic Binary Rewriting for Kernel Security Monitoring: Brief Announcement,Y. Takahashi et al.,2019,ACM Digital Library,A 2-page brief announcement presenting a concept for rewriting kernel instructions to intercept malicious system calls.
+DEDUP033,Bytecode Manipulation Techniques for Debugging Legacy Java Systems,C. Dupont et al.,2017,ACM Digital Library,Focuses on automated decompilation and reverse-engineering of legacy Java bytecode; instrumentation is applied only peripherally without evaluating its overhead.
+DEDUP034,Hardware Performance Counters in ARM Processors for Threat Analysis,R. Tanaka et al.,2019,IEEE Xplore,Investigates microarchitectural side-channel malware detection; hardware counters serve merely as input sensors for a machine learning classifier.
+DEDUP035,Trace-Driven Simulation for Network Bottleneck Analysis in Cloud Datacenters,M. Rossi et al.,2015,SpringerLink,Proposes network traffic simulation models; execution traces are used strictly as static workload inputs for the simulator.
+DEDUP036,Dynamic Binary Instrumentation for Memory Vulnerability Detection,P. Kowalski et al.,2020,ACM Digital Library,Presents a memory safety fuzzing framework using Valgrind; instrumentation is used as an auxiliary hook rather than evaluating monitoring trade-offs.
+DEDUP037,Anomaly Detection in High-Throughput Stream Processing Engines,S. Nygard et al.,2021,IEEE Xplore,Develops an anomaly detection algorithm for Apache Flink data streams; monitoring metrics are consumed as raw data without evaluating probe costs.
+DEDUP038,Automated Test Case Generation Using Runtime Tracing in Mobile Applications,O. Larsson et al.,2018,SpringerLink,Presents a GUI test generation framework for Android apps; runtime tracing is utilized purely to capture code coverage paths.
+DEDUP039,Fault Injection Framework for Distributed Consensus Protocols,J. Morales et al.,2022,ACM Digital Library,Evaluates Raft and Paxos consensus fault resilience; monitoring tools are utilized as peripheral harness components.
+DEDUP040,Predicting Resource Contention in Multitenant Cloud Databases,F. Weber et al.,2019,ScienceDirect,"Focuses on predictive machine learning models for noisy neighbor detection in PostgreSQL, treating system metrics as secondary input features."
+DEDUP041,Energy-Efficient Task Scheduling in Heterogeneous Fog Computing,D. Costa et al.,2020,IEEE Xplore,Proposes a heuristic task scheduling algorithm for IoT fog nodes; power consumption probes are standard external meters.
+DEDUP042,Security Compliance Auditing in Microservice Environments,K. Bauer et al.,2021,SpringerLink,"Presents an access control compliance verification architecture, with tracing acting as an auxiliary audit log."
+DEDUP043,Performance Regression Testing in Continuous Delivery Pipelines,H. Lehmann et al.,2018,ACM Digital Library,Focuses on statistical change detection algorithms in software build pipelines; profiling is treated as an off-the-shelf test step.
+DEDUP044,Static and Dynamic Slicing for Root Cause Debugging in C++ Applications,N. Popov et al.,2017,IEEE Xplore,"Proposes program slicing algorithms for software defect isolation, using runtime traces as secondary input data."
+DEDUP045,Traffic Engineering in Software-Defined Data Center Networks,L. Martins et al.,2020,ScienceDirect,Investigates SDN flow routing optimization; switch packet monitoring is peripheral to the flow control algorithm.
+DEDUP046,Container Migration Strategies in Edge Computing Environments,A. Nielsen et al.,2022,SpringerLink,"Focuses on live migration heuristics for edge Docker containers, using standard host resource metrics as trigger thresholds."
+DEDUP047,Automated Memory Leak Detection in Garbage-Collected Runtimes,W. Krause et al.,2016,ACM Digital Library,"Develops graph algorithms to detect abandoned object references in Java heaps, using default JVM heap dump utilities."
+DEDUP048,Root Cause Analysis of Cascade Failures in Web Applications,T. Schmidt et al.,2019,IEEE Xplore,Proposes Bayesian network models for failure cascade diagnosis using pre-recorded request log datasets.
+DEDUP049,Cache-Aware Task Allocation for Multi-Core Architectures,E. Sommer et al.,2018,IEEE Xplore,"Develops thread affinity scheduling algorithms based on cache miss statistics, using standard PAPI counters as passive inputs."
+DEDUP050,Microservice Dependency Graph Extraction from Passive Network Packets,M. Fontana et al.,2021,IEEE Xplore,Extracts service dependency topologies via passive packet sniffing without instrumenting host systems or applications.
+DEDUP051,Dynamic Slicing of Concurrent Programs for Concurrency Bug Detection,C. Haas et al.,2015,ACM Digital Library,Presents dynamic slicing to isolate data races in concurrent programs; instrumentation is used as an unmeasured auxiliary hook.
+DEDUP052,Intrusion Detection System for Automotive CAN Bus Networks,S. Petrov et al.,2020,SpringerLink,"Evaluates CAN bus anomaly detection classifiers, where bus message logging is a standard vehicle diagnostic feed."
+DEDUP053,Failure Prediction in Supercomputer Interconnects Using Log Analysis,R. Keller et al.,2017,IEEE Xplore,"Applies NLP techniques to supercomputer system logs to predict switch link hardware failures, not evaluating telemetry overhead."
+DEDUP054,Adaptive Log Sampling Strategy for Microservices Architecture,L. Zhang et al.,2022,SpringerLink,"Proposes an adaptive mathematical sampling model for microservice logging pipelines, but omits experimental CPU or latency benchmarks."
+DEDUP055,Performance Monitoring Framework for Serverless Functions,S. Gupta et al.,2023,ACM Digital Library,Describes an architectural telemetry design for AWS Lambda serverless functions without empirical quantification of cold start or latency impact.
+DEDUP056,Lightweight Profiling for Embedded Real-Time Operating Systems,K. Takahashi et al.,2018,IEEE Xplore,"Presents a conceptual RTOS profiling architecture, but lacks empirical measurements of real-time deadline perturbations or CPU overhead."
+DEDUP057,Unified Telemetry Model for Multi-Cloud Microservice Deployments,A. Ferreira et al.,2021,ACM Digital Library,"Proposes an ontological meta-model for cross-cloud telemetry standardization, without empirical system overhead evaluation."
+DEDUP058,Dynamic Probe Configuration Architecture for Cloud Native Observability,R. Mehta et al.,2022,ACM Digital Library,"Specifies a control plane protocol for dynamically updating probe configurations in Kubernetes pods, without benchmarking execution latency."
+DEDUP059,Semantic-Aware Tracing Framework for Asynchronous Event-Driven Architectures,M. Gauthier et al.,2020,IEEE Xplore,"Introduces span taxonomy for event brokers, but lacks quantitative evaluation of broker throughput degradation or tracing overhead."
+DEDUP060,Zero-Touch Instrumentation Protocol for Microservices,J. Van Der Berg et al.,2023,SpringerLink,Presents an automated sidecar injection protocol for cloud workloads without empirical performance benchmarks or resource measurements.
+DEDUP061,Continuous Observability Architecture for Edge AI Inference Pipelines,P. Szekely et al.,2022,SpringerLink,"Proposes a telemetry architecture for edge neural network deployments, omitting quantitative profiling overhead measurements."
+DEDUP062,Cross-Platform Runtime Telemetry Abstraction Layer,T. O'Connor et al.,2019,IEEE Xplore,"Describes an API abstraction layer for multi-language profiling hooks, but omits runtime performance and memory overhead evaluations."
+DEDUP063,Automated Query Optimization for Large-Scale Relational Databases,S. Bhattacharya et al.,2004,IEEE Xplore,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+DEDUP064,Deep Learning Architectures for Encrypted Network Intrusion Detection,A. Al-Mansoor et al.,2005,IEEE Xplore,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+DEDUP065,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks,H. Chen et al.,2006,IEEE Xplore,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+DEDUP066,Formal Verification of Cryptographic Hardware Primitives in ASICs,M. Le Gall et al.,2007,IEEE Xplore,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+DEDUP067,High-Throughput Optical Circuit Switching in Next-Generation Data Centers,D. W. Foster et al.,2008,IEEE Xplore,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+DEDUP068,Interactive Visualization of Multi-Dimensional Medical Imaging Data,K. J. Lindgren et al.,2009,IEEE Xplore,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+DEDUP069,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring,P. Narayanan et al.,2010,IEEE Xplore,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+DEDUP070,Natural Language Dialogue Interface for Enterprise Knowledge Graphs,T. E. Connolly et al.,2011,IEEE Xplore,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+DEDUP071,Privacy-Preserving Federated Learning for Distributed Mobile Devices,B. X. Zhao et al.,2012,IEEE Xplore,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+DEDUP072,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation,L. K. Johansson et al.,2013,IEEE Xplore,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+DEDUP073,Scalable Graph Neural Networks for Large-Scale Social Network Analysis,V. G. Ramos et al.,2014,IEEE Xplore,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+DEDUP074,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs,J. P. Dupont et al.,2015,IEEE Xplore,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+DEDUP075,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators,N. R. Sterling et al.,2016,IEEE Xplore,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+DEDUP076,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems,E. T. Hauer et al.,2017,IEEE Xplore,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+DEDUP077,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming,C. M. Fontaine et al.,2018,IEEE Xplore,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+DEDUP078,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing,W. Q. Zhang et al.,2019,IEEE Xplore,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+DEDUP079,Automated Query Optimization for Large-Scale Relational Databases - Case Study #2,S. Bhattacharya et al.,2020,IEEE Xplore,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+DEDUP080,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #2,A. Al-Mansoor et al.,2021,IEEE Xplore,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+DEDUP081,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #2,H. Chen et al.,2022,IEEE Xplore,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+DEDUP082,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #2,M. Le Gall et al.,2023,IEEE Xplore,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+DEDUP083,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #2,D. W. Foster et al.,2024,IEEE Xplore,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+DEDUP084,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #2,K. J. Lindgren et al.,2003,IEEE Xplore,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+DEDUP085,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #2,P. Narayanan et al.,2004,IEEE Xplore,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+DEDUP086,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #2,T. E. Connolly et al.,2005,IEEE Xplore,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+DEDUP087,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #2,B. X. Zhao et al.,2006,IEEE Xplore,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+DEDUP088,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #2,L. K. Johansson et al.,2007,IEEE Xplore,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+DEDUP089,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #2,V. G. Ramos et al.,2008,IEEE Xplore,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+DEDUP090,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #2,J. P. Dupont et al.,2009,IEEE Xplore,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+DEDUP091,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #2,N. R. Sterling et al.,2010,IEEE Xplore,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+DEDUP092,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #2,E. T. Hauer et al.,2011,IEEE Xplore,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+DEDUP093,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #2,C. M. Fontaine et al.,2012,IEEE Xplore,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+DEDUP094,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #2,W. Q. Zhang et al.,2013,IEEE Xplore,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+DEDUP095,Automated Query Optimization for Large-Scale Relational Databases - Case Study #3,S. Bhattacharya et al.,2014,IEEE Xplore,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+DEDUP096,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #3,A. Al-Mansoor et al.,2015,IEEE Xplore,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+DEDUP097,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #3,H. Chen et al.,2016,IEEE Xplore,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+DEDUP098,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #3,M. Le Gall et al.,2017,IEEE Xplore,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+DEDUP099,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #3,D. W. Foster et al.,2018,IEEE Xplore,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+DEDUP100,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #3,K. J. Lindgren et al.,2019,IEEE Xplore,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+DEDUP101,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #3,P. Narayanan et al.,2020,IEEE Xplore,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+DEDUP102,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #3,T. E. Connolly et al.,2021,IEEE Xplore,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+DEDUP103,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #3,B. X. Zhao et al.,2022,IEEE Xplore,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+DEDUP104,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #3,L. K. Johansson et al.,2023,IEEE Xplore,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+DEDUP105,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #3,V. G. Ramos et al.,2024,IEEE Xplore,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+DEDUP106,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #3,J. P. Dupont et al.,2003,IEEE Xplore,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+DEDUP107,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #3,N. R. Sterling et al.,2004,IEEE Xplore,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+DEDUP108,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #3,E. T. Hauer et al.,2005,IEEE Xplore,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+DEDUP109,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #3,C. M. Fontaine et al.,2006,IEEE Xplore,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+DEDUP110,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #3,W. Q. Zhang et al.,2007,IEEE Xplore,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+DEDUP111,Automated Query Optimization for Large-Scale Relational Databases - Case Study #4,S. Bhattacharya et al.,2008,IEEE Xplore,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+DEDUP112,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #4,A. Al-Mansoor et al.,2009,IEEE Xplore,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+DEDUP113,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #4,H. Chen et al.,2010,IEEE Xplore,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+DEDUP114,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #4,M. Le Gall et al.,2011,IEEE Xplore,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+DEDUP115,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #4,D. W. Foster et al.,2012,IEEE Xplore,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+DEDUP116,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #4,K. J. Lindgren et al.,2013,IEEE Xplore,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+DEDUP117,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #4,P. Narayanan et al.,2014,IEEE Xplore,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+DEDUP118,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #4,T. E. Connolly et al.,2015,IEEE Xplore,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+DEDUP119,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #4,B. X. Zhao et al.,2016,IEEE Xplore,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+DEDUP120,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #4,L. K. Johansson et al.,2017,IEEE Xplore,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+DEDUP121,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #4,V. G. Ramos et al.,2018,IEEE Xplore,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+DEDUP122,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #4,J. P. Dupont et al.,2019,IEEE Xplore,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+DEDUP123,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #4,N. R. Sterling et al.,2020,IEEE Xplore,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+DEDUP124,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #4,E. T. Hauer et al.,2021,IEEE Xplore,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+DEDUP125,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #4,C. M. Fontaine et al.,2022,IEEE Xplore,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+DEDUP126,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #4,W. Q. Zhang et al.,2023,IEEE Xplore,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+DEDUP127,Automated Query Optimization for Large-Scale Relational Databases - Case Study #5,S. Bhattacharya et al.,2024,IEEE Xplore,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+DEDUP128,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #5,A. Al-Mansoor et al.,2003,IEEE Xplore,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+DEDUP129,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #5,H. Chen et al.,2004,IEEE Xplore,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+DEDUP130,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #5,M. Le Gall et al.,2005,IEEE Xplore,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+DEDUP131,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #5,D. W. Foster et al.,2006,IEEE Xplore,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+DEDUP132,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #5,K. J. Lindgren et al.,2007,IEEE Xplore,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+DEDUP133,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #5,P. Narayanan et al.,2008,IEEE Xplore,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+DEDUP134,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #5,T. E. Connolly et al.,2009,IEEE Xplore,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+DEDUP135,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #5,B. X. Zhao et al.,2010,IEEE Xplore,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+DEDUP136,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #5,L. K. Johansson et al.,2011,IEEE Xplore,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+DEDUP137,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #5,V. G. Ramos et al.,2012,IEEE Xplore,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+DEDUP138,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #5,J. P. Dupont et al.,2013,IEEE Xplore,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+DEDUP139,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #5,N. R. Sterling et al.,2014,IEEE Xplore,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+DEDUP140,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #5,E. T. Hauer et al.,2015,IEEE Xplore,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+DEDUP141,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #5,C. M. Fontaine et al.,2016,IEEE Xplore,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+DEDUP142,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #5,W. Q. Zhang et al.,2017,IEEE Xplore,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+DEDUP143,Automated Query Optimization for Large-Scale Relational Databases - Case Study #6,S. Bhattacharya et al.,2018,IEEE Xplore,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+DEDUP144,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #6,A. Al-Mansoor et al.,2019,ACM Digital Library,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+DEDUP145,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #6,H. Chen et al.,2020,ACM Digital Library,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+DEDUP146,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #6,M. Le Gall et al.,2021,ACM Digital Library,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+DEDUP147,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #6,D. W. Foster et al.,2022,ACM Digital Library,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+DEDUP148,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #6,K. J. Lindgren et al.,2023,ACM Digital Library,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+DEDUP149,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #6,P. Narayanan et al.,2024,ACM Digital Library,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+DEDUP150,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #6,T. E. Connolly et al.,2003,ACM Digital Library,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+DEDUP151,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #6,B. X. Zhao et al.,2004,ACM Digital Library,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+DEDUP152,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #6,L. K. Johansson et al.,2005,ACM Digital Library,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+DEDUP153,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #6,V. G. Ramos et al.,2006,ACM Digital Library,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+DEDUP154,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #6,J. P. Dupont et al.,2007,ACM Digital Library,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+DEDUP155,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #6,N. R. Sterling et al.,2008,ACM Digital Library,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+DEDUP156,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #6,E. T. Hauer et al.,2009,ACM Digital Library,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+DEDUP157,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #6,C. M. Fontaine et al.,2010,ACM Digital Library,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+DEDUP158,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #6,W. Q. Zhang et al.,2011,ACM Digital Library,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+DEDUP159,Automated Query Optimization for Large-Scale Relational Databases - Case Study #7,S. Bhattacharya et al.,2012,ACM Digital Library,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+DEDUP160,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #7,A. Al-Mansoor et al.,2013,ACM Digital Library,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+DEDUP161,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #7,H. Chen et al.,2014,ACM Digital Library,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+DEDUP162,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #7,M. Le Gall et al.,2015,ACM Digital Library,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+DEDUP163,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #7,D. W. Foster et al.,2016,ACM Digital Library,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+DEDUP164,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #7,K. J. Lindgren et al.,2017,ACM Digital Library,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+DEDUP165,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #7,P. Narayanan et al.,2018,ACM Digital Library,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+DEDUP166,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #7,T. E. Connolly et al.,2019,ACM Digital Library,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+DEDUP167,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #7,B. X. Zhao et al.,2020,ACM Digital Library,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+DEDUP168,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #7,L. K. Johansson et al.,2021,ACM Digital Library,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+DEDUP169,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #7,V. G. Ramos et al.,2022,ACM Digital Library,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+DEDUP170,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #7,J. P. Dupont et al.,2023,ACM Digital Library,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+DEDUP171,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #7,N. R. Sterling et al.,2024,ACM Digital Library,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+DEDUP172,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #7,E. T. Hauer et al.,2003,ACM Digital Library,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+DEDUP173,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #7,C. M. Fontaine et al.,2004,ACM Digital Library,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+DEDUP174,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #7,W. Q. Zhang et al.,2005,ACM Digital Library,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+DEDUP175,Automated Query Optimization for Large-Scale Relational Databases - Case Study #8,S. Bhattacharya et al.,2006,ACM Digital Library,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+DEDUP176,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #8,A. Al-Mansoor et al.,2007,ACM Digital Library,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+DEDUP177,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #8,H. Chen et al.,2008,ACM Digital Library,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+DEDUP178,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #8,M. Le Gall et al.,2009,ACM Digital Library,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+DEDUP179,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #8,D. W. Foster et al.,2010,ACM Digital Library,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+DEDUP180,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #8,K. J. Lindgren et al.,2011,ACM Digital Library,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+DEDUP181,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #8,P. Narayanan et al.,2012,ACM Digital Library,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+DEDUP182,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #8,T. E. Connolly et al.,2013,ACM Digital Library,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+DEDUP183,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #8,B. X. Zhao et al.,2014,ACM Digital Library,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+DEDUP184,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #8,L. K. Johansson et al.,2015,ACM Digital Library,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+DEDUP185,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #8,V. G. Ramos et al.,2016,ACM Digital Library,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+DEDUP186,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #8,J. P. Dupont et al.,2017,ACM Digital Library,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+DEDUP187,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #8,N. R. Sterling et al.,2018,ACM Digital Library,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+DEDUP188,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #8,E. T. Hauer et al.,2019,ACM Digital Library,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+DEDUP189,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #8,C. M. Fontaine et al.,2020,ACM Digital Library,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+DEDUP190,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #8,W. Q. Zhang et al.,2021,ACM Digital Library,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+DEDUP191,Automated Query Optimization for Large-Scale Relational Databases - Case Study #9,S. Bhattacharya et al.,2022,ACM Digital Library,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+DEDUP192,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #9,A. Al-Mansoor et al.,2023,ACM Digital Library,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+DEDUP193,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #9,H. Chen et al.,2024,ACM Digital Library,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+DEDUP194,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #9,M. Le Gall et al.,2003,ACM Digital Library,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+DEDUP195,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #9,D. W. Foster et al.,2004,ACM Digital Library,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+DEDUP196,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #9,K. J. Lindgren et al.,2005,ACM Digital Library,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+DEDUP197,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #9,P. Narayanan et al.,2006,ACM Digital Library,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+DEDUP198,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #9,T. E. Connolly et al.,2007,ACM Digital Library,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+DEDUP199,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #9,B. X. Zhao et al.,2008,ACM Digital Library,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+DEDUP200,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #9,L. K. Johansson et al.,2009,ACM Digital Library,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+DEDUP201,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #9,V. G. Ramos et al.,2010,ACM Digital Library,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+DEDUP202,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #9,J. P. Dupont et al.,2011,ACM Digital Library,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+DEDUP203,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #9,N. R. Sterling et al.,2012,ACM Digital Library,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+DEDUP204,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #9,E. T. Hauer et al.,2013,ACM Digital Library,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+DEDUP205,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #9,C. M. Fontaine et al.,2014,ACM Digital Library,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+DEDUP206,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #9,W. Q. Zhang et al.,2015,ACM Digital Library,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+DEDUP207,Automated Query Optimization for Large-Scale Relational Databases - Case Study #10,S. Bhattacharya et al.,2016,ACM Digital Library,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+DEDUP208,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #10,A. Al-Mansoor et al.,2017,ACM Digital Library,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+DEDUP209,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #10,H. Chen et al.,2018,ACM Digital Library,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+DEDUP210,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #10,M. Le Gall et al.,2019,ACM Digital Library,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+DEDUP211,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #10,D. W. Foster et al.,2020,SpringerLink,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+DEDUP212,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #10,K. J. Lindgren et al.,2021,SpringerLink,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+DEDUP213,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #10,P. Narayanan et al.,2022,SpringerLink,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+DEDUP214,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #10,T. E. Connolly et al.,2023,SpringerLink,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+DEDUP215,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #10,B. X. Zhao et al.,2024,SpringerLink,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+DEDUP216,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #10,L. K. Johansson et al.,2003,SpringerLink,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+DEDUP217,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #10,V. G. Ramos et al.,2004,SpringerLink,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+DEDUP218,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #10,J. P. Dupont et al.,2005,SpringerLink,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+DEDUP219,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #10,N. R. Sterling et al.,2006,SpringerLink,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+DEDUP220,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #10,E. T. Hauer et al.,2007,SpringerLink,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+DEDUP221,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #10,C. M. Fontaine et al.,2008,SpringerLink,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+DEDUP222,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #10,W. Q. Zhang et al.,2009,SpringerLink,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+DEDUP223,Automated Query Optimization for Large-Scale Relational Databases - Case Study #11,S. Bhattacharya et al.,2010,SpringerLink,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+DEDUP224,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #11,A. Al-Mansoor et al.,2011,SpringerLink,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+DEDUP225,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #11,H. Chen et al.,2012,SpringerLink,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+DEDUP226,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #11,M. Le Gall et al.,2013,SpringerLink,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+DEDUP227,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #11,D. W. Foster et al.,2014,SpringerLink,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+DEDUP228,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #11,K. J. Lindgren et al.,2015,SpringerLink,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+DEDUP229,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #11,P. Narayanan et al.,2016,SpringerLink,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+DEDUP230,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #11,T. E. Connolly et al.,2017,SpringerLink,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+DEDUP231,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #11,B. X. Zhao et al.,2018,SpringerLink,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+DEDUP232,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #11,L. K. Johansson et al.,2019,SpringerLink,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+DEDUP233,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #11,V. G. Ramos et al.,2020,SpringerLink,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+DEDUP234,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #11,J. P. Dupont et al.,2021,SpringerLink,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+DEDUP235,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #11,N. R. Sterling et al.,2022,SpringerLink,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+DEDUP236,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #11,E. T. Hauer et al.,2023,SpringerLink,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+DEDUP237,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #11,C. M. Fontaine et al.,2024,SpringerLink,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+DEDUP238,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #11,W. Q. Zhang et al.,2003,SpringerLink,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+DEDUP239,Automated Query Optimization for Large-Scale Relational Databases - Case Study #12,S. Bhattacharya et al.,2004,SpringerLink,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+DEDUP240,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #12,A. Al-Mansoor et al.,2005,SpringerLink,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+DEDUP241,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #12,H. Chen et al.,2006,SpringerLink,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+DEDUP242,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #12,M. Le Gall et al.,2007,SpringerLink,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+DEDUP243,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #12,D. W. Foster et al.,2008,SpringerLink,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+DEDUP244,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #12,K. J. Lindgren et al.,2009,SpringerLink,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+DEDUP245,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #12,P. Narayanan et al.,2010,SpringerLink,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+DEDUP246,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #12,T. E. Connolly et al.,2011,SpringerLink,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+DEDUP247,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #12,B. X. Zhao et al.,2012,SpringerLink,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+DEDUP248,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #12,L. K. Johansson et al.,2013,SpringerLink,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+DEDUP249,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #12,V. G. Ramos et al.,2014,SpringerLink,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+DEDUP250,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #12,J. P. Dupont et al.,2015,SpringerLink,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+DEDUP251,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #12,N. R. Sterling et al.,2016,SpringerLink,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+DEDUP252,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #12,E. T. Hauer et al.,2017,SpringerLink,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+DEDUP253,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #12,C. M. Fontaine et al.,2018,SpringerLink,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+DEDUP254,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #12,W. Q. Zhang et al.,2019,SpringerLink,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+DEDUP255,Automated Query Optimization for Large-Scale Relational Databases - Case Study #13,S. Bhattacharya et al.,2020,SpringerLink,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+DEDUP256,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #13,A. Al-Mansoor et al.,2021,SpringerLink,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+DEDUP257,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #13,H. Chen et al.,2022,SpringerLink,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+DEDUP258,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #13,M. Le Gall et al.,2023,SpringerLink,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+DEDUP259,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #13,D. W. Foster et al.,2024,ScienceDirect,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+DEDUP260,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #13,K. J. Lindgren et al.,2003,ScienceDirect,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+DEDUP261,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #13,P. Narayanan et al.,2004,ScienceDirect,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+DEDUP262,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #13,T. E. Connolly et al.,2005,ScienceDirect,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+DEDUP263,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #13,B. X. Zhao et al.,2006,ScienceDirect,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+DEDUP264,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #13,L. K. Johansson et al.,2007,ScienceDirect,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+DEDUP265,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #13,V. G. Ramos et al.,2008,ScienceDirect,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+DEDUP266,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #13,J. P. Dupont et al.,2009,ScienceDirect,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+DEDUP267,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #13,N. R. Sterling et al.,2010,ScienceDirect,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+DEDUP268,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #13,E. T. Hauer et al.,2011,ScienceDirect,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+DEDUP269,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #13,C. M. Fontaine et al.,2012,ScienceDirect,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+DEDUP270,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #13,W. Q. Zhang et al.,2013,ScienceDirect,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+DEDUP271,Automated Query Optimization for Large-Scale Relational Databases - Case Study #14,S. Bhattacharya et al.,2014,ScienceDirect,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+DEDUP272,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #14,A. Al-Mansoor et al.,2015,ScienceDirect,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+DEDUP273,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #14,H. Chen et al.,2016,ScienceDirect,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+DEDUP274,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #14,M. Le Gall et al.,2017,ScienceDirect,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+DEDUP275,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #14,D. W. Foster et al.,2018,ScienceDirect,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+DEDUP276,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #14,K. J. Lindgren et al.,2019,ScienceDirect,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+DEDUP277,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #14,P. Narayanan et al.,2020,ScienceDirect,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+DEDUP278,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #14,T. E. Connolly et al.,2021,ScienceDirect,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+DEDUP279,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #14,B. X. Zhao et al.,2022,ScienceDirect,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+DEDUP280,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #14,L. K. Johansson et al.,2023,ScienceDirect,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+DEDUP281,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #14,V. G. Ramos et al.,2024,ScienceDirect,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+DEDUP282,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #14,J. P. Dupont et al.,2003,ScienceDirect,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+DEDUP283,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #14,N. R. Sterling et al.,2004,ScienceDirect,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+DEDUP284,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #14,E. T. Hauer et al.,2005,ScienceDirect,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+DEDUP285,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #14,C. M. Fontaine et al.,2006,ScienceDirect,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+DEDUP286,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #14,W. Q. Zhang et al.,2007,ScienceDirect,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.

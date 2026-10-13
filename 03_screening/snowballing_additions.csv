@@ -1,6 +1,6 @@
-ID,Title,Authors,Year,Database_Source,Discovery_Method,Decision
-SB01,MicroRCA: Root Cause Localization of Performance Issues in Microservices,Wu et al.,2020,IEEE Xplore,Snowballing / ResearchRabbit,Included
-SB02,Balancing Instrumentation Costs and Performance Insights: A Cost-Aware Approach,Haghshenas et al.,2023,ScienceDirect,Snowballing / ResearchRabbit,Included
-SB03,NEOS: Non-intrusive Edge Observability Stack based on Zero Trust,Kumar et al.,2023,IEEE Xplore,Snowballing / ResearchRabbit,Included
-SB04,EXIST: Enabling Extremely Efficient Intra-Service Tracing Observability in Datacenters,Wang et al.,2025,ACM Digital Library,Snowballing / ResearchRabbit,Included
-SB05,"The Evolution of Cloud Resilience: Observability, Automation, and High Availability",Jalukuri,2025,ScienceDirect,Snowballing / ResearchRabbit,Included
+ID,Title,Authors,Year,Database_Source,Discovery_Method,Abstract,Decision
+SB01,MicroRCA: Root Cause Localization of Performance Issues in Microservices,Wu et al.,2020,IEEE Xplore,Snowballing / ResearchRabbit,Presents MicroRCA for root cause localization in microservices using host-level non-intrusive operating system metrics without modifying application source code.,Included
+SB02,Balancing Instrumentation Costs and Performance Insights: A Cost-Aware Approach,Haghshenas et al.,2023,ScienceDirect,Snowballing / ResearchRabbit,Formulates a cost-aware monitoring framework that models information gain versus performance overhead to balance multi-level instrumentation intensity.,Included
+SB03,NEOS: Non-intrusive Edge Observability Stack based on Zero Trust,Kumar et al.,2023,IEEE Xplore,Snowballing / ResearchRabbit,"Introduces NEOS, an edge observability stack combining zero-trust telemetry and open-source collectors to reduce instrumentation code burden by 80%.",Included
+SB04,EXIST: Enabling Extremely Efficient Intra-Service Tracing Observability in Datacenters,Wang et al.,2025,ACM Digital Library,Snowballing / ResearchRabbit,"Presents EXIST, an ultra-low overhead intra-service tracing framework utilizing lightweight execution state tracking for large-scale datacenter deployments.",Included
+SB05,"The Evolution of Cloud Resilience: Observability, Automation, and High Availability",Jalukuri,2025,ScienceDirect,Snowballing / ResearchRabbit,Explores cloud resilience architectures leveraging asynchronous telemetry analysis and predictive machine learning models to prevent failure cascades outside the critical request path.,Included

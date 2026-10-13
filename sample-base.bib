@@ -1,0 +1,525 @@
+
+% Journals
+
+% First the Full Name is given, then the abbreviation used in the AMS Math
+% Reviews, with an indication if it could not be found there.
+% Note the 2nd overwrites the 1st, so swap them if you want the full name.
+
+ %{AMS}
+ @String{AMSTrans = "American Mathematical Society Translations" }
+ @String{AMSTrans = "Amer. Math. Soc. Transl." }
+ @String{BullAMS = "Bulletin of the American Mathematical Society" }
+ @String{BullAMS = "Bull. Amer. Math. Soc." }
+ @String{ProcAMS = "Proceedings of the American Mathematical Society" }
+ @String{ProcAMS = "Proc. Amer. Math. Soc." }
+ @String{TransAMS = "Transactions of the American Mathematical Society" }
+ @String{TransAMS = "Trans. Amer. Math. Soc." }
+
+ %ACM
+ @String{CACM = "Communications of the {ACM}" }
+ @String{CACM = "Commun. {ACM}" }
+ @String{CompServ = "Comput. Surveys" }
+ @String{JACM = "J. ACM" }
+ @String{ACMMathSoft = "{ACM} Transactions on Mathematical Software" }
+ @String{ACMMathSoft = "{ACM} Trans. Math. Software" }
+ @String{SIGNUM = "{ACM} {SIGNUM} Newsletter" }
+ @String{SIGNUM = "{ACM} {SIGNUM} Newslett." }
+
+ @String{AmerSocio = "American Journal of Sociology" }
+ @String{AmerStatAssoc = "Journal of the American Statistical Association" }
+ @String{AmerStatAssoc = "J. Amer. Statist. Assoc." }
+ @String{ApplMathComp = "Applied Mathematics and Computation" }
+ @String{ApplMathComp = "Appl. Math. Comput." }
+ @String{AmerMathMonthly = "American Mathematical Monthly" }
+ @String{AmerMathMonthly = "Amer. Math. Monthly" }
+ @String{BIT = "{BIT}" }
+ @String{BritStatPsych = "British Journal of Mathematical and Statistical
+          Psychology" }
+ @String{BritStatPsych = "Brit. J. Math. Statist. Psych." }
+ @String{CanMathBull = "Canadian Mathematical Bulletin" }
+ @String{CanMathBull = "Canad. Math. Bull." }
+ @String{CompApplMath = "Journal of Computational and Applied Mathematics" }
+ @String{CompApplMath = "J. Comput. Appl. Math." }
+ @String{CompPhys = "Journal of Computational Physics" }
+ @String{CompPhys = "J. Comput. Phys." }
+ @String{CompStruct = "Computers and Structures" }
+ @String{CompStruct = "Comput. \& Structures" }
+ @String{CompJour = "The Computer Journal" }
+ @String{CompJour = "Comput. J." }
+ @String{CompSysSci = "Journal of Computer and System Sciences" }
+ @String{CompSysSci = "J. Comput. System Sci." }
+ @String{Computing = "Computing" }
+ @String{ContempMath = "Contemporary Mathematics" }
+ @String{ContempMath = "Contemp. Math." }
+ @String{Crelle = "Crelle's Journal" }
+ @String{GiornaleMath = "Giornale di Mathematiche" }
+ @String{GiornaleMath = "Giorn. Mat." } % didn't find in AMS MR., ibid.
+
+ %IEEE
+ @String{Computer = "{IEEE} Computer" }
+ @String{IEEETransComp = "{IEEE} Transactions on Computers" }
+ @String{IEEETransComp = "{IEEE} Trans. Comput." }
+ @String{IEEETransAC = "{IEEE} Transactions on Automatic Control" }
+ @String{IEEETransAC = "{IEEE} Trans. Automat. Control" }
+ @String{IEEESpec = "{IEEE} Spectrum" } % didn't find in AMS MR
+ @String{ProcIEEE = "Proceedings of the {IEEE}" }
+ @String{ProcIEEE = "Proc. {IEEE}" } % didn't find in AMS MR
+ @String{IEEETransAeroElec = "{IEEE} Transactions on Aerospace and Electronic
+     Systems" }
+ @String{IEEETransAeroElec = "{IEEE} Trans. Aerospace Electron. Systems" }
+
+ @String{IMANumerAna = "{IMA} Journal of Numerical Analysis" }
+ @String{IMANumerAna = "{IMA} J. Numer. Anal." }
+ @String{InfProcLet = "Information Processing Letters" }
+ @String{InfProcLet = "Inform. Process. Lett." }
+ @String{InstMathApp = "Journal of the Institute of Mathematics and
+     its Applications" }
+ @String{InstMathApp = "J. Inst. Math. Appl." }
+ @String{IntControl = "International Journal of Control" }
+ @String{IntControl = "Internat. J. Control" }
+ @String{IntNumerEng = "International Journal for Numerical Methods in
+     Engineering" }
+ @String{IntNumerEng = "Internat. J. Numer. Methods Engrg." }
+ @String{IntSuper = "International Journal of Supercomputing Applications" }
+ @String{IntSuper = "Internat. J. Supercomputing Applic." } % didn't find
+%% in AMS MR
+ @String{Kibernetika = "Kibernetika" }
+ @String{JResNatBurStand = "Journal of Research of the National Bureau
+     of Standards" }
+ @String{JResNatBurStand = "J. Res. Nat. Bur. Standards" }
+ @String{LinAlgApp = "Linear Algebra and its Applications" }
+ @String{LinAlgApp = "Linear Algebra Appl." }
+ @String{MathAnaAppl = "Journal of Mathematical Analysis and Applications" }
+ @String{MathAnaAppl = "J. Math. Anal. Appl." }
+ @String{MathAnnalen = "Mathematische Annalen" }
+ @String{MathAnnalen = "Math. Ann." }
+ @String{MathPhys = "Journal of Mathematical Physics" }
+ @String{MathPhys = "J. Math. Phys." }
+ @String{MathComp = "Mathematics of Computation" }
+ @String{MathComp = "Math. Comp." }
+ @String{MathScand = "Mathematica Scandinavica" }
+ @String{MathScand = "Math. Scand." }
+ @String{TablesAidsComp = "Mathematical Tables and Other Aids to Computation" }
+ @String{TablesAidsComp = "Math. Tables Aids Comput." }
+ @String{NumerMath = "Numerische Mathematik" }
+ @String{NumerMath = "Numer. Math." }
+ @String{PacificMath = "Pacific Journal of Mathematics" }
+ @String{PacificMath = "Pacific J. Math." }
+ @String{ParDistComp = "Journal of Parallel and Distributed Computing" }
+ @String{ParDistComp = "J. Parallel and Distrib. Comput." } % didn't find
+%% in AMS MR
+ @String{ParComputing = "Parallel Computing" }
+ @String{ParComputing = "Parallel Comput." }
+ @String{PhilMag = "Philosophical Magazine" }
+ @String{PhilMag = "Philos. Mag." }
+ @String{ProcNAS = "Proceedings of the National Academy of Sciences
+                    of the USA" }
+ @String{ProcNAS = "Proc. Nat. Acad. Sci. U. S. A." }
+ @String{Psychometrika = "Psychometrika" }
+ @String{QuartMath = "Quarterly Journal of Mathematics, Oxford, Series (2)" }
+ @String{QuartMath = "Quart. J. Math. Oxford Ser. (2)" }
+ @String{QuartApplMath = "Quarterly of Applied Mathematics" }
+ @String{QuartApplMath = "Quart. Appl. Math." }
+ @String{RevueInstStat = "Review of the International Statisical Institute" }
+ @String{RevueInstStat = "Rev. Inst. Internat. Statist." }
+
+ %SIAM
+ @String{JSIAM = "Journal of the Society for Industrial and Applied
+     Mathematics" }
+ @String{JSIAM = "J. Soc. Indust. Appl. Math." }
+ @String{JSIAMB = "Journal of the Society for Industrial and Applied
+     Mathematics, Series B, Numerical Analysis" }
+ @String{JSIAMB = "J. Soc. Indust. Appl. Math. Ser. B Numer. Anal." }
+ @String{SIAMAlgMeth = "{SIAM} Journal on Algebraic and Discrete Methods" }
+ @String{SIAMAlgMeth = "{SIAM} J. Algebraic Discrete Methods" }
+ @String{SIAMAppMath = "{SIAM} Journal on Applied Mathematics" }
+ @String{SIAMAppMath = "{SIAM} J. Appl. Math." }
+ @String{SIAMComp = "{SIAM} Journal on Computing" }
+ @String{SIAMComp = "{SIAM} J. Comput." }
+ @String{SIAMMatrix = "{SIAM} Journal on Matrix Analysis and Applications" }
+ @String{SIAMMatrix = "{SIAM} J. Matrix Anal. Appl." }
+ @String{SIAMNumAnal = "{SIAM} Journal on Numerical Analysis" }
+ @String{SIAMNumAnal = "{SIAM} J. Numer. Anal." }
+ @String{SIAMReview = "{SIAM} Review" }
+ @String{SIAMReview = "{SIAM} Rev." }
+ @String{SIAMSciStat = "{SIAM} Journal on Scientific and Statistical
+     Computing" }
+ @String{SIAMSciStat = "{SIAM} J. Sci. Statist. Comput." }
+
+ @String{SoftPracExp = "Software Practice and Experience" }
+ @String{SoftPracExp = "Software Prac. Experience" } % didn't find in AMS MR
+ @String{StatScience = "Statistical Science" }
+ @String{StatScience = "Statist. Sci." }
+ @String{Techno = "Technometrics" }
+ @String{USSRCompMathPhys = "{USSR} Computational Mathematics and Mathematical
+     Physics" }
+ @String{USSRCompMathPhys = "{U. S. S. R.} Comput. Math. and Math. Phys." }
+ @String{VLSICompSys = "Journal of {VLSI} and Computer Systems" }
+ @String{VLSICompSys = "J. {VLSI} Comput. Syst." }
+ @String{ZAngewMathMech = "Zeitschrift fur Angewandte Mathematik und
+     Mechanik" }
+ @String{ZAngewMathMech = "Z. Angew. Math. Mech." }
+ @String{ZAngewMathPhys = "Zeitschrift fur Angewandte Mathematik und Physik" }
+ @String{ZAngewMathPhys = "Z. Angew. Math. Phys." }
+
+% Publishers % ================================================= |
+
+ @String{Academic = "Academic Press" }
+ @String{ACMPress = "{ACM} Press" }
+ @String{AdamHilger = "Adam Hilger" }
+ @String{AddisonWesley = "Addison-Wesley" }
+ @String{AllynBacon = "Allyn and Bacon" }
+ @String{AMS = "American Mathematical Society" }
+ @String{Birkhauser = "Birkh{\"a}user" }
+ @String{CambridgePress = "Cambridge University Press" }
+ @String{Chelsea = "Chelsea" }
+ @String{ClaredonPress = "Claredon Press" }
+ @String{DoverPub = "Dover Publications" }
+ @String{Eyolles = "Eyolles" }
+ @String{HoltRinehartWinston = "Holt, Rinehart and Winston" }
+ @String{Interscience = "Interscience" }
+ @String{JohnsHopkinsPress = "The Johns Hopkins University Press" }
+ @String{JohnWileySons = "John Wiley and Sons" }
+ @String{Macmillan = "Macmillan" }
+ @String{MathWorks = "The Math Works Inc." }
+ @String{McGrawHill = "McGraw-Hill" }
+ @String{NatBurStd = "National Bureau of Standards" }
+ @String{NorthHolland = "North-Holland" }
+ @String{OxfordPress = "Oxford University Press" }  %address Oxford or London?
+ @String{PergamonPress = "Pergamon Press" }
+ @String{PlenumPress = "Plenum Press" }
+ @String{PrenticeHall = "Prentice-Hall" }
+ @String{SIAMPub = "{SIAM} Publications" }
+ @String{Springer = "Springer-Verlag" }
+ @String{TexasPress = "University of Texas Press" }
+ @String{VanNostrand = "Van Nostrand" }
+ @String{WHFreeman = "W. H. Freeman and Co." }
+
+%Entries
+
+@techreport{ghanta_2017,
+  author      = {Sriram Ghanta},
+  title       = {Layered Observability Architectures for {JVM}-Based Systems: From {VM}-Level Instrumentation to Production-Scale Telemetry},
+  institution = {Technical Report},
+  year        = {2017}
+}
+
+@article{haghshenas_2023,
+  author  = {Amir Hossein Haghshenas and Naser Ezzati-Jivan and Michel Dagenais},
+  title   = {Balancing Instrumentation Costs and Performance Insights: A Cost-Aware Approach to Execution Monitoring},
+  journal = {SSRN Electronic Journal},
+  year    = {2023},
+  doi     = {10.2139/ssrn.4556986},
+  url     = {https://doi.org/10.2139/ssrn.4556986}
+}
+
+@inproceedings{cantrill_2004,
+  author    = {Bryan M. Cantrill and Michael W. Shapiro and Adam H. Leventhal},
+  title     = {Dynamic Instrumentation of Production Systems},
+  booktitle = {Proceedings of the USENIX Annual Technical Conference (USENIX ATC)},
+  pages     = {15--28},
+  year      = {2004},
+  publisher = {USENIX Association},
+  address   = {Boston, MA, USA},
+  url       = {https://www.usenix.org/legacy/event/usenix04/tech/general/cantrill.html}
+}
+
+@inproceedings{spensky_2016,
+  author    = {Chad Spensky and Aravind Prakash and Justin C. Klein and Robert J. Walls},
+  title     = {{LO-PHI}: Low-Observable Physical Host Instrumentation for Malware Analysis},
+  booktitle = {Proceedings of the Network and Distributed System Security Symposium (NDSS)},
+  year      = {2016},
+  month     = feb,
+  publisher = {Internet Society},
+  address   = {San Diego, CA, USA},
+  pages     = {1--15},
+  doi       = {10.14722/ndss.2016.23121},
+  url       = {https://dx.doi.org/10.14722/ndss.2016.23121}
+}
+
+@inproceedings{volpert_2025,
+  author    = {Arthur Volpert and Andreas Rain and Stefan Wesner},
+  title     = {Towards {eBPF} Overhead Quantification: An Exemplary Comparison of {eBPF} and {SystemTap}},
+  booktitle = {Companion of the 2025 ACM/SPEC International Conference on Performance Engineering (ICPE '25)},
+  pages     = {120--127},
+  year      = {2025},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  doi       = {10.1145/3680256.3721311},
+  url       = {https://doi.org/10.1145/3680256.3721311}
+}
+
+@inproceedings{vysocky_2019,
+  author    = {Ond{\v{r}}ej Vysock{\'y} and Lubom{\'\i}r {\v{R}}{\'\i}ha and Martin Golasowski and Tom{\'a}{\v{s}} Brzobohat{\'y} and V{\'a}clav {\v{S}}vaton},
+  title     = {Overview of Application Instrumentation for Performance Analysis and Tuning},
+  booktitle = {Euro-Par 2019: Parallel Processing Workshops},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {11997},
+  pages     = {161--173},
+  year      = {2020},
+  publisher = {Springer},
+  address   = {Cham, Switzerland},
+  doi       = {10.1007/978-3-030-43222-5_14},
+  url       = {https://doi.org/10.1007/978-3-030-43222-5_14}
+}
+
+@article{ramesh_2025,
+  author    = {P. Ramesh},
+  title     = {{ENHANCED CLOUD OBSERVABILITY}: An Integrated Framework for Incident Analysis Using {RED}, {USE}, and {MDC} Methodologies},
+  journal   = {International Journal of Information Technology and Management Information System (IJITMIS)},
+  volume    = {16},
+  number    = {1},
+  pages     = {51--63},
+  month     = jan,
+  year      = {2025},
+  publisher = {IAEME Publication},
+  doi       = {10.34218/ijitmis_16_01_051},
+  url       = {https://doi.org/10.34218/ijitmis_16_01_051}
+}
+
+@phdthesis{mos_2004,
+  author  = {Adrian Mos},
+  title   = {A Framework for Adaptive Monitoring and Performance Management of Component-Based Enterprise Applications},
+  school  = {School of Computing, Dublin City University},
+  year    = {2004},
+  address = {Dublin, Ireland}
+}
+
+@inproceedings{wang_2025,
+  author    = {Taizheng Wang and Chunyang Ye and Hui Zhou and Wei Chang and Chaoyi Li},
+  title     = {Enhancing Service Observability Through Bytecode-Level Variable Monitoring},
+  booktitle = {Proceedings of the 2025 IEEE International Conference on Web Services (ICWS)},
+  year      = {2025},
+  pages     = {880--882},
+  publisher = {IEEE},
+  address   = {Helsinki, Finland},
+  doi       = {10.1109/icws67624.2025.00114},
+  url       = {https://doi.org/10.1109/icws67624.2025.00114}
+}
+
+@inproceedings{yang_2025,
+  author    = {Yiwei Yang and Tong Yu and Yusheng Zheng and Andrew Quinn},
+  title     = {{eGPU}: Extending {eBPF} Programmability and Observability to {GPUs}},
+  booktitle = {Proceedings of the 4th Workshop on Heterogeneous Composable and Disaggregated Systems (HCDS)},
+  year      = {2025},
+  month     = mar,
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  pages     = {1--6},
+  doi       = {10.1145/3723851.3726984},
+  url       = {https://doi.org/10.1145/3723851.3726984}
+}
+
+@phdthesis{shende_2001,
+  author  = {Sameer Suresh Shende},
+  title   = {The Role of Instrumentation and Mapping in Performance Measurement},
+  school  = {Department of Computer and Information Science, University of Oregon},
+  year    = {2001},
+  address = {Eugene, OR, USA}
+}
+
+@inproceedings{wang_hou_2025,
+  author    = {Hou Wang and Feng Chen and Xiang Chen},
+  title     = {{EXIST}: Enabling Extremely Efficient Intra-Service Tracing Observability in Datacenters},
+  booktitle = {Proceedings of the Twentieth European Conference on Computer Systems (EuroSys '25)},
+  year      = {2025},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  doi       = {10.1145/3676641.3716283},
+  url       = {https://doi.org/10.1145/3676641.3716283}
+}
+
+@inproceedings{brown_2003,
+  author    = {Aaron B. Brown and David A. Patterson},
+  title     = {Analyzing Application Performance Using a System Monitoring Database},
+  booktitle = {Proceedings of the International Conference of the Computer Measurement Group (CMG)},
+  year      = {2003},
+  address   = {Dallas, TX, USA}
+}
+
+@techreport{brandt_2018,
+  author      = {James M. Brandt and Jeremy Enos and Ann Gentile and Mike Showerman},
+  title       = {Application Performance Insights via System Monitoring},
+  institution = {Sandia National Laboratories},
+  number      = {SAND2018-6888C},
+  year        = {2018},
+  address     = {Albuquerque, NM, USA},
+  url         = {https://www.osti.gov/servlets/purl/1515734}
+}
+
+@inproceedings{kumar_2023,
+  author    = {Abhijit Kumar and Tauseef Ahmed and Konica Saini and Jay Kumar},
+  title     = {{NEOS}: Non-intrusive Edge Observability Stack Based on Zero Trust Security Model for Ubiquitous Computing},
+  booktitle = {Proceedings of the 2023 IEEE International Conference on Edge Computing and Communications (EDGE)},
+  year      = {2023},
+  pages     = {79--84},
+  publisher = {IEEE},
+  address   = {Chicago, IL, USA},
+  doi       = {10.1109/EDGE60047.2023.00023}
+}
+
+@techreport{sivasubramaniam_1994,
+  author      = {Anand Sivasubramaniam and Aman Singla and Umakishore Ramachandran and H. Venkateswaran},
+  title       = {A Comparative Evaluation of Techniques for Studying Parallel System Performance},
+  institution = {College of Computing, Georgia Institute of Technology},
+  number      = {GIT-CC-94/38},
+  year        = {1994},
+  address     = {Atlanta, GA, USA}
+}
+
+@phdthesis{ilsche_2020,
+  author    = {Thomas Ilsche},
+  title     = {Energy Measurements of High Performance Computing Systems: From Instrumentation to Analysis},
+  school    = {Dresden University of Technology},
+  year      = {2020},
+  address   = {Dresden, Germany},
+  doi       = {10.25368/2021.16},
+  url       = {https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-716000}
+}
+
+@misc{permata_advanced,
+  author = {Permata},
+  title = {{Advanced Instrumentation Techniques in Java Applications}},
+  year   = {2020}
+}
+
+@phdthesis{reilly_2006,
+  author  = {Darren Reilly},
+  title   = {A Dynamic Middleware-Based Instrumentation Framework to Assist the Understanding of Distributed Applications},
+  school  = {Liverpool John Moores University},
+  year    = {2006},
+  address = {Liverpool, UK},
+  doi     = {10.24377/LJMU.T.00005815},
+  url     = {https://doi.org/10.24377/LJMU.T.00005815}
+}
+
+@article{jalukuri_2025,
+  author  = {Suresh Jalukuri},
+  title   = {The Evolution of Cloud Resilience: Observability, Automation, and High Availability},
+  journal = {Journal of Computer Science and Technology Studies},
+  volume  = {7},
+  number  = {1},
+  pages   = {112--124},
+  year    = {2025},
+  doi     = {10.32996/jcsts.2025.7.5.7},
+  url     = {https://doi.org/10.32996/jcsts.2025.7.5.7}
+}
+
+@misc{skiljan_monitoring,
+  author = {I. {\v{S}}kiljan and others},
+  title  = {{Monitoring Systems: Concepts and Tools}},
+  year   = {2021}
+}
+
+@inproceedings{wu_2020,
+  author    = {Li Wu and Johan Tordsson and Jasmin Bogatinovski and Alexander Acker and Odej Kao},
+  title     = {{MicroRCA}: Root Cause Localization of Performance Issues in Microservices},
+  booktitle = {Proceedings of the IEEE/IFIP Network Operations and Management Symposium (NOMS)},
+  year      = {2020},
+  pages     = {1--9},
+  publisher = {IEEE},
+  address   = {Budapest, Hungary},
+  doi       = {10.1109/NOMS47738.2020.9110353},
+  url       = {https://doi.org/10.1109/NOMS47738.2020.9110353}
+}
+
+@misc{hauck_service,
+  author = {Franz J. Hauck and Igor Radisic},
+  title  = {Service-Oriented Application Management: Do Current Techniques Meet the Requirements?},
+  year   = {2021}
+}
+
+@article{garcia_2000,
+  author    = {Vicente Garc{\'\i}a and Jos{\'e} M. L{\'o}pez and Daniel F. Garc{\'\i}a and Javier Tuya},
+  title     = {Model-Driven Monitoring Support for the Multi-View Performance Analysis of Parallel Embedded Applications},
+  journal   = {Performance Evaluation},
+  volume    = {40},
+  number    = {1--3},
+  pages     = {197--214},
+  year      = {2000},
+  publisher = {Elsevier},
+  doi       = {10.1016/S0166-5316(99)00059-0},
+  url       = {https://doi.org/10.1016/S0166-5316(99)00059-0}
+}
+
+@phdthesis{waheed_instrumentation,
+  author  = {Abdul Waheed},
+  title   = {Instrumentation System Design, Modeling, and Evaluation},
+  school  = {Department of Computer Science, Michigan State University},
+  year    = {1997},
+  address = {East Lansing, MI, USA}
+}
+
+@incollection{debes_application,
+  author    = {Norbert Debes},
+  title     = {Application Instrumentation and End-to-End Tracing},
+  booktitle = {Secrets of the Oracle Database},
+  publisher = {Apress},
+  address   = {Berkeley, CA, USA},
+  pages     = {251--267},
+  year      = {2010},
+  doi       = {10.1007/978-1-4302-1953-8_23},
+  url       = {https://doi.org/10.1007/978-1-4302-1953-8_23}
+}
+
+@book{gregg_2019,
+  author    = {Brendan Gregg},
+  title     = {{BPF} Performance Tools: Linux System and Application Observability},
+  publisher = {Addison-Wesley Professional},
+  year      = {2019},
+  address   = {Boston, MA, USA},
+  isbn      = {978-0-13-655482-0}
+}
+
+@misc{ceccarelli_2012,
+  author = {Andrea Ceccarelli},
+  title  = {Analysis of Critical Systems Through Rigorous, Reproducible and Comparable Experimental Assessment},
+  year   = {2012}
+}
+
+@article{marvis_2024,
+  author   = {Okpako Marvis and Olanriwaju Babatunde and Eguavoen Victor Osasu},
+  title    = {Exploring Tracing in Microservice Applications: Leveraging Zipkin for Enhanced Observability},
+  journal  = {International Journal of Research and Scientific Innovation (IJRSI)},
+  volume   = {11},
+  number   = {11},
+  pages    = {384--395},
+  month    = nov,
+  year     = {2024},
+  doi      = {10.51244/IJRSI.2024.11110030},
+  url      = {https://rsisinternational.org/journals/ijrsi/articles/exploring-tracing-in-microservice-applications-leveraging-zipkin-for-enhanced-observability/}
+}
+
+@article{cantrill_2006,
+  author    = {Bryan M. Cantrill},
+  title     = {Hidden in Plain Sight: Improvements in the Observability of Software},
+  journal   = {ACM Queue},
+  volume    = {4},
+  number    = {1},
+  pages     = {26--36},
+  year      = {2006},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  doi       = {10.1145/1117389.1117401},
+  url       = {https://doi.org/10.1145/1117389.1117401}
+}
+
+@inproceedings{cartaxo_2018,
+  author    = {Bruno Cartaxo and Gustavo Pinto and S{\'e}rgio Soares},
+  title     = {The Role of Rapid Reviews in Supporting Decision-Making in Software Engineering Practice},
+  booktitle = {Proceedings of the 22nd International Conference on Evaluation and Assessment in Software Engineering (EASE)},
+  year      = {2018},
+  pages     = {24--34},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  doi       = {10.1145/3210459.3210462}
+}
+
+@book{wohlin_2012,
+  author    = {Claes Wohlin and Per Runeson and Martin H{\"o}st and Magnus C. Ohlsson and Bj{\"o}rn Regnell and Anders Wessl{\'e}n},
+  title     = {Experimentation in Software Engineering},
+  year      = {2012},
+  publisher = {Springer Science \& Business Media},
+  address   = {Berlin, Heidelberg},
+  doi       = {10.1007/978-3-642-29044-2}
+}

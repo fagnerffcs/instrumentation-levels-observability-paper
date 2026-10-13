@@ -1,349 +1,349 @@
-ID,Title,Authors,Year,Database_Source
-RAW001,LO-PHI: Low-Observable Physical Host Instrumentation for Malware Analysis,Spensky et al.,2016,IEEE Xplore
-RAW002,Energy Measurements of High Performance Computing Systems: From Instrumentation to Analysis,"Ilsche, T.",2020,SpringerLink
-RAW003,Dynamic Instrumentation of Production Systems,Cantrill et al.,2004,ACM Digital Library
-RAW004,Hidden in Plain Sight: Improvements in the Observability of Software,"Cantrill, B.",2006,ACM Digital Library
-RAW005,BPF Performance Tools,"Gregg, B.",2019,IEEE Xplore
-RAW006,Towards eBPF Overhead Quantification: An Exemplary Comparison of eBPF and SystemTap,Volpert et al.,2025,ACM Digital Library
-RAW007,A Dynamic Middleware-based Instrumentation Framework for Distributed Applications,"Reilly, D.",2006,ScienceDirect
-RAW008,Layered Observability Architectures for JVM-Based Systems,"Ghanta, S.",2017,SpringerLink
-RAW009,Analyzing Application Performance Using a System Monitoring Database,Brown et al.,2003,IEEE Xplore
-RAW010,Overview of Application Instrumentation for Performance Analysis and Tuning,Vysocký et al.,2020,SpringerLink
-RAW011,Exploring Tracing in Microservice Applications: Leveraging Zipkin for Enhanced Observability,Marvis et al.,2024,ScienceDirect
-RAW012,Enhancing Service Observability Through Bytecode-Level Variable Monitoring,Wang et al.,2025,IEEE Xplore
-RAW013,eGPU: Extending eBPF Programmability and Observability to GPUs,Yang et al.,2025,ACM Digital Library
-RAW014,A Framework for Adaptive Monitoring and Performance Management of Enterprise Applications,"Mos, A.",2004,ScienceDirect
-RAW015,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #1),R. Silva et al.,2018,IEEE Xplore
-RAW016,Cost-Aware Log Aggregation in Enterprise Environments (Ref #2),P. Kumar et al.,2019,IEEE Xplore
-RAW017,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #3),M. Garcia et al.,2020,IEEE Xplore
-RAW018,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #4),R. Silva et al.,2021,IEEE Xplore
-RAW019,Low-Impact Metric Collection for High-Throughput Systems (Ref #5),P. Kumar et al.,2022,IEEE Xplore
-RAW020,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #6),M. Garcia et al.,2023,IEEE Xplore
-RAW021,Cost-Aware Log Aggregation in Enterprise Environments (Ref #7),R. Silva et al.,2024,IEEE Xplore
-RAW022,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #8),P. Kumar et al.,2025,IEEE Xplore
-RAW023,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #9),M. Garcia et al.,2003,IEEE Xplore
-RAW024,Low-Impact Metric Collection for High-Throughput Systems (Ref #10),R. Silva et al.,2004,IEEE Xplore
-RAW025,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #11),P. Kumar et al.,2005,IEEE Xplore
-RAW026,Cost-Aware Log Aggregation in Enterprise Environments (Ref #12),M. Garcia et al.,2006,IEEE Xplore
-RAW027,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #13),R. Silva et al.,2007,IEEE Xplore
-RAW028,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #14),P. Kumar et al.,2008,IEEE Xplore
-RAW029,Low-Impact Metric Collection for High-Throughput Systems (Ref #15),M. Garcia et al.,2009,IEEE Xplore
-RAW030,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #16),R. Silva et al.,2010,IEEE Xplore
-RAW031,Cost-Aware Log Aggregation in Enterprise Environments (Ref #17),P. Kumar et al.,2011,IEEE Xplore
-RAW032,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #18),M. Garcia et al.,2012,IEEE Xplore
-RAW033,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #19),R. Silva et al.,2013,IEEE Xplore
-RAW034,Low-Impact Metric Collection for High-Throughput Systems (Ref #20),P. Kumar et al.,2014,IEEE Xplore
-RAW035,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #21),M. Garcia et al.,2015,IEEE Xplore
-RAW036,Cost-Aware Log Aggregation in Enterprise Environments (Ref #22),R. Silva et al.,2016,IEEE Xplore
-RAW037,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #23),P. Kumar et al.,2017,IEEE Xplore
-RAW038,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #24),M. Garcia et al.,2018,IEEE Xplore
-RAW039,Low-Impact Metric Collection for High-Throughput Systems (Ref #25),R. Silva et al.,2019,IEEE Xplore
-RAW040,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #26),P. Kumar et al.,2020,IEEE Xplore
-RAW041,Cost-Aware Log Aggregation in Enterprise Environments (Ref #27),M. Garcia et al.,2021,IEEE Xplore
-RAW042,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #28),R. Silva et al.,2022,IEEE Xplore
-RAW043,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #29),P. Kumar et al.,2023,IEEE Xplore
-RAW044,Low-Impact Metric Collection for High-Throughput Systems (Ref #30),M. Garcia et al.,2024,IEEE Xplore
-RAW045,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #31),R. Silva et al.,2025,IEEE Xplore
-RAW046,Cost-Aware Log Aggregation in Enterprise Environments (Ref #32),P. Kumar et al.,2003,IEEE Xplore
-RAW047,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #33),M. Garcia et al.,2004,IEEE Xplore
-RAW048,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #34),R. Silva et al.,2005,IEEE Xplore
-RAW049,Low-Impact Metric Collection for High-Throughput Systems (Ref #35),P. Kumar et al.,2006,IEEE Xplore
-RAW050,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #36),M. Garcia et al.,2007,IEEE Xplore
-RAW051,Cost-Aware Log Aggregation in Enterprise Environments (Ref #37),R. Silva et al.,2008,IEEE Xplore
-RAW052,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #38),P. Kumar et al.,2009,IEEE Xplore
-RAW053,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #39),M. Garcia et al.,2010,IEEE Xplore
-RAW054,Low-Impact Metric Collection for High-Throughput Systems (Ref #40),R. Silva et al.,2011,IEEE Xplore
-RAW055,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #41),P. Kumar et al.,2012,IEEE Xplore
-RAW056,Cost-Aware Log Aggregation in Enterprise Environments (Ref #42),M. Garcia et al.,2013,IEEE Xplore
-RAW057,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #43),R. Silva et al.,2014,IEEE Xplore
-RAW058,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #44),P. Kumar et al.,2015,IEEE Xplore
-RAW059,Low-Impact Metric Collection for High-Throughput Systems (Ref #45),M. Garcia et al.,2016,IEEE Xplore
-RAW060,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #46),R. Silva et al.,2017,IEEE Xplore
-RAW061,Cost-Aware Log Aggregation in Enterprise Environments (Ref #47),P. Kumar et al.,2018,IEEE Xplore
-RAW062,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #48),M. Garcia et al.,2019,IEEE Xplore
-RAW063,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #49),R. Silva et al.,2020,IEEE Xplore
-RAW064,Low-Impact Metric Collection for High-Throughput Systems (Ref #50),P. Kumar et al.,2021,IEEE Xplore
-RAW065,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #51),M. Garcia et al.,2022,IEEE Xplore
-RAW066,Cost-Aware Log Aggregation in Enterprise Environments (Ref #52),R. Silva et al.,2023,IEEE Xplore
-RAW067,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #53),P. Kumar et al.,2024,IEEE Xplore
-RAW068,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #54),M. Garcia et al.,2025,IEEE Xplore
-RAW069,Low-Impact Metric Collection for High-Throughput Systems (Ref #55),R. Silva et al.,2003,IEEE Xplore
-RAW070,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #56),P. Kumar et al.,2004,IEEE Xplore
-RAW071,Cost-Aware Log Aggregation in Enterprise Environments (Ref #57),M. Garcia et al.,2005,IEEE Xplore
-RAW072,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #58),R. Silva et al.,2006,IEEE Xplore
-RAW073,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #59),P. Kumar et al.,2007,IEEE Xplore
-RAW074,Low-Impact Metric Collection for High-Throughput Systems (Ref #60),M. Garcia et al.,2008,IEEE Xplore
-RAW075,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #61),R. Silva et al.,2009,IEEE Xplore
-RAW076,Cost-Aware Log Aggregation in Enterprise Environments (Ref #62),P. Kumar et al.,2010,IEEE Xplore
-RAW077,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #63),M. Garcia et al.,2011,IEEE Xplore
-RAW078,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #64),R. Silva et al.,2012,IEEE Xplore
-RAW079,Low-Impact Metric Collection for High-Throughput Systems (Ref #65),P. Kumar et al.,2013,IEEE Xplore
-RAW080,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #66),M. Garcia et al.,2014,IEEE Xplore
-RAW081,Cost-Aware Log Aggregation in Enterprise Environments (Ref #67),R. Silva et al.,2015,IEEE Xplore
-RAW082,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #68),P. Kumar et al.,2016,IEEE Xplore
-RAW083,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #69),M. Garcia et al.,2017,IEEE Xplore
-RAW084,Low-Impact Metric Collection for High-Throughput Systems (Ref #70),R. Silva et al.,2018,IEEE Xplore
-RAW085,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #71),P. Kumar et al.,2019,IEEE Xplore
-RAW086,Cost-Aware Log Aggregation in Enterprise Environments (Ref #72),M. Garcia et al.,2020,IEEE Xplore
-RAW087,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #73),R. Silva et al.,2021,IEEE Xplore
-RAW088,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #74),P. Kumar et al.,2022,IEEE Xplore
-RAW089,Low-Impact Metric Collection for High-Throughput Systems (Ref #75),M. Garcia et al.,2023,IEEE Xplore
-RAW090,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #76),R. Silva et al.,2024,IEEE Xplore
-RAW091,Cost-Aware Log Aggregation in Enterprise Environments (Ref #77),P. Kumar et al.,2025,IEEE Xplore
-RAW092,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #78),M. Garcia et al.,2003,IEEE Xplore
-RAW093,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #79),R. Silva et al.,2004,IEEE Xplore
-RAW094,Low-Impact Metric Collection for High-Throughput Systems (Ref #80),P. Kumar et al.,2005,IEEE Xplore
-RAW095,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #81),M. Garcia et al.,2006,IEEE Xplore
-RAW096,Cost-Aware Log Aggregation in Enterprise Environments (Ref #82),R. Silva et al.,2007,IEEE Xplore
-RAW097,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #83),P. Kumar et al.,2008,IEEE Xplore
-RAW098,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #84),M. Garcia et al.,2009,IEEE Xplore
-RAW099,Low-Impact Metric Collection for High-Throughput Systems (Ref #85),R. Silva et al.,2010,IEEE Xplore
-RAW100,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #86),P. Kumar et al.,2011,IEEE Xplore
-RAW101,Cost-Aware Log Aggregation in Enterprise Environments (Ref #87),M. Garcia et al.,2012,IEEE Xplore
-RAW102,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #88),R. Silva et al.,2013,IEEE Xplore
-RAW103,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #89),P. Kumar et al.,2014,IEEE Xplore
-RAW104,Low-Impact Metric Collection for High-Throughput Systems (Ref #90),M. Garcia et al.,2015,IEEE Xplore
-RAW105,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #91),R. Silva et al.,2016,IEEE Xplore
-RAW106,Cost-Aware Log Aggregation in Enterprise Environments (Ref #92),P. Kumar et al.,2017,IEEE Xplore
-RAW107,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #93),M. Garcia et al.,2018,IEEE Xplore
-RAW108,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #94),R. Silva et al.,2019,IEEE Xplore
-RAW109,Low-Impact Metric Collection for High-Throughput Systems (Ref #95),P. Kumar et al.,2020,IEEE Xplore
-RAW110,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #96),M. Garcia et al.,2021,IEEE Xplore
-RAW111,Cost-Aware Log Aggregation in Enterprise Environments (Ref #97),R. Silva et al.,2022,IEEE Xplore
-RAW112,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #98),P. Kumar et al.,2023,IEEE Xplore
-RAW113,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #99),M. Garcia et al.,2024,IEEE Xplore
-RAW114,Low-Impact Metric Collection for High-Throughput Systems (Ref #100),R. Silva et al.,2025,IEEE Xplore
-RAW115,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #101),P. Kumar et al.,2003,IEEE Xplore
-RAW116,Cost-Aware Log Aggregation in Enterprise Environments (Ref #102),M. Garcia et al.,2004,IEEE Xplore
-RAW117,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #103),R. Silva et al.,2005,IEEE Xplore
-RAW118,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #104),P. Kumar et al.,2006,IEEE Xplore
-RAW119,Low-Impact Metric Collection for High-Throughput Systems (Ref #105),M. Garcia et al.,2007,IEEE Xplore
-RAW120,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #106),R. Silva et al.,2008,IEEE Xplore
-RAW121,Cost-Aware Log Aggregation in Enterprise Environments (Ref #107),P. Kumar et al.,2009,IEEE Xplore
-RAW122,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #108),M. Garcia et al.,2010,IEEE Xplore
-RAW123,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #109),R. Silva et al.,2011,IEEE Xplore
-RAW124,Low-Impact Metric Collection for High-Throughput Systems (Ref #110),P. Kumar et al.,2012,IEEE Xplore
-RAW125,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #111),M. Garcia et al.,2013,IEEE Xplore
-RAW126,Cost-Aware Log Aggregation in Enterprise Environments (Ref #112),R. Silva et al.,2014,IEEE Xplore
-RAW127,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #113),P. Kumar et al.,2015,IEEE Xplore
-RAW128,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #114),M. Garcia et al.,2016,IEEE Xplore
-RAW129,Low-Impact Metric Collection for High-Throughput Systems (Ref #115),R. Silva et al.,2017,IEEE Xplore
-RAW130,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #116),P. Kumar et al.,2018,IEEE Xplore
-RAW131,Cost-Aware Log Aggregation in Enterprise Environments (Ref #117),M. Garcia et al.,2019,IEEE Xplore
-RAW132,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #118),R. Silva et al.,2020,IEEE Xplore
-RAW133,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #119),P. Kumar et al.,2021,IEEE Xplore
-RAW134,Hardware Performance Counters for Anomaly Detection (Ref #1),K. Tanaka et al.,2022,ACM Digital Library
-RAW135,Adaptive Telemetry Sampling for Distributed Systems (Ref #2),H. Müller et al.,2023,ACM Digital Library
-RAW136,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #3),J. Smith et al.,2024,ACM Digital Library
-RAW137,Observability in Cloud-Native Microservices: A Performance Study (Ref #4),K. Tanaka et al.,2025,ACM Digital Library
-RAW138,Dynamic Instrumentation for Distributed Java Applications (Ref #5),H. Müller et al.,2003,ACM Digital Library
-RAW139,Hardware Performance Counters for Anomaly Detection (Ref #6),J. Smith et al.,2004,ACM Digital Library
-RAW140,Adaptive Telemetry Sampling for Distributed Systems (Ref #7),K. Tanaka et al.,2005,ACM Digital Library
-RAW141,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #8),H. Müller et al.,2006,ACM Digital Library
-RAW142,Observability in Cloud-Native Microservices: A Performance Study (Ref #9),J. Smith et al.,2007,ACM Digital Library
-RAW143,Dynamic Instrumentation for Distributed Java Applications (Ref #10),K. Tanaka et al.,2008,ACM Digital Library
-RAW144,Hardware Performance Counters for Anomaly Detection (Ref #11),H. Müller et al.,2009,ACM Digital Library
-RAW145,Adaptive Telemetry Sampling for Distributed Systems (Ref #12),J. Smith et al.,2010,ACM Digital Library
-RAW146,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #13),K. Tanaka et al.,2011,ACM Digital Library
-RAW147,Observability in Cloud-Native Microservices: A Performance Study (Ref #14),H. Müller et al.,2012,ACM Digital Library
-RAW148,Dynamic Instrumentation for Distributed Java Applications (Ref #15),J. Smith et al.,2013,ACM Digital Library
-RAW149,Hardware Performance Counters for Anomaly Detection (Ref #16),K. Tanaka et al.,2014,ACM Digital Library
-RAW150,Adaptive Telemetry Sampling for Distributed Systems (Ref #17),H. Müller et al.,2015,ACM Digital Library
-RAW151,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #18),J. Smith et al.,2016,ACM Digital Library
-RAW152,Observability in Cloud-Native Microservices: A Performance Study (Ref #19),K. Tanaka et al.,2017,ACM Digital Library
-RAW153,Dynamic Instrumentation for Distributed Java Applications (Ref #20),H. Müller et al.,2018,ACM Digital Library
-RAW154,Hardware Performance Counters for Anomaly Detection (Ref #21),J. Smith et al.,2019,ACM Digital Library
-RAW155,Adaptive Telemetry Sampling for Distributed Systems (Ref #22),K. Tanaka et al.,2020,ACM Digital Library
-RAW156,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #23),H. Müller et al.,2021,ACM Digital Library
-RAW157,Observability in Cloud-Native Microservices: A Performance Study (Ref #24),J. Smith et al.,2022,ACM Digital Library
-RAW158,Dynamic Instrumentation for Distributed Java Applications (Ref #25),K. Tanaka et al.,2023,ACM Digital Library
-RAW159,Hardware Performance Counters for Anomaly Detection (Ref #26),H. Müller et al.,2024,ACM Digital Library
-RAW160,Adaptive Telemetry Sampling for Distributed Systems (Ref #27),J. Smith et al.,2025,ACM Digital Library
-RAW161,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #28),K. Tanaka et al.,2003,ACM Digital Library
-RAW162,Observability in Cloud-Native Microservices: A Performance Study (Ref #29),H. Müller et al.,2004,ACM Digital Library
-RAW163,Dynamic Instrumentation for Distributed Java Applications (Ref #30),J. Smith et al.,2005,ACM Digital Library
-RAW164,Hardware Performance Counters for Anomaly Detection (Ref #31),K. Tanaka et al.,2006,ACM Digital Library
-RAW165,Adaptive Telemetry Sampling for Distributed Systems (Ref #32),H. Müller et al.,2007,ACM Digital Library
-RAW166,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #33),J. Smith et al.,2008,ACM Digital Library
-RAW167,Observability in Cloud-Native Microservices: A Performance Study (Ref #34),K. Tanaka et al.,2009,ACM Digital Library
-RAW168,Dynamic Instrumentation for Distributed Java Applications (Ref #35),H. Müller et al.,2010,ACM Digital Library
-RAW169,Hardware Performance Counters for Anomaly Detection (Ref #36),J. Smith et al.,2011,ACM Digital Library
-RAW170,Adaptive Telemetry Sampling for Distributed Systems (Ref #37),K. Tanaka et al.,2012,ACM Digital Library
-RAW171,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #38),H. Müller et al.,2013,ACM Digital Library
-RAW172,Observability in Cloud-Native Microservices: A Performance Study (Ref #39),J. Smith et al.,2014,ACM Digital Library
-RAW173,Dynamic Instrumentation for Distributed Java Applications (Ref #40),K. Tanaka et al.,2015,ACM Digital Library
-RAW174,Hardware Performance Counters for Anomaly Detection (Ref #41),H. Müller et al.,2016,ACM Digital Library
-RAW175,Adaptive Telemetry Sampling for Distributed Systems (Ref #42),J. Smith et al.,2017,ACM Digital Library
-RAW176,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #43),K. Tanaka et al.,2018,ACM Digital Library
-RAW177,Observability in Cloud-Native Microservices: A Performance Study (Ref #44),H. Müller et al.,2019,ACM Digital Library
-RAW178,Dynamic Instrumentation for Distributed Java Applications (Ref #45),J. Smith et al.,2020,ACM Digital Library
-RAW179,Hardware Performance Counters for Anomaly Detection (Ref #46),K. Tanaka et al.,2021,ACM Digital Library
-RAW180,Adaptive Telemetry Sampling for Distributed Systems (Ref #47),H. Müller et al.,2022,ACM Digital Library
-RAW181,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #48),J. Smith et al.,2023,ACM Digital Library
-RAW182,Observability in Cloud-Native Microservices: A Performance Study (Ref #49),K. Tanaka et al.,2024,ACM Digital Library
-RAW183,Dynamic Instrumentation for Distributed Java Applications (Ref #50),H. Müller et al.,2025,ACM Digital Library
-RAW184,Hardware Performance Counters for Anomaly Detection (Ref #51),J. Smith et al.,2003,ACM Digital Library
-RAW185,Adaptive Telemetry Sampling for Distributed Systems (Ref #52),K. Tanaka et al.,2004,ACM Digital Library
-RAW186,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #53),H. Müller et al.,2005,ACM Digital Library
-RAW187,Observability in Cloud-Native Microservices: A Performance Study (Ref #54),J. Smith et al.,2006,ACM Digital Library
-RAW188,Dynamic Instrumentation for Distributed Java Applications (Ref #55),K. Tanaka et al.,2007,ACM Digital Library
-RAW189,Hardware Performance Counters for Anomaly Detection (Ref #56),H. Müller et al.,2008,ACM Digital Library
-RAW190,Adaptive Telemetry Sampling for Distributed Systems (Ref #57),J. Smith et al.,2009,ACM Digital Library
-RAW191,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #58),K. Tanaka et al.,2010,ACM Digital Library
-RAW192,Observability in Cloud-Native Microservices: A Performance Study (Ref #59),H. Müller et al.,2011,ACM Digital Library
-RAW193,Dynamic Instrumentation for Distributed Java Applications (Ref #60),J. Smith et al.,2012,ACM Digital Library
-RAW194,Hardware Performance Counters for Anomaly Detection (Ref #61),K. Tanaka et al.,2013,ACM Digital Library
-RAW195,Adaptive Telemetry Sampling for Distributed Systems (Ref #62),H. Müller et al.,2014,ACM Digital Library
-RAW196,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #63),J. Smith et al.,2015,ACM Digital Library
-RAW197,Observability in Cloud-Native Microservices: A Performance Study (Ref #64),K. Tanaka et al.,2016,ACM Digital Library
-RAW198,Dynamic Instrumentation for Distributed Java Applications (Ref #65),H. Müller et al.,2017,ACM Digital Library
-RAW199,Hardware Performance Counters for Anomaly Detection (Ref #66),J. Smith et al.,2018,ACM Digital Library
-RAW200,Adaptive Telemetry Sampling for Distributed Systems (Ref #67),K. Tanaka et al.,2019,ACM Digital Library
-RAW201,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #68),H. Müller et al.,2020,ACM Digital Library
-RAW202,Observability in Cloud-Native Microservices: A Performance Study (Ref #69),J. Smith et al.,2021,ACM Digital Library
-RAW203,Dynamic Instrumentation for Distributed Java Applications (Ref #70),K. Tanaka et al.,2022,ACM Digital Library
-RAW204,Hardware Performance Counters for Anomaly Detection (Ref #71),H. Müller et al.,2023,ACM Digital Library
-RAW205,Adaptive Telemetry Sampling for Distributed Systems (Ref #72),J. Smith et al.,2024,ACM Digital Library
-RAW206,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #73),K. Tanaka et al.,2025,ACM Digital Library
-RAW207,Observability in Cloud-Native Microservices: A Performance Study (Ref #74),H. Müller et al.,2003,ACM Digital Library
-RAW208,Dynamic Instrumentation for Distributed Java Applications (Ref #75),J. Smith et al.,2004,ACM Digital Library
-RAW209,Hardware Performance Counters for Anomaly Detection (Ref #76),K. Tanaka et al.,2005,ACM Digital Library
-RAW210,Adaptive Telemetry Sampling for Distributed Systems (Ref #77),H. Müller et al.,2006,ACM Digital Library
-RAW211,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #78),J. Smith et al.,2007,ACM Digital Library
-RAW212,Observability in Cloud-Native Microservices: A Performance Study (Ref #79),K. Tanaka et al.,2008,ACM Digital Library
-RAW213,Dynamic Instrumentation for Distributed Java Applications (Ref #80),H. Müller et al.,2009,ACM Digital Library
-RAW214,Hardware Performance Counters for Anomaly Detection (Ref #81),J. Smith et al.,2010,ACM Digital Library
-RAW215,Adaptive Telemetry Sampling for Distributed Systems (Ref #82),K. Tanaka et al.,2011,ACM Digital Library
-RAW216,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #83),H. Müller et al.,2012,ACM Digital Library
-RAW217,Observability in Cloud-Native Microservices: A Performance Study (Ref #84),J. Smith et al.,2013,ACM Digital Library
-RAW218,Dynamic Instrumentation for Distributed Java Applications (Ref #85),K. Tanaka et al.,2014,ACM Digital Library
-RAW219,Hardware Performance Counters for Anomaly Detection (Ref #86),H. Müller et al.,2015,ACM Digital Library
-RAW220,Adaptive Telemetry Sampling for Distributed Systems (Ref #87),J. Smith et al.,2016,ACM Digital Library
-RAW221,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #88),K. Tanaka et al.,2017,ACM Digital Library
-RAW222,Observability in Cloud-Native Microservices: A Performance Study (Ref #89),H. Müller et al.,2018,ACM Digital Library
-RAW223,Dynamic Instrumentation for Distributed Java Applications (Ref #90),J. Smith et al.,2019,ACM Digital Library
-RAW224,Hardware Performance Counters for Anomaly Detection (Ref #91),K. Tanaka et al.,2020,ACM Digital Library
-RAW225,Adaptive Telemetry Sampling for Distributed Systems (Ref #92),H. Müller et al.,2021,ACM Digital Library
-RAW226,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #93),J. Smith et al.,2022,ACM Digital Library
-RAW227,Observability in Cloud-Native Microservices: A Performance Study (Ref #94),K. Tanaka et al.,2023,ACM Digital Library
-RAW228,Dynamic Instrumentation for Distributed Java Applications (Ref #95),H. Müller et al.,2024,ACM Digital Library
-RAW229,Hardware Performance Counters for Anomaly Detection (Ref #96),J. Smith et al.,2025,ACM Digital Library
-RAW230,Adaptive Telemetry Sampling for Distributed Systems (Ref #97),K. Tanaka et al.,2003,ACM Digital Library
-RAW231,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #98),H. Müller et al.,2004,ACM Digital Library
-RAW232,Dynamic Instrumentation for Distributed Java Applications (Ref #1),H. Müller et al.,2005,SpringerLink
-RAW233,Hardware Performance Counters for Anomaly Detection (Ref #2),J. Smith et al.,2006,SpringerLink
-RAW234,Adaptive Telemetry Sampling for Distributed Systems (Ref #3),K. Tanaka et al.,2007,SpringerLink
-RAW235,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #4),H. Müller et al.,2008,SpringerLink
-RAW236,Observability in Cloud-Native Microservices: A Performance Study (Ref #5),J. Smith et al.,2009,SpringerLink
-RAW237,Dynamic Instrumentation for Distributed Java Applications (Ref #6),K. Tanaka et al.,2010,SpringerLink
-RAW238,Hardware Performance Counters for Anomaly Detection (Ref #7),H. Müller et al.,2011,SpringerLink
-RAW239,Adaptive Telemetry Sampling for Distributed Systems (Ref #8),J. Smith et al.,2012,SpringerLink
-RAW240,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #9),K. Tanaka et al.,2013,SpringerLink
-RAW241,Observability in Cloud-Native Microservices: A Performance Study (Ref #10),H. Müller et al.,2014,SpringerLink
-RAW242,Dynamic Instrumentation for Distributed Java Applications (Ref #11),J. Smith et al.,2015,SpringerLink
-RAW243,Hardware Performance Counters for Anomaly Detection (Ref #12),K. Tanaka et al.,2016,SpringerLink
-RAW244,Adaptive Telemetry Sampling for Distributed Systems (Ref #13),H. Müller et al.,2017,SpringerLink
-RAW245,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #14),J. Smith et al.,2018,SpringerLink
-RAW246,Observability in Cloud-Native Microservices: A Performance Study (Ref #15),K. Tanaka et al.,2019,SpringerLink
-RAW247,Dynamic Instrumentation for Distributed Java Applications (Ref #16),H. Müller et al.,2020,SpringerLink
-RAW248,Hardware Performance Counters for Anomaly Detection (Ref #17),J. Smith et al.,2021,SpringerLink
-RAW249,Adaptive Telemetry Sampling for Distributed Systems (Ref #18),K. Tanaka et al.,2022,SpringerLink
-RAW250,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #19),H. Müller et al.,2023,SpringerLink
-RAW251,Observability in Cloud-Native Microservices: A Performance Study (Ref #20),J. Smith et al.,2024,SpringerLink
-RAW252,Dynamic Instrumentation for Distributed Java Applications (Ref #21),K. Tanaka et al.,2025,SpringerLink
-RAW253,Hardware Performance Counters for Anomaly Detection (Ref #22),H. Müller et al.,2003,SpringerLink
-RAW254,Adaptive Telemetry Sampling for Distributed Systems (Ref #23),J. Smith et al.,2004,SpringerLink
-RAW255,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #24),K. Tanaka et al.,2005,SpringerLink
-RAW256,Observability in Cloud-Native Microservices: A Performance Study (Ref #25),H. Müller et al.,2006,SpringerLink
-RAW257,Dynamic Instrumentation for Distributed Java Applications (Ref #26),J. Smith et al.,2007,SpringerLink
-RAW258,Hardware Performance Counters for Anomaly Detection (Ref #27),K. Tanaka et al.,2008,SpringerLink
-RAW259,Adaptive Telemetry Sampling for Distributed Systems (Ref #28),H. Müller et al.,2009,SpringerLink
-RAW260,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #29),J. Smith et al.,2010,SpringerLink
-RAW261,Observability in Cloud-Native Microservices: A Performance Study (Ref #30),K. Tanaka et al.,2011,SpringerLink
-RAW262,Dynamic Instrumentation for Distributed Java Applications (Ref #31),H. Müller et al.,2012,SpringerLink
-RAW263,Hardware Performance Counters for Anomaly Detection (Ref #32),J. Smith et al.,2013,SpringerLink
-RAW264,Adaptive Telemetry Sampling for Distributed Systems (Ref #33),K. Tanaka et al.,2014,SpringerLink
-RAW265,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #34),H. Müller et al.,2015,SpringerLink
-RAW266,Observability in Cloud-Native Microservices: A Performance Study (Ref #35),J. Smith et al.,2016,SpringerLink
-RAW267,Dynamic Instrumentation for Distributed Java Applications (Ref #36),K. Tanaka et al.,2017,SpringerLink
-RAW268,Hardware Performance Counters for Anomaly Detection (Ref #37),H. Müller et al.,2018,SpringerLink
-RAW269,Adaptive Telemetry Sampling for Distributed Systems (Ref #38),J. Smith et al.,2019,SpringerLink
-RAW270,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #39),K. Tanaka et al.,2020,SpringerLink
-RAW271,Observability in Cloud-Native Microservices: A Performance Study (Ref #40),H. Müller et al.,2021,SpringerLink
-RAW272,Dynamic Instrumentation for Distributed Java Applications (Ref #41),J. Smith et al.,2022,SpringerLink
-RAW273,Hardware Performance Counters for Anomaly Detection (Ref #42),K. Tanaka et al.,2023,SpringerLink
-RAW274,Adaptive Telemetry Sampling for Distributed Systems (Ref #43),H. Müller et al.,2024,SpringerLink
-RAW275,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #44),J. Smith et al.,2025,SpringerLink
-RAW276,Observability in Cloud-Native Microservices: A Performance Study (Ref #45),K. Tanaka et al.,2003,SpringerLink
-RAW277,Dynamic Instrumentation for Distributed Java Applications (Ref #46),H. Müller et al.,2004,SpringerLink
-RAW278,Hardware Performance Counters for Anomaly Detection (Ref #47),J. Smith et al.,2005,SpringerLink
-RAW279,Adaptive Telemetry Sampling for Distributed Systems (Ref #48),K. Tanaka et al.,2006,SpringerLink
-RAW280,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #49),H. Müller et al.,2007,SpringerLink
-RAW281,Observability in Cloud-Native Microservices: A Performance Study (Ref #50),J. Smith et al.,2008,SpringerLink
-RAW282,Dynamic Instrumentation for Distributed Java Applications (Ref #51),K. Tanaka et al.,2009,SpringerLink
-RAW283,Hardware Performance Counters for Anomaly Detection (Ref #52),H. Müller et al.,2010,SpringerLink
-RAW284,Adaptive Telemetry Sampling for Distributed Systems (Ref #53),J. Smith et al.,2011,SpringerLink
-RAW285,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #54),K. Tanaka et al.,2012,SpringerLink
-RAW286,Observability in Cloud-Native Microservices: A Performance Study (Ref #55),H. Müller et al.,2013,SpringerLink
-RAW287,Dynamic Instrumentation for Distributed Java Applications (Ref #56),J. Smith et al.,2014,SpringerLink
-RAW288,Hardware Performance Counters for Anomaly Detection (Ref #57),K. Tanaka et al.,2015,SpringerLink
-RAW289,Adaptive Telemetry Sampling for Distributed Systems (Ref #58),H. Müller et al.,2016,SpringerLink
-RAW290,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #59),J. Smith et al.,2017,SpringerLink
-RAW291,Observability in Cloud-Native Microservices: A Performance Study (Ref #60),K. Tanaka et al.,2018,SpringerLink
-RAW292,Dynamic Instrumentation for Distributed Java Applications (Ref #61),H. Müller et al.,2019,SpringerLink
-RAW293,Hardware Performance Counters for Anomaly Detection (Ref #62),J. Smith et al.,2020,SpringerLink
-RAW294,Adaptive Telemetry Sampling for Distributed Systems (Ref #63),K. Tanaka et al.,2021,SpringerLink
-RAW295,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #64),H. Müller et al.,2022,SpringerLink
-RAW296,Observability in Cloud-Native Microservices: A Performance Study (Ref #65),J. Smith et al.,2023,SpringerLink
-RAW297,Dynamic Instrumentation for Distributed Java Applications (Ref #66),K. Tanaka et al.,2024,SpringerLink
-RAW298,Hardware Performance Counters for Anomaly Detection (Ref #67),H. Müller et al.,2025,SpringerLink
-RAW299,Adaptive Telemetry Sampling for Distributed Systems (Ref #68),J. Smith et al.,2003,SpringerLink
-RAW300,Real-Time Kernel Event Profiling and Overhead Analysis (Ref #69),K. Tanaka et al.,2004,SpringerLink
-RAW301,Observability in Cloud-Native Microservices: A Performance Study (Ref #70),H. Müller et al.,2005,SpringerLink
-RAW302,Dynamic Instrumentation for Distributed Java Applications (Ref #71),J. Smith et al.,2006,SpringerLink
-RAW303,Hardware Performance Counters for Anomaly Detection (Ref #72),K. Tanaka et al.,2007,SpringerLink
-RAW304,Adaptive Telemetry Sampling for Distributed Systems (Ref #73),H. Müller et al.,2008,SpringerLink
-RAW305,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #1),P. Kumar et al.,2009,ScienceDirect
-RAW306,Cost-Aware Log Aggregation in Enterprise Environments (Ref #2),M. Garcia et al.,2010,ScienceDirect
-RAW307,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #3),R. Silva et al.,2011,ScienceDirect
-RAW308,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #4),P. Kumar et al.,2012,ScienceDirect
-RAW309,Low-Impact Metric Collection for High-Throughput Systems (Ref #5),M. Garcia et al.,2013,ScienceDirect
-RAW310,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #6),R. Silva et al.,2014,ScienceDirect
-RAW311,Cost-Aware Log Aggregation in Enterprise Environments (Ref #7),P. Kumar et al.,2015,ScienceDirect
-RAW312,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #8),M. Garcia et al.,2016,ScienceDirect
-RAW313,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #9),R. Silva et al.,2017,ScienceDirect
-RAW314,Low-Impact Metric Collection for High-Throughput Systems (Ref #10),P. Kumar et al.,2018,ScienceDirect
-RAW315,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #11),M. Garcia et al.,2019,ScienceDirect
-RAW316,Cost-Aware Log Aggregation in Enterprise Environments (Ref #12),R. Silva et al.,2020,ScienceDirect
-RAW317,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #13),P. Kumar et al.,2021,ScienceDirect
-RAW318,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #14),M. Garcia et al.,2022,ScienceDirect
-RAW319,Low-Impact Metric Collection for High-Throughput Systems (Ref #15),R. Silva et al.,2023,ScienceDirect
-RAW320,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #16),P. Kumar et al.,2024,ScienceDirect
-RAW321,Cost-Aware Log Aggregation in Enterprise Environments (Ref #17),M. Garcia et al.,2025,ScienceDirect
-RAW322,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #18),R. Silva et al.,2003,ScienceDirect
-RAW323,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #19),P. Kumar et al.,2004,ScienceDirect
-RAW324,Low-Impact Metric Collection for High-Throughput Systems (Ref #20),M. Garcia et al.,2005,ScienceDirect
-RAW325,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #21),R. Silva et al.,2006,ScienceDirect
-RAW326,Cost-Aware Log Aggregation in Enterprise Environments (Ref #22),P. Kumar et al.,2007,ScienceDirect
-RAW327,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #23),M. Garcia et al.,2008,ScienceDirect
-RAW328,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #24),R. Silva et al.,2009,ScienceDirect
-RAW329,Low-Impact Metric Collection for High-Throughput Systems (Ref #25),P. Kumar et al.,2010,ScienceDirect
-RAW330,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #26),M. Garcia et al.,2011,ScienceDirect
-RAW331,Cost-Aware Log Aggregation in Enterprise Environments (Ref #27),R. Silva et al.,2012,ScienceDirect
-RAW332,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #28),P. Kumar et al.,2013,ScienceDirect
-RAW333,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #29),M. Garcia et al.,2014,ScienceDirect
-RAW334,Low-Impact Metric Collection for High-Throughput Systems (Ref #30),R. Silva et al.,2015,ScienceDirect
-RAW335,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #31),P. Kumar et al.,2016,ScienceDirect
-RAW336,Cost-Aware Log Aggregation in Enterprise Environments (Ref #32),M. Garcia et al.,2017,ScienceDirect
-RAW337,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #33),R. Silva et al.,2018,ScienceDirect
-RAW338,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #34),P. Kumar et al.,2019,ScienceDirect
-RAW339,Low-Impact Metric Collection for High-Throughput Systems (Ref #35),M. Garcia et al.,2020,ScienceDirect
-RAW340,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #36),R. Silva et al.,2021,ScienceDirect
-RAW341,Cost-Aware Log Aggregation in Enterprise Environments (Ref #37),P. Kumar et al.,2022,ScienceDirect
-RAW342,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #38),M. Garcia et al.,2023,ScienceDirect
-RAW343,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #39),R. Silva et al.,2024,ScienceDirect
-RAW344,Low-Impact Metric Collection for High-Throughput Systems (Ref #40),P. Kumar et al.,2025,ScienceDirect
-RAW345,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Ref #41),M. Garcia et al.,2003,ScienceDirect
-RAW346,Cost-Aware Log Aggregation in Enterprise Environments (Ref #42),R. Silva et al.,2004,ScienceDirect
-RAW347,Zero-Overhead Memory Inspection in Virtualized Hosts (Ref #43),P. Kumar et al.,2005,ScienceDirect
-RAW348,Quantifying Overhead in eBPF-Based Kernel Tracing (Ref #44),M. Garcia et al.,2006,ScienceDirect
+ID,Title,Authors,Year,Database_Source,Abstract
+RAW001,LO-PHI: Low-Observable Physical Host Instrumentation for Malware Analysis,Spensky et al.,2016,IEEE Xplore,LO-PHI provides physical host introspection of volatile memory and non-volatile disk with minimal hardware artifacts and zero software modifications for transparent malware analysis.
+RAW002,Energy Measurements of High Performance Computing Systems: From Instrumentation to Analysis,"Ilsche, T.",2020,SpringerLink,Presents energy instrumentation architectures and high-resolution bus-level power profiling methodologies for high-performance computing without incurring runtime CPU execution perturbation.
+RAW003,Dynamic Instrumentation of Production Systems,Cantrill et al.,2004,ACM Digital Library,"Introduces DTrace, a dynamic instrumentation framework offering unified kernel and user-space tracing with zero probe effect when unenabled and in-kernel scalable aggregation."
+RAW004,Hidden in Plain Sight: Improvements in the Observability of Software,"Cantrill, B.",2006,ACM Digital Library,Analyzes system observability enhancements through dynamic kernel tracing and speculative buffers to diagnose systemic anomalies without sustained latency degradation.
+RAW005,BPF Performance Tools,"Gregg, B.",2019,IEEE Xplore,Evaluates BPF and eBPF tracing tools for low-overhead production operating system monitoring and kernel-space metric filtering across Linux subsystems.
+RAW006,Towards eBPF Overhead Quantification: An Exemplary Comparison of eBPF and SystemTap,Volpert et al.,2025,ACM Digital Library,Conducts an empirical comparison quantifying CPU overhead and execution latency trade-offs between eBPF and SystemTap dynamic kernel tracers under synthetic workloads.
+RAW007,A Dynamic Middleware-based Instrumentation Framework for Distributed Applications,"Reilly, D.",2006,ScienceDirect,Proposes a dynamic middleware-based instrumentation framework allowing runtime probe insertion into distributed components without requiring service downtime.
+RAW008,Layered Observability Architectures for JVM-Based Systems,"Ghanta, S.",2017,SpringerLink,"Examines multi-layered observability in JVM architectures, analyzing trade-offs across VM garbage collection events, JIT compilation tracking, and byte-level telemetry."
+RAW009,Analyzing Application Performance Using a System Monitoring Database,Brown et al.,2003,IEEE Xplore,"Demonstrates SPADE, a relational database architecture capturing multi-tier monitoring metrics to correlate application transaction latency with underlying OS resource usage."
+RAW010,Overview of Application Instrumentation for Performance Analysis and Tuning,Vysocký et al.,2020,SpringerLink,Presents a survey and comparative assessment of application code instrumentation techniques for identifying execution hot-spots and tuning parallel applications.
+RAW011,Exploring Tracing in Microservice Applications: Leveraging Zipkin for Enhanced Observability,Marvis et al.,2024,ScienceDirect,Investigates distributed tracing overhead and latency impact across microservices using Zipkin instrumentation under varying sampling rates.
+RAW012,Enhancing Service Observability Through Bytecode-Level Variable Monitoring,Wang et al.,2025,IEEE Xplore,Presents bytecode-level variable monitoring to trace business logic variables and function state transitions with minimal runtime probe injection overhead.
+RAW013,eGPU: Extending eBPF Programmability and Observability to GPUs,Yang et al.,2025,ACM Digital Library,"Proposes eGPU to extend eBPF observability to GPU kernels, analyzing the latency trade-offs of kernel-level GPU trace collection."
+RAW014,A Framework for Adaptive Monitoring and Performance Management of Enterprise Applications,"Mos, A.",2004,ScienceDirect,Develops an adaptive monitoring framework for component-based enterprise systems that conditionally activates fine-grained profiling only during performance degradation.
+RAW015,Evaluating eBPF Overhead in Lightweight MicroVM Containers,A. Miller et al.,2021,IEEE Xplore,"A 3-page workshop brief discussing potential microVM tracing techniques using eBPF, without complete methodological validation or long-term workload benchmarks."
+RAW016,Industrial Whitepaper: Observability Pipelines and Telemetry Costs at Scale,E. Wagner et al.,2024,ScienceDirect,"An industry technical whitepaper overviewing vendor telemetry architectures and pipeline ingress costs, lacking peer-reviewed scientific methodology."
+RAW017,Distributed Tracing in Cloud-Native Mesh Architectures: Preliminary Workshop Insights,J. Fernandez et al.,2023,ScienceDirect,An extended 2-page conference abstract reporting preliminary architectural ideas for service mesh telemetry without empirical measurement data.
+RAW018,Fast Kernel Probing Using Extended Berkeley Packet Filter: Poster Abstract,D. Schultz et al.,2022,IEEE Xplore,A 2-page poster abstract sketching kernel hook placement without exhaustive experimental validation or detailed evaluation metrics.
+RAW019,OpenTelemetry Collector Deployment in Production Kubernetes: A Practitioner Brief,H. Becker et al.,2023,SpringerLink,A non-peer-reviewed practitioner report on OpenTelemetry pipeline deployment guidelines in cloud-native container clusters.
+RAW020,Continuous Profiling for Go Services in Production: Industry Case Study,K. Lindqvist et al.,2024,ScienceDirect,An industry engineering case study demonstrating continuous CPU profiling setup in Go backends without academic peer review.
+RAW021,A Lightweight Hardware Counter Monitoring Agent for Edge Nodes,M. Santos et al.,2020,IEEE Xplore,"A 3-page work-in-progress paper proposing a hardware counter polling loop on ARM SBCs, without rigorous multi-tenant benchmark evaluations."
+RAW022,Low-Overhead Distributed Tracing in Serverless Micro-frontends,R. Vance et al.,2022,ACM Digital Library,"A short 3-page paper illustrating browser-to-serverless trace propagation patterns, lacking in-depth system resource quantification."
+RAW023,eBPF-Based Security Auditing: Early Experiences and Challenges,T. Moreau et al.,2021,IEEE Xplore,A 3-page short paper presenting preliminary design lessons from deploying eBPF hooks for security audit logs in enterprise servers.
+RAW024,State of Observability 2024: Industry Benchmarks and Practices,L. Hoffman et al.,2024,ScienceDirect,"An annual enterprise survey report aggregating survey responses regarding cloud monitoring tools, not an empirical research paper."
+RAW025,Bytecode Instrumentation for Debugging Microservices: A Pilot Study,F. Dubois et al.,2019,SpringerLink,A preliminary 3-page pilot study assessing dynamic Java agents for microservice debugging with limited synthetic test scenarios.
+RAW026,Real-Time Telemetry Streaming for Cloud Workloads: Extended Abstract,C. Meyer et al.,2020,ACM Digital Library,"A 2-page extended abstract outlining telemetry ingestion pipelines using Apache Kafka, lacking empirical system perturbation metrics."
+RAW027,Comparative Study of Distributed Tracing Exporters in High-Load Scenarios,V. Novak et al.,2023,IEEE Xplore,A short 3-page paper benchmarking Jaeger and Zipkin exporters under local docker tests without comprehensive system profiling.
+RAW028,Architecting Low-Latency Monitoring Agents for Kubernetes Pods,S. Holzer et al.,2022,ScienceDirect,"A vendor architectural whitepaper proposing sidecar metrics scrapers for container pods, devoid of peer-reviewed experimental protocols."
+RAW029,Introspective Tracing in Containerized Micro-Runtimes,P. Jensen et al.,2021,ACM Digital Library,A 3-page workshop contribution discussing namespace introspection hooks in Linux containers without comprehensive performance tests.
+RAW030,Adaptive Telemetry Sampling in High-Frequency Cloud Monitoring Pipelines,B. Richter et al.,2020,SpringerLink,"A 2-page poster abstract conceptualizing rate-limiting filters for metrics aggregation, lacking empirical overhead measurements."
+RAW031,Hardware-Assisted Tracing for Embedded RTOS Workloads: Work in Progress,G. Bianchi et al.,2018,IEEE Xplore,A 3-page work-in-progress report describing hardware trace port integration in automotive microcontrollers.
+RAW032,Dynamic Binary Rewriting for Kernel Security Monitoring: Brief Announcement,Y. Takahashi et al.,2019,ACM Digital Library,A 2-page brief announcement presenting a concept for rewriting kernel instructions to intercept malicious system calls.
+RAW033,Bytecode Manipulation Techniques for Debugging Legacy Java Systems,C. Dupont et al.,2017,ACM Digital Library,Focuses on automated decompilation and reverse-engineering of legacy Java bytecode; instrumentation is applied only peripherally without evaluating its overhead.
+RAW034,Hardware Performance Counters in ARM Processors for Threat Analysis,R. Tanaka et al.,2019,IEEE Xplore,Investigates microarchitectural side-channel malware detection; hardware counters serve merely as input sensors for a machine learning classifier.
+RAW035,Trace-Driven Simulation for Network Bottleneck Analysis in Cloud Datacenters,M. Rossi et al.,2015,SpringerLink,Proposes network traffic simulation models; execution traces are used strictly as static workload inputs for the simulator.
+RAW036,Dynamic Binary Instrumentation for Memory Vulnerability Detection,P. Kowalski et al.,2020,ACM Digital Library,Presents a memory safety fuzzing framework using Valgrind; instrumentation is used as an auxiliary hook rather than evaluating monitoring trade-offs.
+RAW037,Anomaly Detection in High-Throughput Stream Processing Engines,S. Nygard et al.,2021,IEEE Xplore,Develops an anomaly detection algorithm for Apache Flink data streams; monitoring metrics are consumed as raw data without evaluating probe costs.
+RAW038,Automated Test Case Generation Using Runtime Tracing in Mobile Applications,O. Larsson et al.,2018,SpringerLink,Presents a GUI test generation framework for Android apps; runtime tracing is utilized purely to capture code coverage paths.
+RAW039,Fault Injection Framework for Distributed Consensus Protocols,J. Morales et al.,2022,ACM Digital Library,Evaluates Raft and Paxos consensus fault resilience; monitoring tools are utilized as peripheral harness components.
+RAW040,Predicting Resource Contention in Multitenant Cloud Databases,F. Weber et al.,2019,ScienceDirect,"Focuses on predictive machine learning models for noisy neighbor detection in PostgreSQL, treating system metrics as secondary input features."
+RAW041,Energy-Efficient Task Scheduling in Heterogeneous Fog Computing,D. Costa et al.,2020,IEEE Xplore,Proposes a heuristic task scheduling algorithm for IoT fog nodes; power consumption probes are standard external meters.
+RAW042,Security Compliance Auditing in Microservice Environments,K. Bauer et al.,2021,SpringerLink,"Presents an access control compliance verification architecture, with tracing acting as an auxiliary audit log."
+RAW043,Performance Regression Testing in Continuous Delivery Pipelines,H. Lehmann et al.,2018,ACM Digital Library,Focuses on statistical change detection algorithms in software build pipelines; profiling is treated as an off-the-shelf test step.
+RAW044,Static and Dynamic Slicing for Root Cause Debugging in C++ Applications,N. Popov et al.,2017,IEEE Xplore,"Proposes program slicing algorithms for software defect isolation, using runtime traces as secondary input data."
+RAW045,Traffic Engineering in Software-Defined Data Center Networks,L. Martins et al.,2020,ScienceDirect,Investigates SDN flow routing optimization; switch packet monitoring is peripheral to the flow control algorithm.
+RAW046,Container Migration Strategies in Edge Computing Environments,A. Nielsen et al.,2022,SpringerLink,"Focuses on live migration heuristics for edge Docker containers, using standard host resource metrics as trigger thresholds."
+RAW047,Automated Memory Leak Detection in Garbage-Collected Runtimes,W. Krause et al.,2016,ACM Digital Library,"Develops graph algorithms to detect abandoned object references in Java heaps, using default JVM heap dump utilities."
+RAW048,Root Cause Analysis of Cascade Failures in Web Applications,T. Schmidt et al.,2019,IEEE Xplore,Proposes Bayesian network models for failure cascade diagnosis using pre-recorded request log datasets.
+RAW049,Cache-Aware Task Allocation for Multi-Core Architectures,E. Sommer et al.,2018,IEEE Xplore,"Develops thread affinity scheduling algorithms based on cache miss statistics, using standard PAPI counters as passive inputs."
+RAW050,Microservice Dependency Graph Extraction from Passive Network Packets,M. Fontana et al.,2021,IEEE Xplore,Extracts service dependency topologies via passive packet sniffing without instrumenting host systems or applications.
+RAW051,Dynamic Slicing of Concurrent Programs for Concurrency Bug Detection,C. Haas et al.,2015,ACM Digital Library,Presents dynamic slicing to isolate data races in concurrent programs; instrumentation is used as an unmeasured auxiliary hook.
+RAW052,Intrusion Detection System for Automotive CAN Bus Networks,S. Petrov et al.,2020,SpringerLink,"Evaluates CAN bus anomaly detection classifiers, where bus message logging is a standard vehicle diagnostic feed."
+RAW053,Failure Prediction in Supercomputer Interconnects Using Log Analysis,R. Keller et al.,2017,IEEE Xplore,"Applies NLP techniques to supercomputer system logs to predict switch link hardware failures, not evaluating telemetry overhead."
+RAW054,Adaptive Log Sampling Strategy for Microservices Architecture,L. Zhang et al.,2022,SpringerLink,"Proposes an adaptive mathematical sampling model for microservice logging pipelines, but omits experimental CPU or latency benchmarks."
+RAW055,Performance Monitoring Framework for Serverless Functions,S. Gupta et al.,2023,ACM Digital Library,Describes an architectural telemetry design for AWS Lambda serverless functions without empirical quantification of cold start or latency impact.
+RAW056,Lightweight Profiling for Embedded Real-Time Operating Systems,K. Takahashi et al.,2018,IEEE Xplore,"Presents a conceptual RTOS profiling architecture, but lacks empirical measurements of real-time deadline perturbations or CPU overhead."
+RAW057,Unified Telemetry Model for Multi-Cloud Microservice Deployments,A. Ferreira et al.,2021,ACM Digital Library,"Proposes an ontological meta-model for cross-cloud telemetry standardization, without empirical system overhead evaluation."
+RAW058,Dynamic Probe Configuration Architecture for Cloud Native Observability,R. Mehta et al.,2022,ACM Digital Library,"Specifies a control plane protocol for dynamically updating probe configurations in Kubernetes pods, without benchmarking execution latency."
+RAW059,Semantic-Aware Tracing Framework for Asynchronous Event-Driven Architectures,M. Gauthier et al.,2020,IEEE Xplore,"Introduces span taxonomy for event brokers, but lacks quantitative evaluation of broker throughput degradation or tracing overhead."
+RAW060,Zero-Touch Instrumentation Protocol for Microservices,J. Van Der Berg et al.,2023,SpringerLink,Presents an automated sidecar injection protocol for cloud workloads without empirical performance benchmarks or resource measurements.
+RAW061,Continuous Observability Architecture for Edge AI Inference Pipelines,P. Szekely et al.,2022,SpringerLink,"Proposes a telemetry architecture for edge neural network deployments, omitting quantitative profiling overhead measurements."
+RAW062,Cross-Platform Runtime Telemetry Abstraction Layer,T. O'Connor et al.,2019,IEEE Xplore,"Describes an API abstraction layer for multi-language profiling hooks, but omits runtime performance and memory overhead evaluations."
+RAW063,Automated Query Optimization for Large-Scale Relational Databases,S. Bhattacharya et al.,2004,IEEE Xplore,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+RAW064,Deep Learning Architectures for Encrypted Network Intrusion Detection,A. Al-Mansoor et al.,2005,IEEE Xplore,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+RAW065,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks,H. Chen et al.,2006,IEEE Xplore,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+RAW066,Formal Verification of Cryptographic Hardware Primitives in ASICs,M. Le Gall et al.,2007,IEEE Xplore,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+RAW067,High-Throughput Optical Circuit Switching in Next-Generation Data Centers,D. W. Foster et al.,2008,IEEE Xplore,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+RAW068,Interactive Visualization of Multi-Dimensional Medical Imaging Data,K. J. Lindgren et al.,2009,IEEE Xplore,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+RAW069,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring,P. Narayanan et al.,2010,IEEE Xplore,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+RAW070,Natural Language Dialogue Interface for Enterprise Knowledge Graphs,T. E. Connolly et al.,2011,IEEE Xplore,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+RAW071,Privacy-Preserving Federated Learning for Distributed Mobile Devices,B. X. Zhao et al.,2012,IEEE Xplore,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+RAW072,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation,L. K. Johansson et al.,2013,IEEE Xplore,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+RAW073,Scalable Graph Neural Networks for Large-Scale Social Network Analysis,V. G. Ramos et al.,2014,IEEE Xplore,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+RAW074,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs,J. P. Dupont et al.,2015,IEEE Xplore,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+RAW075,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators,N. R. Sterling et al.,2016,IEEE Xplore,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+RAW076,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems,E. T. Hauer et al.,2017,IEEE Xplore,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+RAW077,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming,C. M. Fontaine et al.,2018,IEEE Xplore,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+RAW078,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing,W. Q. Zhang et al.,2019,IEEE Xplore,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+RAW079,Automated Query Optimization for Large-Scale Relational Databases - Case Study #2,S. Bhattacharya et al.,2020,IEEE Xplore,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+RAW080,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #2,A. Al-Mansoor et al.,2021,IEEE Xplore,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+RAW081,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #2,H. Chen et al.,2022,IEEE Xplore,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+RAW082,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #2,M. Le Gall et al.,2023,IEEE Xplore,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+RAW083,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #2,D. W. Foster et al.,2024,IEEE Xplore,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+RAW084,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #2,K. J. Lindgren et al.,2003,IEEE Xplore,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+RAW085,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #2,P. Narayanan et al.,2004,IEEE Xplore,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+RAW086,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #2,T. E. Connolly et al.,2005,IEEE Xplore,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+RAW087,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #2,B. X. Zhao et al.,2006,IEEE Xplore,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+RAW088,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #2,L. K. Johansson et al.,2007,IEEE Xplore,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+RAW089,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #2,V. G. Ramos et al.,2008,IEEE Xplore,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+RAW090,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #2,J. P. Dupont et al.,2009,IEEE Xplore,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+RAW091,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #2,N. R. Sterling et al.,2010,IEEE Xplore,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+RAW092,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #2,E. T. Hauer et al.,2011,IEEE Xplore,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+RAW093,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #2,C. M. Fontaine et al.,2012,IEEE Xplore,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+RAW094,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #2,W. Q. Zhang et al.,2013,IEEE Xplore,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+RAW095,Automated Query Optimization for Large-Scale Relational Databases - Case Study #3,S. Bhattacharya et al.,2014,IEEE Xplore,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+RAW096,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #3,A. Al-Mansoor et al.,2015,IEEE Xplore,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+RAW097,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #3,H. Chen et al.,2016,IEEE Xplore,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+RAW098,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #3,M. Le Gall et al.,2017,IEEE Xplore,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+RAW099,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #3,D. W. Foster et al.,2018,IEEE Xplore,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+RAW100,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #3,K. J. Lindgren et al.,2019,IEEE Xplore,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+RAW101,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #3,P. Narayanan et al.,2020,IEEE Xplore,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+RAW102,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #3,T. E. Connolly et al.,2021,IEEE Xplore,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+RAW103,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #3,B. X. Zhao et al.,2022,IEEE Xplore,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+RAW104,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #3,L. K. Johansson et al.,2023,IEEE Xplore,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+RAW105,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #3,V. G. Ramos et al.,2024,IEEE Xplore,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+RAW106,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #3,J. P. Dupont et al.,2003,IEEE Xplore,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+RAW107,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #3,N. R. Sterling et al.,2004,IEEE Xplore,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+RAW108,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #3,E. T. Hauer et al.,2005,IEEE Xplore,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+RAW109,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #3,C. M. Fontaine et al.,2006,IEEE Xplore,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+RAW110,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #3,W. Q. Zhang et al.,2007,IEEE Xplore,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+RAW111,Automated Query Optimization for Large-Scale Relational Databases - Case Study #4,S. Bhattacharya et al.,2008,IEEE Xplore,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+RAW112,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #4,A. Al-Mansoor et al.,2009,IEEE Xplore,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+RAW113,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #4,H. Chen et al.,2010,IEEE Xplore,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+RAW114,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #4,M. Le Gall et al.,2011,IEEE Xplore,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+RAW115,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #4,D. W. Foster et al.,2012,IEEE Xplore,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+RAW116,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #4,K. J. Lindgren et al.,2013,IEEE Xplore,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+RAW117,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #4,P. Narayanan et al.,2014,IEEE Xplore,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+RAW118,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #4,T. E. Connolly et al.,2015,IEEE Xplore,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+RAW119,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #4,B. X. Zhao et al.,2016,IEEE Xplore,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+RAW120,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #4,L. K. Johansson et al.,2017,IEEE Xplore,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+RAW121,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #4,V. G. Ramos et al.,2018,IEEE Xplore,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+RAW122,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #4,J. P. Dupont et al.,2019,IEEE Xplore,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+RAW123,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #4,N. R. Sterling et al.,2020,IEEE Xplore,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+RAW124,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #4,E. T. Hauer et al.,2021,IEEE Xplore,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+RAW125,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #4,C. M. Fontaine et al.,2022,IEEE Xplore,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+RAW126,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #4,W. Q. Zhang et al.,2023,IEEE Xplore,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+RAW127,Automated Query Optimization for Large-Scale Relational Databases - Case Study #5,S. Bhattacharya et al.,2024,IEEE Xplore,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+RAW128,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #5,A. Al-Mansoor et al.,2003,IEEE Xplore,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+RAW129,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #5,H. Chen et al.,2004,IEEE Xplore,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+RAW130,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #5,M. Le Gall et al.,2005,IEEE Xplore,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+RAW131,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #5,D. W. Foster et al.,2006,IEEE Xplore,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+RAW132,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #5,K. J. Lindgren et al.,2007,IEEE Xplore,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+RAW133,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #5,P. Narayanan et al.,2008,IEEE Xplore,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+RAW134,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #5,T. E. Connolly et al.,2009,IEEE Xplore,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+RAW135,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #5,B. X. Zhao et al.,2010,IEEE Xplore,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+RAW136,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #5,L. K. Johansson et al.,2011,IEEE Xplore,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+RAW137,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #5,V. G. Ramos et al.,2012,IEEE Xplore,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+RAW138,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #5,J. P. Dupont et al.,2013,IEEE Xplore,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+RAW139,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #5,N. R. Sterling et al.,2014,IEEE Xplore,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+RAW140,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #5,E. T. Hauer et al.,2015,IEEE Xplore,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+RAW141,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #5,C. M. Fontaine et al.,2016,IEEE Xplore,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+RAW142,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #5,W. Q. Zhang et al.,2017,IEEE Xplore,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+RAW143,Automated Query Optimization for Large-Scale Relational Databases - Case Study #6,S. Bhattacharya et al.,2018,IEEE Xplore,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+RAW144,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #6,A. Al-Mansoor et al.,2019,ACM Digital Library,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+RAW145,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #6,H. Chen et al.,2020,ACM Digital Library,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+RAW146,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #6,M. Le Gall et al.,2021,ACM Digital Library,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+RAW147,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #6,D. W. Foster et al.,2022,ACM Digital Library,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+RAW148,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #6,K. J. Lindgren et al.,2023,ACM Digital Library,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+RAW149,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #6,P. Narayanan et al.,2024,ACM Digital Library,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+RAW150,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #6,T. E. Connolly et al.,2003,ACM Digital Library,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+RAW151,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #6,B. X. Zhao et al.,2004,ACM Digital Library,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+RAW152,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #6,L. K. Johansson et al.,2005,ACM Digital Library,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+RAW153,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #6,V. G. Ramos et al.,2006,ACM Digital Library,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+RAW154,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #6,J. P. Dupont et al.,2007,ACM Digital Library,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+RAW155,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #6,N. R. Sterling et al.,2008,ACM Digital Library,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+RAW156,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #6,E. T. Hauer et al.,2009,ACM Digital Library,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+RAW157,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #6,C. M. Fontaine et al.,2010,ACM Digital Library,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+RAW158,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #6,W. Q. Zhang et al.,2011,ACM Digital Library,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+RAW159,Automated Query Optimization for Large-Scale Relational Databases - Case Study #7,S. Bhattacharya et al.,2012,ACM Digital Library,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+RAW160,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #7,A. Al-Mansoor et al.,2013,ACM Digital Library,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+RAW161,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #7,H. Chen et al.,2014,ACM Digital Library,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+RAW162,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #7,M. Le Gall et al.,2015,ACM Digital Library,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+RAW163,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #7,D. W. Foster et al.,2016,ACM Digital Library,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+RAW164,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #7,K. J. Lindgren et al.,2017,ACM Digital Library,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+RAW165,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #7,P. Narayanan et al.,2018,ACM Digital Library,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+RAW166,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #7,T. E. Connolly et al.,2019,ACM Digital Library,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+RAW167,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #7,B. X. Zhao et al.,2020,ACM Digital Library,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+RAW168,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #7,L. K. Johansson et al.,2021,ACM Digital Library,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+RAW169,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #7,V. G. Ramos et al.,2022,ACM Digital Library,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+RAW170,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #7,J. P. Dupont et al.,2023,ACM Digital Library,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+RAW171,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #7,N. R. Sterling et al.,2024,ACM Digital Library,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+RAW172,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #7,E. T. Hauer et al.,2003,ACM Digital Library,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+RAW173,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #7,C. M. Fontaine et al.,2004,ACM Digital Library,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+RAW174,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #7,W. Q. Zhang et al.,2005,ACM Digital Library,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+RAW175,Automated Query Optimization for Large-Scale Relational Databases - Case Study #8,S. Bhattacharya et al.,2006,ACM Digital Library,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+RAW176,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #8,A. Al-Mansoor et al.,2007,ACM Digital Library,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+RAW177,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #8,H. Chen et al.,2008,ACM Digital Library,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+RAW178,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #8,M. Le Gall et al.,2009,ACM Digital Library,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+RAW179,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #8,D. W. Foster et al.,2010,ACM Digital Library,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+RAW180,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #8,K. J. Lindgren et al.,2011,ACM Digital Library,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+RAW181,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #8,P. Narayanan et al.,2012,ACM Digital Library,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+RAW182,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #8,T. E. Connolly et al.,2013,ACM Digital Library,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+RAW183,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #8,B. X. Zhao et al.,2014,ACM Digital Library,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+RAW184,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #8,L. K. Johansson et al.,2015,ACM Digital Library,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+RAW185,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #8,V. G. Ramos et al.,2016,ACM Digital Library,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+RAW186,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #8,J. P. Dupont et al.,2017,ACM Digital Library,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+RAW187,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #8,N. R. Sterling et al.,2018,ACM Digital Library,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+RAW188,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #8,E. T. Hauer et al.,2019,ACM Digital Library,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+RAW189,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #8,C. M. Fontaine et al.,2020,ACM Digital Library,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+RAW190,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #8,W. Q. Zhang et al.,2021,ACM Digital Library,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+RAW191,Automated Query Optimization for Large-Scale Relational Databases - Case Study #9,S. Bhattacharya et al.,2022,ACM Digital Library,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+RAW192,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #9,A. Al-Mansoor et al.,2023,ACM Digital Library,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+RAW193,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #9,H. Chen et al.,2024,ACM Digital Library,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+RAW194,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #9,M. Le Gall et al.,2003,ACM Digital Library,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+RAW195,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #9,D. W. Foster et al.,2004,ACM Digital Library,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+RAW196,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #9,K. J. Lindgren et al.,2005,ACM Digital Library,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+RAW197,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #9,P. Narayanan et al.,2006,ACM Digital Library,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+RAW198,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #9,T. E. Connolly et al.,2007,ACM Digital Library,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+RAW199,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #9,B. X. Zhao et al.,2008,ACM Digital Library,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+RAW200,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #9,L. K. Johansson et al.,2009,ACM Digital Library,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+RAW201,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #9,V. G. Ramos et al.,2010,ACM Digital Library,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+RAW202,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #9,J. P. Dupont et al.,2011,ACM Digital Library,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+RAW203,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #9,N. R. Sterling et al.,2012,ACM Digital Library,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+RAW204,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #9,E. T. Hauer et al.,2013,ACM Digital Library,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+RAW205,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #9,C. M. Fontaine et al.,2014,ACM Digital Library,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+RAW206,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #9,W. Q. Zhang et al.,2015,ACM Digital Library,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+RAW207,Automated Query Optimization for Large-Scale Relational Databases - Case Study #10,S. Bhattacharya et al.,2016,ACM Digital Library,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+RAW208,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #10,A. Al-Mansoor et al.,2017,ACM Digital Library,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+RAW209,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #10,H. Chen et al.,2018,ACM Digital Library,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+RAW210,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #10,M. Le Gall et al.,2019,ACM Digital Library,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+RAW211,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #10,D. W. Foster et al.,2020,SpringerLink,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+RAW212,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #10,K. J. Lindgren et al.,2021,SpringerLink,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+RAW213,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #10,P. Narayanan et al.,2022,SpringerLink,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+RAW214,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #10,T. E. Connolly et al.,2023,SpringerLink,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+RAW215,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #10,B. X. Zhao et al.,2024,SpringerLink,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+RAW216,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #10,L. K. Johansson et al.,2003,SpringerLink,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+RAW217,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #10,V. G. Ramos et al.,2004,SpringerLink,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+RAW218,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #10,J. P. Dupont et al.,2005,SpringerLink,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+RAW219,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #10,N. R. Sterling et al.,2006,SpringerLink,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+RAW220,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #10,E. T. Hauer et al.,2007,SpringerLink,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+RAW221,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #10,C. M. Fontaine et al.,2008,SpringerLink,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+RAW222,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #10,W. Q. Zhang et al.,2009,SpringerLink,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+RAW223,Automated Query Optimization for Large-Scale Relational Databases - Case Study #11,S. Bhattacharya et al.,2010,SpringerLink,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+RAW224,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #11,A. Al-Mansoor et al.,2011,SpringerLink,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+RAW225,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #11,H. Chen et al.,2012,SpringerLink,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+RAW226,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #11,M. Le Gall et al.,2013,SpringerLink,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+RAW227,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #11,D. W. Foster et al.,2014,SpringerLink,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+RAW228,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #11,K. J. Lindgren et al.,2015,SpringerLink,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+RAW229,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #11,P. Narayanan et al.,2016,SpringerLink,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+RAW230,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #11,T. E. Connolly et al.,2017,SpringerLink,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+RAW231,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #11,B. X. Zhao et al.,2018,SpringerLink,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+RAW232,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #11,L. K. Johansson et al.,2019,SpringerLink,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+RAW233,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #11,V. G. Ramos et al.,2020,SpringerLink,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+RAW234,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #11,J. P. Dupont et al.,2021,SpringerLink,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+RAW235,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #11,N. R. Sterling et al.,2022,SpringerLink,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+RAW236,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #11,E. T. Hauer et al.,2023,SpringerLink,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+RAW237,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #11,C. M. Fontaine et al.,2024,SpringerLink,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+RAW238,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #11,W. Q. Zhang et al.,2003,SpringerLink,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+RAW239,Automated Query Optimization for Large-Scale Relational Databases - Case Study #12,S. Bhattacharya et al.,2004,SpringerLink,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+RAW240,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #12,A. Al-Mansoor et al.,2005,SpringerLink,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+RAW241,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #12,H. Chen et al.,2006,SpringerLink,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+RAW242,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #12,M. Le Gall et al.,2007,SpringerLink,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+RAW243,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #12,D. W. Foster et al.,2008,SpringerLink,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+RAW244,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #12,K. J. Lindgren et al.,2009,SpringerLink,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+RAW245,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #12,P. Narayanan et al.,2010,SpringerLink,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+RAW246,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #12,T. E. Connolly et al.,2011,SpringerLink,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+RAW247,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #12,B. X. Zhao et al.,2012,SpringerLink,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+RAW248,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #12,L. K. Johansson et al.,2013,SpringerLink,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+RAW249,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #12,V. G. Ramos et al.,2014,SpringerLink,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+RAW250,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #12,J. P. Dupont et al.,2015,SpringerLink,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+RAW251,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #12,N. R. Sterling et al.,2016,SpringerLink,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+RAW252,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #12,E. T. Hauer et al.,2017,SpringerLink,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+RAW253,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #12,C. M. Fontaine et al.,2018,SpringerLink,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+RAW254,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #12,W. Q. Zhang et al.,2019,SpringerLink,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+RAW255,Automated Query Optimization for Large-Scale Relational Databases - Case Study #13,S. Bhattacharya et al.,2020,SpringerLink,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+RAW256,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #13,A. Al-Mansoor et al.,2021,SpringerLink,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+RAW257,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #13,H. Chen et al.,2022,SpringerLink,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+RAW258,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #13,M. Le Gall et al.,2023,SpringerLink,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+RAW259,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #13,D. W. Foster et al.,2024,ScienceDirect,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+RAW260,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #13,K. J. Lindgren et al.,2003,ScienceDirect,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+RAW261,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #13,P. Narayanan et al.,2004,ScienceDirect,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+RAW262,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #13,T. E. Connolly et al.,2005,ScienceDirect,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+RAW263,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #13,B. X. Zhao et al.,2006,ScienceDirect,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+RAW264,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #13,L. K. Johansson et al.,2007,ScienceDirect,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+RAW265,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #13,V. G. Ramos et al.,2008,ScienceDirect,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+RAW266,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #13,J. P. Dupont et al.,2009,ScienceDirect,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+RAW267,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #13,N. R. Sterling et al.,2010,ScienceDirect,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+RAW268,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #13,E. T. Hauer et al.,2011,ScienceDirect,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+RAW269,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #13,C. M. Fontaine et al.,2012,ScienceDirect,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+RAW270,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #13,W. Q. Zhang et al.,2013,ScienceDirect,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+RAW271,Automated Query Optimization for Large-Scale Relational Databases - Case Study #14,S. Bhattacharya et al.,2014,ScienceDirect,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+RAW272,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #14,A. Al-Mansoor et al.,2015,ScienceDirect,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+RAW273,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #14,H. Chen et al.,2016,ScienceDirect,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+RAW274,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #14,M. Le Gall et al.,2017,ScienceDirect,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+RAW275,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #14,D. W. Foster et al.,2018,ScienceDirect,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+RAW276,Interactive Visualization of Multi-Dimensional Medical Imaging Data - Case Study #14,K. J. Lindgren et al.,2019,ScienceDirect,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+RAW277,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring - Case Study #14,P. Narayanan et al.,2020,ScienceDirect,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+RAW278,Natural Language Dialogue Interface for Enterprise Knowledge Graphs - Case Study #14,T. E. Connolly et al.,2021,ScienceDirect,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+RAW279,Privacy-Preserving Federated Learning for Distributed Mobile Devices - Case Study #14,B. X. Zhao et al.,2022,ScienceDirect,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+RAW280,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation - Case Study #14,L. K. Johansson et al.,2023,ScienceDirect,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+RAW281,Scalable Graph Neural Networks for Large-Scale Social Network Analysis - Case Study #14,V. G. Ramos et al.,2024,ScienceDirect,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+RAW282,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs - Case Study #14,J. P. Dupont et al.,2003,ScienceDirect,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+RAW283,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators - Case Study #14,N. R. Sterling et al.,2004,ScienceDirect,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+RAW284,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems - Case Study #14,E. T. Hauer et al.,2005,ScienceDirect,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+RAW285,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming - Case Study #14,C. M. Fontaine et al.,2006,ScienceDirect,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+RAW286,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing - Case Study #14,W. Q. Zhang et al.,2007,ScienceDirect,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+RAW287,Energy Measurements of High Performance Computing Systems: From Instrumentation to Analysis,"Ilsche, T.",2020,IEEE Xplore,Presents energy instrumentation architectures and high-resolution bus-level power profiling methodologies for high-performance computing without incurring runtime CPU execution perturbation.
+RAW288,Dynamic Instrumentation of Production Systems,Cantrill et al.,2004,IEEE Xplore,"Introduces DTrace, a dynamic instrumentation framework offering unified kernel and user-space tracing with zero probe effect when unenabled and in-kernel scalable aggregation."
+RAW289,Hidden in Plain Sight: Improvements in the Observability of Software,"Cantrill, B.",2006,IEEE Xplore,Analyzes system observability enhancements through dynamic kernel tracing and speculative buffers to diagnose systemic anomalies without sustained latency degradation.
+RAW290,Towards eBPF Overhead Quantification: An Exemplary Comparison of eBPF and SystemTap,Volpert et al.,2025,IEEE Xplore,Conducts an empirical comparison quantifying CPU overhead and execution latency trade-offs between eBPF and SystemTap dynamic kernel tracers under synthetic workloads.
+RAW291,A Dynamic Middleware-based Instrumentation Framework for Distributed Applications,"Reilly, D.",2006,IEEE Xplore,Proposes a dynamic middleware-based instrumentation framework allowing runtime probe insertion into distributed components without requiring service downtime.
+RAW292,Layered Observability Architectures for JVM-Based Systems,"Ghanta, S.",2017,IEEE Xplore,"Examines multi-layered observability in JVM architectures, analyzing trade-offs across VM garbage collection events, JIT compilation tracking, and byte-level telemetry."
+RAW293,Overview of Application Instrumentation for Performance Analysis and Tuning,Vysocký et al.,2020,IEEE Xplore,Presents a survey and comparative assessment of application code instrumentation techniques for identifying execution hot-spots and tuning parallel applications.
+RAW294,Exploring Tracing in Microservice Applications: Leveraging Zipkin for Enhanced Observability,Marvis et al.,2024,IEEE Xplore,Investigates distributed tracing overhead and latency impact across microservices using Zipkin instrumentation under varying sampling rates.
+RAW295,eGPU: Extending eBPF Programmability and Observability to GPUs,Yang et al.,2025,IEEE Xplore,"Proposes eGPU to extend eBPF observability to GPU kernels, analyzing the latency trade-offs of kernel-level GPU trace collection."
+RAW296,A Framework for Adaptive Monitoring and Performance Management of Enterprise Applications,"Mos, A.",2004,IEEE Xplore,Develops an adaptive monitoring framework for component-based enterprise systems that conditionally activates fine-grained profiling only during performance degradation.
+RAW297,Industrial Whitepaper: Observability Pipelines and Telemetry Costs at Scale,E. Wagner et al.,2024,IEEE Xplore,"An industry technical whitepaper overviewing vendor telemetry architectures and pipeline ingress costs, lacking peer-reviewed scientific methodology."
+RAW298,Distributed Tracing in Cloud-Native Mesh Architectures: Preliminary Workshop Insights,J. Fernandez et al.,2023,IEEE Xplore,An extended 2-page conference abstract reporting preliminary architectural ideas for service mesh telemetry without empirical measurement data.
+RAW299,OpenTelemetry Collector Deployment in Production Kubernetes: A Practitioner Brief,H. Becker et al.,2023,IEEE Xplore,A non-peer-reviewed practitioner report on OpenTelemetry pipeline deployment guidelines in cloud-native container clusters.
+RAW300,Continuous Profiling for Go Services in Production: Industry Case Study,K. Lindqvist et al.,2024,IEEE Xplore,An industry engineering case study demonstrating continuous CPU profiling setup in Go backends without academic peer review.
+RAW301,Low-Overhead Distributed Tracing in Serverless Micro-frontends,R. Vance et al.,2022,IEEE Xplore,"A short 3-page paper illustrating browser-to-serverless trace propagation patterns, lacking in-depth system resource quantification."
+RAW302,State of Observability 2024: Industry Benchmarks and Practices,L. Hoffman et al.,2024,IEEE Xplore,"An annual enterprise survey report aggregating survey responses regarding cloud monitoring tools, not an empirical research paper."
+RAW303,Bytecode Instrumentation for Debugging Microservices: A Pilot Study,F. Dubois et al.,2019,IEEE Xplore,A preliminary 3-page pilot study assessing dynamic Java agents for microservice debugging with limited synthetic test scenarios.
+RAW304,Real-Time Telemetry Streaming for Cloud Workloads: Extended Abstract,C. Meyer et al.,2020,IEEE Xplore,"A 2-page extended abstract outlining telemetry ingestion pipelines using Apache Kafka, lacking empirical system perturbation metrics."
+RAW305,Architecting Low-Latency Monitoring Agents for Kubernetes Pods,S. Holzer et al.,2022,IEEE Xplore,"A vendor architectural whitepaper proposing sidecar metrics scrapers for container pods, devoid of peer-reviewed experimental protocols."
+RAW306,Introspective Tracing in Containerized Micro-Runtimes,P. Jensen et al.,2021,IEEE Xplore,A 3-page workshop contribution discussing namespace introspection hooks in Linux containers without comprehensive performance tests.
+RAW307,Adaptive Telemetry Sampling in High-Frequency Cloud Monitoring Pipelines,B. Richter et al.,2020,IEEE Xplore,"A 2-page poster abstract conceptualizing rate-limiting filters for metrics aggregation, lacking empirical overhead measurements."
+RAW308,Dynamic Binary Rewriting for Kernel Security Monitoring: Brief Announcement,Y. Takahashi et al.,2019,IEEE Xplore,A 2-page brief announcement presenting a concept for rewriting kernel instructions to intercept malicious system calls.
+RAW309,Hardware Performance Counters in ARM Processors for Threat Analysis,R. Tanaka et al.,2019,ACM Digital Library,Investigates microarchitectural side-channel malware detection; hardware counters serve merely as input sensors for a machine learning classifier.
+RAW310,Trace-Driven Simulation for Network Bottleneck Analysis in Cloud Datacenters,M. Rossi et al.,2015,ACM Digital Library,Proposes network traffic simulation models; execution traces are used strictly as static workload inputs for the simulator.
+RAW311,Anomaly Detection in High-Throughput Stream Processing Engines,S. Nygard et al.,2021,ACM Digital Library,Develops an anomaly detection algorithm for Apache Flink data streams; monitoring metrics are consumed as raw data without evaluating probe costs.
+RAW312,Automated Test Case Generation Using Runtime Tracing in Mobile Applications,O. Larsson et al.,2018,ACM Digital Library,Presents a GUI test generation framework for Android apps; runtime tracing is utilized purely to capture code coverage paths.
+RAW313,Predicting Resource Contention in Multitenant Cloud Databases,F. Weber et al.,2019,ACM Digital Library,"Focuses on predictive machine learning models for noisy neighbor detection in PostgreSQL, treating system metrics as secondary input features."
+RAW314,Energy-Efficient Task Scheduling in Heterogeneous Fog Computing,D. Costa et al.,2020,ACM Digital Library,Proposes a heuristic task scheduling algorithm for IoT fog nodes; power consumption probes are standard external meters.
+RAW315,Security Compliance Auditing in Microservice Environments,K. Bauer et al.,2021,ACM Digital Library,"Presents an access control compliance verification architecture, with tracing acting as an auxiliary audit log."
+RAW316,Static and Dynamic Slicing for Root Cause Debugging in C++ Applications,N. Popov et al.,2017,ACM Digital Library,"Proposes program slicing algorithms for software defect isolation, using runtime traces as secondary input data."
+RAW317,Traffic Engineering in Software-Defined Data Center Networks,L. Martins et al.,2020,ACM Digital Library,Investigates SDN flow routing optimization; switch packet monitoring is peripheral to the flow control algorithm.
+RAW318,Container Migration Strategies in Edge Computing Environments,A. Nielsen et al.,2022,ACM Digital Library,"Focuses on live migration heuristics for edge Docker containers, using standard host resource metrics as trigger thresholds."
+RAW319,Root Cause Analysis of Cascade Failures in Web Applications,T. Schmidt et al.,2019,ACM Digital Library,Proposes Bayesian network models for failure cascade diagnosis using pre-recorded request log datasets.
+RAW320,Cache-Aware Task Allocation for Multi-Core Architectures,E. Sommer et al.,2018,ACM Digital Library,"Develops thread affinity scheduling algorithms based on cache miss statistics, using standard PAPI counters as passive inputs."
+RAW321,Microservice Dependency Graph Extraction from Passive Network Packets,M. Fontana et al.,2021,ACM Digital Library,Extracts service dependency topologies via passive packet sniffing without instrumenting host systems or applications.
+RAW322,Intrusion Detection System for Automotive CAN Bus Networks,S. Petrov et al.,2020,ACM Digital Library,"Evaluates CAN bus anomaly detection classifiers, where bus message logging is a standard vehicle diagnostic feed."
+RAW323,Failure Prediction in Supercomputer Interconnects Using Log Analysis,R. Keller et al.,2017,ACM Digital Library,"Applies NLP techniques to supercomputer system logs to predict switch link hardware failures, not evaluating telemetry overhead."
+RAW324,Adaptive Log Sampling Strategy for Microservices Architecture,L. Zhang et al.,2022,ACM Digital Library,"Proposes an adaptive mathematical sampling model for microservice logging pipelines, but omits experimental CPU or latency benchmarks."
+RAW325,Lightweight Profiling for Embedded Real-Time Operating Systems,K. Takahashi et al.,2018,ACM Digital Library,"Presents a conceptual RTOS profiling architecture, but lacks empirical measurements of real-time deadline perturbations or CPU overhead."
+RAW326,Semantic-Aware Tracing Framework for Asynchronous Event-Driven Architectures,M. Gauthier et al.,2020,ACM Digital Library,"Introduces span taxonomy for event brokers, but lacks quantitative evaluation of broker throughput degradation or tracing overhead."
+RAW327,Cross-Platform Runtime Telemetry Abstraction Layer,T. O'Connor et al.,2019,SpringerLink,"Describes an API abstraction layer for multi-language profiling hooks, but omits runtime performance and memory overhead evaluations."
+RAW328,Automated Query Optimization for Large-Scale Relational Databases,S. Bhattacharya et al.,2004,SpringerLink,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+RAW329,Deep Learning Architectures for Encrypted Network Intrusion Detection,A. Al-Mansoor et al.,2005,SpringerLink,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+RAW330,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks,H. Chen et al.,2006,SpringerLink,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+RAW331,Formal Verification of Cryptographic Hardware Primitives in ASICs,M. Le Gall et al.,2007,SpringerLink,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+RAW332,High-Throughput Optical Circuit Switching in Next-Generation Data Centers,D. W. Foster et al.,2008,SpringerLink,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
+RAW333,Interactive Visualization of Multi-Dimensional Medical Imaging Data,K. J. Lindgren et al.,2009,SpringerLink,"Presents volumetric GPU rendering techniques for 3D MRI medical scans, out of scope for system-level instrumentation."
+RAW334,Low-Power Wireless Sensor Routing for Precision Agricultural Monitoring,P. Narayanan et al.,2010,SpringerLink,Designs cluster-based routing protocols for battery-powered soil moisture wireless sensor nodes in agriculture.
+RAW335,Natural Language Dialogue Interface for Enterprise Knowledge Graphs,T. E. Connolly et al.,2011,SpringerLink,Presents transformer-based question answering pipelines querying enterprise knowledge graphs using natural language.
+RAW336,Privacy-Preserving Federated Learning for Distributed Mobile Devices,B. X. Zhao et al.,2012,SpringerLink,Investigates differential privacy noise injection algorithms during federated gradient aggregation on smartphones.
+RAW337,Deep Reinforcement Learning for Autonomous Drone Swarm Navigation,L. K. Johansson et al.,2013,SpringerLink,Evaluates multi-agent deep Q-networks for obstacle avoidance in decentralized autonomous aerial drone swarms.
+RAW338,Scalable Graph Neural Networks for Large-Scale Social Network Analysis,V. G. Ramos et al.,2014,SpringerLink,Designs distributed partition algorithms for training graph neural networks on massive social network graphs.
+RAW339,Dynamic Thermal Management and Task Allocation in Heterogeneous Many-Core SoCs,J. P. Dupont et al.,2015,SpringerLink,Proposes thermal dissipation modeling and frequency scaling governors for mobile system-on-chip processors.
+RAW340,User Experience and Immersion Evaluation in Virtual Reality Surgical Simulators,N. R. Sterling et al.,2016,SpringerLink,Conducts human factors and haptic fidelity evaluations for medical surgical training simulators in virtual reality.
+RAW341,Vulnerability Assessment and Mitigation in Legacy Industrial Control Systems,E. T. Hauer et al.,2017,ScienceDirect,Analyzes SCADA protocol vulnerabilities and patch management strategies in critical water treatment facilities.
+RAW342,Wavelet-Based Acoustic Compression for Low-Bandwidth Underwater Streaming,C. M. Fontaine et al.,2018,ScienceDirect,Develops lossy acoustic compression algorithms for underwater telemetry transceivers in oceanographic monitoring.
+RAW343,Zero-Knowledge Proof Construction for Verifiable Cloud Storage Auditing,W. Q. Zhang et al.,2019,ScienceDirect,Proposes cryptographic proofs of retrievability to audit cloud file storage integrity without revealing data contents.
+RAW344,Automated Query Optimization for Large-Scale Relational Databases - Case Study #2,S. Bhattacharya et al.,2020,ScienceDirect,"Investigates cost-based SQL query rewriting and indexing heuristics for relational databases, out of scope for systems instrumentation."
+RAW345,Deep Learning Architectures for Encrypted Network Intrusion Detection - Case Study #2,A. Al-Mansoor et al.,2021,ScienceDirect,Proposes convolutional and recurrent neural network models to classify encrypted TLS network packet flows for intrusion detection.
+RAW346,Energy-Efficient Consensus Protocols for Permissioned Blockchain Networks - Case Study #2,H. Chen et al.,2022,ScienceDirect,"Develops a lightweight Byzantine Fault Tolerant consensus protocol tailored for private ledger networks, out of scope for observability."
+RAW347,Formal Verification of Cryptographic Hardware Primitives in ASICs - Case Study #2,M. Le Gall et al.,2023,ScienceDirect,Applies formal theorem proving to verify side-channel resistance of hardware cryptographic primitives on silicon chips.
+RAW348,High-Throughput Optical Circuit Switching in Next-Generation Data Centers - Case Study #2,D. W. Foster et al.,2024,ScienceDirect,Evaluates wavelength division multiplexing and optical switch architectures for datacenter spine fabrics.
