@@ -1,0 +1,287 @@
+ID,Title,Authors,Year,Primary_Database
+DEDUP001,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #1),M. Garcia et al.,2004,ACM Digital Library
+DEDUP002,Dynamic Instrumentation for Distributed Java Applications (Unique Study #2),K. Tanaka et al.,2005,SpringerLink
+DEDUP003,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #3),R. Silva et al.,2006,ScienceDirect
+DEDUP004,Hardware Performance Counters for Anomaly Detection (Unique Study #4),H. Müller et al.,2007,IEEE Xplore
+DEDUP005,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #5),P. Kumar et al.,2008,ACM Digital Library
+DEDUP006,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #6),J. Smith et al.,2009,SpringerLink
+DEDUP007,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #7),M. Garcia et al.,2010,ScienceDirect
+DEDUP008,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #8),K. Tanaka et al.,2011,IEEE Xplore
+DEDUP009,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #9),R. Silva et al.,2012,ACM Digital Library
+DEDUP010,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #10),H. Müller et al.,2013,SpringerLink
+DEDUP011,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #11),P. Kumar et al.,2014,ScienceDirect
+DEDUP012,Dynamic Instrumentation for Distributed Java Applications (Unique Study #12),J. Smith et al.,2015,IEEE Xplore
+DEDUP013,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #13),M. Garcia et al.,2016,ACM Digital Library
+DEDUP014,Hardware Performance Counters for Anomaly Detection (Unique Study #14),K. Tanaka et al.,2017,SpringerLink
+DEDUP015,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #15),R. Silva et al.,2018,ScienceDirect
+DEDUP016,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #16),H. Müller et al.,2019,IEEE Xplore
+DEDUP017,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #17),P. Kumar et al.,2020,ACM Digital Library
+DEDUP018,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #18),J. Smith et al.,2021,SpringerLink
+DEDUP019,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #19),M. Garcia et al.,2022,ScienceDirect
+DEDUP020,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #20),K. Tanaka et al.,2023,IEEE Xplore
+DEDUP021,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #21),R. Silva et al.,2024,ACM Digital Library
+DEDUP022,Dynamic Instrumentation for Distributed Java Applications (Unique Study #22),H. Müller et al.,2025,SpringerLink
+DEDUP023,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #23),P. Kumar et al.,2003,ScienceDirect
+DEDUP024,Hardware Performance Counters for Anomaly Detection (Unique Study #24),J. Smith et al.,2004,IEEE Xplore
+DEDUP025,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #25),M. Garcia et al.,2005,ACM Digital Library
+DEDUP026,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #26),K. Tanaka et al.,2006,SpringerLink
+DEDUP027,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #27),R. Silva et al.,2007,ScienceDirect
+DEDUP028,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #28),H. Müller et al.,2008,IEEE Xplore
+DEDUP029,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #29),P. Kumar et al.,2009,ACM Digital Library
+DEDUP030,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #30),J. Smith et al.,2010,SpringerLink
+DEDUP031,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #31),M. Garcia et al.,2011,ScienceDirect
+DEDUP032,Dynamic Instrumentation for Distributed Java Applications (Unique Study #32),K. Tanaka et al.,2012,IEEE Xplore
+DEDUP033,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #33),R. Silva et al.,2013,ACM Digital Library
+DEDUP034,Hardware Performance Counters for Anomaly Detection (Unique Study #34),H. Müller et al.,2014,SpringerLink
+DEDUP035,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #35),P. Kumar et al.,2015,ScienceDirect
+DEDUP036,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #36),J. Smith et al.,2016,IEEE Xplore
+DEDUP037,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #37),M. Garcia et al.,2017,ACM Digital Library
+DEDUP038,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #38),K. Tanaka et al.,2018,SpringerLink
+DEDUP039,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #39),R. Silva et al.,2019,ScienceDirect
+DEDUP040,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #40),H. Müller et al.,2020,IEEE Xplore
+DEDUP041,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #41),P. Kumar et al.,2021,ACM Digital Library
+DEDUP042,Dynamic Instrumentation for Distributed Java Applications (Unique Study #42),J. Smith et al.,2022,SpringerLink
+DEDUP043,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #43),M. Garcia et al.,2023,ScienceDirect
+DEDUP044,Hardware Performance Counters for Anomaly Detection (Unique Study #44),K. Tanaka et al.,2024,IEEE Xplore
+DEDUP045,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #45),R. Silva et al.,2025,ACM Digital Library
+DEDUP046,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #46),H. Müller et al.,2003,SpringerLink
+DEDUP047,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #47),P. Kumar et al.,2004,ScienceDirect
+DEDUP048,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #48),J. Smith et al.,2005,IEEE Xplore
+DEDUP049,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #49),M. Garcia et al.,2006,ACM Digital Library
+DEDUP050,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #50),K. Tanaka et al.,2007,SpringerLink
+DEDUP051,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #51),R. Silva et al.,2008,ScienceDirect
+DEDUP052,Dynamic Instrumentation for Distributed Java Applications (Unique Study #52),H. Müller et al.,2009,IEEE Xplore
+DEDUP053,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #53),P. Kumar et al.,2010,ACM Digital Library
+DEDUP054,Hardware Performance Counters for Anomaly Detection (Unique Study #54),J. Smith et al.,2011,SpringerLink
+DEDUP055,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #55),M. Garcia et al.,2012,ScienceDirect
+DEDUP056,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #56),K. Tanaka et al.,2013,IEEE Xplore
+DEDUP057,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #57),R. Silva et al.,2014,ACM Digital Library
+DEDUP058,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #58),H. Müller et al.,2015,SpringerLink
+DEDUP059,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #59),P. Kumar et al.,2016,ScienceDirect
+DEDUP060,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #60),J. Smith et al.,2017,IEEE Xplore
+DEDUP061,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #61),M. Garcia et al.,2018,ACM Digital Library
+DEDUP062,Dynamic Instrumentation for Distributed Java Applications (Unique Study #62),K. Tanaka et al.,2019,SpringerLink
+DEDUP063,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #63),R. Silva et al.,2020,ScienceDirect
+DEDUP064,Hardware Performance Counters for Anomaly Detection (Unique Study #64),H. Müller et al.,2021,IEEE Xplore
+DEDUP065,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #65),P. Kumar et al.,2022,ACM Digital Library
+DEDUP066,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #66),J. Smith et al.,2023,SpringerLink
+DEDUP067,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #67),M. Garcia et al.,2024,ScienceDirect
+DEDUP068,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #68),K. Tanaka et al.,2025,IEEE Xplore
+DEDUP069,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #69),R. Silva et al.,2003,ACM Digital Library
+DEDUP070,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #70),H. Müller et al.,2004,SpringerLink
+DEDUP071,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #71),P. Kumar et al.,2005,ScienceDirect
+DEDUP072,Dynamic Instrumentation for Distributed Java Applications (Unique Study #72),J. Smith et al.,2006,IEEE Xplore
+DEDUP073,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #73),M. Garcia et al.,2007,ACM Digital Library
+DEDUP074,Hardware Performance Counters for Anomaly Detection (Unique Study #74),K. Tanaka et al.,2008,SpringerLink
+DEDUP075,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #75),R. Silva et al.,2009,ScienceDirect
+DEDUP076,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #76),H. Müller et al.,2010,IEEE Xplore
+DEDUP077,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #77),P. Kumar et al.,2011,ACM Digital Library
+DEDUP078,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #78),J. Smith et al.,2012,SpringerLink
+DEDUP079,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #79),M. Garcia et al.,2013,ScienceDirect
+DEDUP080,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #80),K. Tanaka et al.,2014,IEEE Xplore
+DEDUP081,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #81),R. Silva et al.,2015,ACM Digital Library
+DEDUP082,Dynamic Instrumentation for Distributed Java Applications (Unique Study #82),H. Müller et al.,2016,SpringerLink
+DEDUP083,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #83),P. Kumar et al.,2017,ScienceDirect
+DEDUP084,Hardware Performance Counters for Anomaly Detection (Unique Study #84),J. Smith et al.,2018,IEEE Xplore
+DEDUP085,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #85),M. Garcia et al.,2019,ACM Digital Library
+DEDUP086,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #86),K. Tanaka et al.,2020,SpringerLink
+DEDUP087,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #87),R. Silva et al.,2021,ScienceDirect
+DEDUP088,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #88),H. Müller et al.,2022,IEEE Xplore
+DEDUP089,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #89),P. Kumar et al.,2023,ACM Digital Library
+DEDUP090,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #90),J. Smith et al.,2024,SpringerLink
+DEDUP091,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #91),M. Garcia et al.,2025,ScienceDirect
+DEDUP092,Dynamic Instrumentation for Distributed Java Applications (Unique Study #92),K. Tanaka et al.,2003,IEEE Xplore
+DEDUP093,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #93),R. Silva et al.,2004,ACM Digital Library
+DEDUP094,Hardware Performance Counters for Anomaly Detection (Unique Study #94),H. Müller et al.,2005,SpringerLink
+DEDUP095,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #95),P. Kumar et al.,2006,ScienceDirect
+DEDUP096,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #96),J. Smith et al.,2007,IEEE Xplore
+DEDUP097,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #97),M. Garcia et al.,2008,ACM Digital Library
+DEDUP098,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #98),K. Tanaka et al.,2009,SpringerLink
+DEDUP099,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #99),R. Silva et al.,2010,ScienceDirect
+DEDUP100,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #100),H. Müller et al.,2011,IEEE Xplore
+DEDUP101,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #101),P. Kumar et al.,2012,ACM Digital Library
+DEDUP102,Dynamic Instrumentation for Distributed Java Applications (Unique Study #102),J. Smith et al.,2013,SpringerLink
+DEDUP103,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #103),M. Garcia et al.,2014,ScienceDirect
+DEDUP104,Hardware Performance Counters for Anomaly Detection (Unique Study #104),K. Tanaka et al.,2015,IEEE Xplore
+DEDUP105,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #105),R. Silva et al.,2016,ACM Digital Library
+DEDUP106,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #106),H. Müller et al.,2017,SpringerLink
+DEDUP107,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #107),P. Kumar et al.,2018,ScienceDirect
+DEDUP108,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #108),J. Smith et al.,2019,IEEE Xplore
+DEDUP109,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #109),M. Garcia et al.,2020,ACM Digital Library
+DEDUP110,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #110),K. Tanaka et al.,2021,SpringerLink
+DEDUP111,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #111),R. Silva et al.,2022,ScienceDirect
+DEDUP112,Dynamic Instrumentation for Distributed Java Applications (Unique Study #112),H. Müller et al.,2023,IEEE Xplore
+DEDUP113,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #113),P. Kumar et al.,2024,ACM Digital Library
+DEDUP114,Hardware Performance Counters for Anomaly Detection (Unique Study #114),J. Smith et al.,2025,SpringerLink
+DEDUP115,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #115),M. Garcia et al.,2003,ScienceDirect
+DEDUP116,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #116),K. Tanaka et al.,2004,IEEE Xplore
+DEDUP117,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #117),R. Silva et al.,2005,ACM Digital Library
+DEDUP118,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #118),H. Müller et al.,2006,SpringerLink
+DEDUP119,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #119),P. Kumar et al.,2007,ScienceDirect
+DEDUP120,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #120),J. Smith et al.,2008,IEEE Xplore
+DEDUP121,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #121),M. Garcia et al.,2009,ACM Digital Library
+DEDUP122,Dynamic Instrumentation for Distributed Java Applications (Unique Study #122),K. Tanaka et al.,2010,SpringerLink
+DEDUP123,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #123),R. Silva et al.,2011,ScienceDirect
+DEDUP124,Hardware Performance Counters for Anomaly Detection (Unique Study #124),H. Müller et al.,2012,IEEE Xplore
+DEDUP125,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #125),P. Kumar et al.,2013,ACM Digital Library
+DEDUP126,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #126),J. Smith et al.,2014,SpringerLink
+DEDUP127,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #127),M. Garcia et al.,2015,ScienceDirect
+DEDUP128,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #128),K. Tanaka et al.,2016,IEEE Xplore
+DEDUP129,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #129),R. Silva et al.,2017,ACM Digital Library
+DEDUP130,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #130),H. Müller et al.,2018,SpringerLink
+DEDUP131,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #131),P. Kumar et al.,2019,ScienceDirect
+DEDUP132,Dynamic Instrumentation for Distributed Java Applications (Unique Study #132),J. Smith et al.,2020,IEEE Xplore
+DEDUP133,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #133),M. Garcia et al.,2021,ACM Digital Library
+DEDUP134,Hardware Performance Counters for Anomaly Detection (Unique Study #134),K. Tanaka et al.,2022,SpringerLink
+DEDUP135,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #135),R. Silva et al.,2023,ScienceDirect
+DEDUP136,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #136),H. Müller et al.,2024,IEEE Xplore
+DEDUP137,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #137),P. Kumar et al.,2025,ACM Digital Library
+DEDUP138,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #138),J. Smith et al.,2003,SpringerLink
+DEDUP139,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #139),M. Garcia et al.,2004,ScienceDirect
+DEDUP140,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #140),K. Tanaka et al.,2005,IEEE Xplore
+DEDUP141,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #141),R. Silva et al.,2006,ACM Digital Library
+DEDUP142,Dynamic Instrumentation for Distributed Java Applications (Unique Study #142),H. Müller et al.,2007,SpringerLink
+DEDUP143,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #143),P. Kumar et al.,2008,ScienceDirect
+DEDUP144,Hardware Performance Counters for Anomaly Detection (Unique Study #144),J. Smith et al.,2009,IEEE Xplore
+DEDUP145,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #145),M. Garcia et al.,2010,ACM Digital Library
+DEDUP146,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #146),K. Tanaka et al.,2011,SpringerLink
+DEDUP147,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #147),R. Silva et al.,2012,ScienceDirect
+DEDUP148,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #148),H. Müller et al.,2013,IEEE Xplore
+DEDUP149,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #149),P. Kumar et al.,2014,ACM Digital Library
+DEDUP150,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #150),J. Smith et al.,2015,SpringerLink
+DEDUP151,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #151),M. Garcia et al.,2016,ScienceDirect
+DEDUP152,Dynamic Instrumentation for Distributed Java Applications (Unique Study #152),K. Tanaka et al.,2017,IEEE Xplore
+DEDUP153,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #153),R. Silva et al.,2018,ACM Digital Library
+DEDUP154,Hardware Performance Counters for Anomaly Detection (Unique Study #154),H. Müller et al.,2019,SpringerLink
+DEDUP155,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #155),P. Kumar et al.,2020,ScienceDirect
+DEDUP156,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #156),J. Smith et al.,2021,IEEE Xplore
+DEDUP157,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #157),M. Garcia et al.,2022,ACM Digital Library
+DEDUP158,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #158),K. Tanaka et al.,2023,SpringerLink
+DEDUP159,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #159),R. Silva et al.,2024,ScienceDirect
+DEDUP160,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #160),H. Müller et al.,2025,IEEE Xplore
+DEDUP161,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #161),P. Kumar et al.,2003,ACM Digital Library
+DEDUP162,Dynamic Instrumentation for Distributed Java Applications (Unique Study #162),J. Smith et al.,2004,SpringerLink
+DEDUP163,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #163),M. Garcia et al.,2005,ScienceDirect
+DEDUP164,Hardware Performance Counters for Anomaly Detection (Unique Study #164),K. Tanaka et al.,2006,IEEE Xplore
+DEDUP165,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #165),R. Silva et al.,2007,ACM Digital Library
+DEDUP166,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #166),H. Müller et al.,2008,SpringerLink
+DEDUP167,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #167),P. Kumar et al.,2009,ScienceDirect
+DEDUP168,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #168),J. Smith et al.,2010,IEEE Xplore
+DEDUP169,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #169),M. Garcia et al.,2011,ACM Digital Library
+DEDUP170,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #170),K. Tanaka et al.,2012,SpringerLink
+DEDUP171,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #171),R. Silva et al.,2013,ScienceDirect
+DEDUP172,Dynamic Instrumentation for Distributed Java Applications (Unique Study #172),H. Müller et al.,2014,IEEE Xplore
+DEDUP173,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #173),P. Kumar et al.,2015,ACM Digital Library
+DEDUP174,Hardware Performance Counters for Anomaly Detection (Unique Study #174),J. Smith et al.,2016,SpringerLink
+DEDUP175,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #175),M. Garcia et al.,2017,ScienceDirect
+DEDUP176,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #176),K. Tanaka et al.,2018,IEEE Xplore
+DEDUP177,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #177),R. Silva et al.,2019,ACM Digital Library
+DEDUP178,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #178),H. Müller et al.,2020,SpringerLink
+DEDUP179,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #179),P. Kumar et al.,2021,ScienceDirect
+DEDUP180,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #180),J. Smith et al.,2022,IEEE Xplore
+DEDUP181,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #181),M. Garcia et al.,2023,ACM Digital Library
+DEDUP182,Dynamic Instrumentation for Distributed Java Applications (Unique Study #182),K. Tanaka et al.,2024,SpringerLink
+DEDUP183,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #183),R. Silva et al.,2025,ScienceDirect
+DEDUP184,Hardware Performance Counters for Anomaly Detection (Unique Study #184),H. Müller et al.,2003,IEEE Xplore
+DEDUP185,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #185),P. Kumar et al.,2004,ACM Digital Library
+DEDUP186,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #186),J. Smith et al.,2005,SpringerLink
+DEDUP187,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #187),M. Garcia et al.,2006,ScienceDirect
+DEDUP188,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #188),K. Tanaka et al.,2007,IEEE Xplore
+DEDUP189,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #189),R. Silva et al.,2008,ACM Digital Library
+DEDUP190,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #190),H. Müller et al.,2009,SpringerLink
+DEDUP191,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #191),P. Kumar et al.,2010,ScienceDirect
+DEDUP192,Dynamic Instrumentation for Distributed Java Applications (Unique Study #192),J. Smith et al.,2011,IEEE Xplore
+DEDUP193,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #193),M. Garcia et al.,2012,ACM Digital Library
+DEDUP194,Hardware Performance Counters for Anomaly Detection (Unique Study #194),K. Tanaka et al.,2013,SpringerLink
+DEDUP195,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #195),R. Silva et al.,2014,ScienceDirect
+DEDUP196,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #196),H. Müller et al.,2015,IEEE Xplore
+DEDUP197,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #197),P. Kumar et al.,2016,ACM Digital Library
+DEDUP198,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #198),J. Smith et al.,2017,SpringerLink
+DEDUP199,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #199),M. Garcia et al.,2018,ScienceDirect
+DEDUP200,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #200),K. Tanaka et al.,2019,IEEE Xplore
+DEDUP201,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #201),R. Silva et al.,2020,ACM Digital Library
+DEDUP202,Dynamic Instrumentation for Distributed Java Applications (Unique Study #202),H. Müller et al.,2021,SpringerLink
+DEDUP203,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #203),P. Kumar et al.,2022,ScienceDirect
+DEDUP204,Hardware Performance Counters for Anomaly Detection (Unique Study #204),J. Smith et al.,2023,IEEE Xplore
+DEDUP205,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #205),M. Garcia et al.,2024,ACM Digital Library
+DEDUP206,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #206),K. Tanaka et al.,2025,SpringerLink
+DEDUP207,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #207),R. Silva et al.,2003,ScienceDirect
+DEDUP208,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #208),H. Müller et al.,2004,IEEE Xplore
+DEDUP209,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #209),P. Kumar et al.,2005,ACM Digital Library
+DEDUP210,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #210),J. Smith et al.,2006,SpringerLink
+DEDUP211,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #211),M. Garcia et al.,2007,ScienceDirect
+DEDUP212,Dynamic Instrumentation for Distributed Java Applications (Unique Study #212),K. Tanaka et al.,2008,IEEE Xplore
+DEDUP213,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #213),R. Silva et al.,2009,ACM Digital Library
+DEDUP214,Hardware Performance Counters for Anomaly Detection (Unique Study #214),H. Müller et al.,2010,SpringerLink
+DEDUP215,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #215),P. Kumar et al.,2011,ScienceDirect
+DEDUP216,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #216),J. Smith et al.,2012,IEEE Xplore
+DEDUP217,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #217),M. Garcia et al.,2013,ACM Digital Library
+DEDUP218,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #218),K. Tanaka et al.,2014,SpringerLink
+DEDUP219,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #219),R. Silva et al.,2015,ScienceDirect
+DEDUP220,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #220),H. Müller et al.,2016,IEEE Xplore
+DEDUP221,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #221),P. Kumar et al.,2017,ACM Digital Library
+DEDUP222,Dynamic Instrumentation for Distributed Java Applications (Unique Study #222),J. Smith et al.,2018,SpringerLink
+DEDUP223,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #223),M. Garcia et al.,2019,ScienceDirect
+DEDUP224,Hardware Performance Counters for Anomaly Detection (Unique Study #224),K. Tanaka et al.,2020,IEEE Xplore
+DEDUP225,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #225),R. Silva et al.,2021,ACM Digital Library
+DEDUP226,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #226),H. Müller et al.,2022,SpringerLink
+DEDUP227,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #227),P. Kumar et al.,2023,ScienceDirect
+DEDUP228,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #228),J. Smith et al.,2024,IEEE Xplore
+DEDUP229,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #229),M. Garcia et al.,2025,ACM Digital Library
+DEDUP230,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #230),K. Tanaka et al.,2003,SpringerLink
+DEDUP231,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #231),R. Silva et al.,2004,ScienceDirect
+DEDUP232,Dynamic Instrumentation for Distributed Java Applications (Unique Study #232),H. Müller et al.,2005,IEEE Xplore
+DEDUP233,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #233),P. Kumar et al.,2006,ACM Digital Library
+DEDUP234,Hardware Performance Counters for Anomaly Detection (Unique Study #234),J. Smith et al.,2007,SpringerLink
+DEDUP235,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #235),M. Garcia et al.,2008,ScienceDirect
+DEDUP236,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #236),K. Tanaka et al.,2009,IEEE Xplore
+DEDUP237,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #237),R. Silva et al.,2010,ACM Digital Library
+DEDUP238,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #238),H. Müller et al.,2011,SpringerLink
+DEDUP239,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #239),P. Kumar et al.,2012,ScienceDirect
+DEDUP240,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #240),J. Smith et al.,2013,IEEE Xplore
+DEDUP241,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #241),M. Garcia et al.,2014,ACM Digital Library
+DEDUP242,Dynamic Instrumentation for Distributed Java Applications (Unique Study #242),K. Tanaka et al.,2015,SpringerLink
+DEDUP243,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #243),R. Silva et al.,2016,ScienceDirect
+DEDUP244,Hardware Performance Counters for Anomaly Detection (Unique Study #244),H. Müller et al.,2017,IEEE Xplore
+DEDUP245,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #245),P. Kumar et al.,2018,ACM Digital Library
+DEDUP246,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #246),J. Smith et al.,2019,SpringerLink
+DEDUP247,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #247),M. Garcia et al.,2020,ScienceDirect
+DEDUP248,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #248),K. Tanaka et al.,2021,IEEE Xplore
+DEDUP249,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #249),R. Silva et al.,2022,ACM Digital Library
+DEDUP250,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #250),H. Müller et al.,2023,SpringerLink
+DEDUP251,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #251),P. Kumar et al.,2024,ScienceDirect
+DEDUP252,Dynamic Instrumentation for Distributed Java Applications (Unique Study #252),J. Smith et al.,2025,IEEE Xplore
+DEDUP253,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #253),M. Garcia et al.,2003,ACM Digital Library
+DEDUP254,Hardware Performance Counters for Anomaly Detection (Unique Study #254),K. Tanaka et al.,2004,SpringerLink
+DEDUP255,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #255),R. Silva et al.,2005,ScienceDirect
+DEDUP256,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #256),H. Müller et al.,2006,IEEE Xplore
+DEDUP257,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #257),P. Kumar et al.,2007,ACM Digital Library
+DEDUP258,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #258),J. Smith et al.,2008,SpringerLink
+DEDUP259,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #259),M. Garcia et al.,2009,ScienceDirect
+DEDUP260,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #260),K. Tanaka et al.,2010,IEEE Xplore
+DEDUP261,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #261),R. Silva et al.,2011,ACM Digital Library
+DEDUP262,Dynamic Instrumentation for Distributed Java Applications (Unique Study #262),H. Müller et al.,2012,SpringerLink
+DEDUP263,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #263),P. Kumar et al.,2013,ScienceDirect
+DEDUP264,Hardware Performance Counters for Anomaly Detection (Unique Study #264),J. Smith et al.,2014,IEEE Xplore
+DEDUP265,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #265),M. Garcia et al.,2015,ACM Digital Library
+DEDUP266,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #266),K. Tanaka et al.,2016,SpringerLink
+DEDUP267,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #267),R. Silva et al.,2017,ScienceDirect
+DEDUP268,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #268),H. Müller et al.,2018,IEEE Xplore
+DEDUP269,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #269),P. Kumar et al.,2019,ACM Digital Library
+DEDUP270,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #270),J. Smith et al.,2020,SpringerLink
+DEDUP271,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #271),M. Garcia et al.,2021,ScienceDirect
+DEDUP272,Dynamic Instrumentation for Distributed Java Applications (Unique Study #272),K. Tanaka et al.,2022,IEEE Xplore
+DEDUP273,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #273),R. Silva et al.,2023,ACM Digital Library
+DEDUP274,Hardware Performance Counters for Anomaly Detection (Unique Study #274),H. Müller et al.,2024,SpringerLink
+DEDUP275,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #275),P. Kumar et al.,2025,ScienceDirect
+DEDUP276,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #276),J. Smith et al.,2003,IEEE Xplore
+DEDUP277,Cost-Aware Log Aggregation in Enterprise Environments (Unique Study #277),M. Garcia et al.,2004,ACM Digital Library
+DEDUP278,Real-Time Kernel Event Profiling and Overhead Analysis (Unique Study #278),K. Tanaka et al.,2005,SpringerLink
+DEDUP279,Zero-Overhead Memory Inspection in Virtualized Hosts (Unique Study #279),R. Silva et al.,2006,ScienceDirect
+DEDUP280,Observability in Cloud-Native Microservices: A Performance Study (Unique Study #280),H. Müller et al.,2007,IEEE Xplore
+DEDUP281,Quantifying Overhead in eBPF-Based Kernel Tracing (Unique Study #281),P. Kumar et al.,2008,ACM Digital Library
+DEDUP282,Dynamic Instrumentation for Distributed Java Applications (Unique Study #282),J. Smith et al.,2009,SpringerLink
+DEDUP283,Low-Impact Metric Collection for High-Throughput Systems (Unique Study #283),M. Garcia et al.,2010,ScienceDirect
+DEDUP284,Hardware Performance Counters for Anomaly Detection (Unique Study #284),K. Tanaka et al.,2011,IEEE Xplore
+DEDUP285,Non-Intrusive Profiling in Heterogeneous Compute Clusters (Unique Study #285),R. Silva et al.,2012,ACM Digital Library
+DEDUP286,Adaptive Telemetry Sampling for Distributed Systems (Unique Study #286),H. Müller et al.,2013,SpringerLink

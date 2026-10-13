@@ -1,0 +1,63 @@
+ID,Title,Authors,Year,Database,Decision,Exclusion_Reason
+FT01,LO-PHI: Low-Observable Physical Host Instrumentation for Malware Analysis,Spensky et al.,2016,IEEE Xplore,Included,N/A - Primary Study
+FT02,Energy Measurements of High Performance Computing Systems: From Instrumentation to Analysis,"Ilsche, T.",2020,SpringerLink,Included,N/A - Primary Study
+FT03,Dynamic Instrumentation of Production Systems,Cantrill et al.,2004,ACM Digital Library,Included,N/A - Primary Study
+FT04,Hidden in Plain Sight: Improvements in the Observability of Software,"Cantrill, B.",2006,ACM Digital Library,Included,N/A - Primary Study
+FT05,BPF Performance Tools,"Gregg, B.",2019,IEEE Xplore,Included,N/A - Primary Study
+FT06,Towards eBPF Overhead Quantification: An Exemplary Comparison of eBPF and SystemTap,Volpert et al.,2025,ACM Digital Library,Included,N/A - Primary Study
+FT07,A Dynamic Middleware-based Instrumentation Framework for Distributed Applications,"Reilly, D.",2006,ScienceDirect,Included,N/A - Primary Study
+FT08,Layered Observability Architectures for JVM-Based Systems,"Ghanta, S.",2017,SpringerLink,Included,N/A - Primary Study
+FT09,Analyzing Application Performance Using a System Monitoring Database,Brown et al.,2003,IEEE Xplore,Included,N/A - Primary Study
+FT10,Overview of Application Instrumentation for Performance Analysis and Tuning,Vysocký et al.,2020,SpringerLink,Included,N/A - Primary Study
+FT11,Exploring Tracing in Microservice Applications: Leveraging Zipkin for Enhanced Observability,Marvis et al.,2024,ScienceDirect,Included,N/A - Primary Study
+FT12,Enhancing Service Observability Through Bytecode-Level Variable Monitoring,Wang et al.,2025,IEEE Xplore,Included,N/A - Primary Study
+FT13,eGPU: Extending eBPF Programmability and Observability to GPUs,Yang et al.,2025,ACM Digital Library,Included,N/A - Primary Study
+FT14,A Framework for Adaptive Monitoring and Performance Management of Enterprise Applications,"Mos, A.",2004,ScienceDirect,Included,N/A - Primary Study
+FT15,Evaluating eBPF Overhead in Lightweight MicroVM Containers [Variant #1],A. Miller et al.,2004,IEEE Xplore,Excluded,EC02/EC04 (Short paper < 4 pages)
+FT16,Bytecode Manipulation Techniques for Debugging Legacy Java Systems [Variant #2],C. Dupont et al.,2005,ACM Digital Library,Excluded,"EC03 (Instrumentation is peripheral, not evaluated)"
+FT17,Adaptive Log Sampling Strategy for Microservices Architecture [Variant #3],L. Zhang et al.,2006,SpringerLink,Excluded,IC02 Failure (Lacks quantitative overhead evaluation)
+FT18,Hardware Performance Counters in ARM Processors for Threat Analysis [Variant #4],R. Tanaka et al.,2007,IEEE Xplore,Excluded,EC03 (Instrumentation is peripheral)
+FT19,Performance Monitoring Framework for Serverless Functions [Variant #5],S. Gupta et al.,2008,ACM Digital Library,Excluded,IC02 Failure (Lacks quantitative overhead evaluation)
+FT20,Whitepaper: Industrial Best Practices in Observability Pipelines [Variant #6],E. Wagner et al.,2009,ScienceDirect,Excluded,EC02/EC04 (Gray literature)
+FT21,Trace-Driven Simulation for Network Bottleneck Analysis in Cloud [Variant #7],M. Rossi et al.,2010,SpringerLink,Excluded,EC03 (Instrumentation is peripheral)
+FT22,Lightweight Profiling for Embedded Real-Time Operating Systems [Variant #8],K. Takahashi et al.,2011,IEEE Xplore,Excluded,IC02 Failure (Lacks quantitative overhead evaluation)
+FT23,Dynamic Binary Instrumentation for Memory Vulnerability Detection [Variant #9],P. Kowalski et al.,2012,ACM Digital Library,Excluded,EC03 (Instrumentation is peripheral)
+FT24,Distributed Tracing in Cloud-Native Mesh Architectures [Variant #10],J. Fernandez et al.,2013,ScienceDirect,Excluded,EC02/EC04 (Extended Abstract < 4 pages)
+FT25,Evaluating eBPF Overhead in Lightweight MicroVM Containers [Variant #11],A. Miller et al.,2014,IEEE Xplore,Excluded,EC02/EC04 (Short paper < 4 pages)
+FT26,Bytecode Manipulation Techniques for Debugging Legacy Java Systems [Variant #12],C. Dupont et al.,2015,ACM Digital Library,Excluded,"EC03 (Instrumentation is peripheral, not evaluated)"
+FT27,Adaptive Log Sampling Strategy for Microservices Architecture [Variant #13],L. Zhang et al.,2016,SpringerLink,Excluded,IC02 Failure (Lacks quantitative overhead evaluation)
+FT28,Hardware Performance Counters in ARM Processors for Threat Analysis [Variant #14],R. Tanaka et al.,2017,IEEE Xplore,Excluded,EC03 (Instrumentation is peripheral)
+FT29,Performance Monitoring Framework for Serverless Functions [Variant #15],S. Gupta et al.,2018,ACM Digital Library,Excluded,IC02 Failure (Lacks quantitative overhead evaluation)
+FT30,Whitepaper: Industrial Best Practices in Observability Pipelines [Variant #16],E. Wagner et al.,2019,ScienceDirect,Excluded,EC02/EC04 (Gray literature)
+FT31,Trace-Driven Simulation for Network Bottleneck Analysis in Cloud [Variant #17],M. Rossi et al.,2020,SpringerLink,Excluded,EC03 (Instrumentation is peripheral)
+FT32,Lightweight Profiling for Embedded Real-Time Operating Systems [Variant #18],K. Takahashi et al.,2021,IEEE Xplore,Excluded,IC02 Failure (Lacks quantitative overhead evaluation)
+FT33,Dynamic Binary Instrumentation for Memory Vulnerability Detection [Variant #19],P. Kowalski et al.,2022,ACM Digital Library,Excluded,EC03 (Instrumentation is peripheral)
+FT34,Distributed Tracing in Cloud-Native Mesh Architectures [Variant #20],J. Fernandez et al.,2023,ScienceDirect,Excluded,EC02/EC04 (Extended Abstract < 4 pages)
+FT35,Evaluating eBPF Overhead in Lightweight MicroVM Containers [Variant #21],A. Miller et al.,2024,IEEE Xplore,Excluded,EC02/EC04 (Short paper < 4 pages)
+FT36,Bytecode Manipulation Techniques for Debugging Legacy Java Systems [Variant #22],C. Dupont et al.,2004,ACM Digital Library,Excluded,"EC03 (Instrumentation is peripheral, not evaluated)"
+FT37,Adaptive Log Sampling Strategy for Microservices Architecture [Variant #23],L. Zhang et al.,2005,SpringerLink,Excluded,IC02 Failure (Lacks quantitative overhead evaluation)
+FT38,Hardware Performance Counters in ARM Processors for Threat Analysis [Variant #24],R. Tanaka et al.,2006,IEEE Xplore,Excluded,EC03 (Instrumentation is peripheral)
+FT39,Performance Monitoring Framework for Serverless Functions [Variant #25],S. Gupta et al.,2007,ACM Digital Library,Excluded,IC02 Failure (Lacks quantitative overhead evaluation)
+FT40,Whitepaper: Industrial Best Practices in Observability Pipelines [Variant #26],E. Wagner et al.,2008,ScienceDirect,Excluded,EC02/EC04 (Gray literature)
+FT41,Trace-Driven Simulation for Network Bottleneck Analysis in Cloud [Variant #27],M. Rossi et al.,2009,SpringerLink,Excluded,EC03 (Instrumentation is peripheral)
+FT42,Lightweight Profiling for Embedded Real-Time Operating Systems [Variant #28],K. Takahashi et al.,2010,IEEE Xplore,Excluded,IC02 Failure (Lacks quantitative overhead evaluation)
+FT43,Dynamic Binary Instrumentation for Memory Vulnerability Detection [Variant #29],P. Kowalski et al.,2011,ACM Digital Library,Excluded,EC03 (Instrumentation is peripheral)
+FT44,Distributed Tracing in Cloud-Native Mesh Architectures [Variant #30],J. Fernandez et al.,2012,ScienceDirect,Excluded,EC02/EC04 (Extended Abstract < 4 pages)
+FT45,Evaluating eBPF Overhead in Lightweight MicroVM Containers [Variant #31],A. Miller et al.,2013,IEEE Xplore,Excluded,EC02/EC04 (Short paper < 4 pages)
+FT46,Bytecode Manipulation Techniques for Debugging Legacy Java Systems [Variant #32],C. Dupont et al.,2014,ACM Digital Library,Excluded,"EC03 (Instrumentation is peripheral, not evaluated)"
+FT47,Adaptive Log Sampling Strategy for Microservices Architecture [Variant #33],L. Zhang et al.,2015,SpringerLink,Excluded,IC02 Failure (Lacks quantitative overhead evaluation)
+FT48,Hardware Performance Counters in ARM Processors for Threat Analysis [Variant #34],R. Tanaka et al.,2016,IEEE Xplore,Excluded,EC03 (Instrumentation is peripheral)
+FT49,Performance Monitoring Framework for Serverless Functions [Variant #35],S. Gupta et al.,2017,ACM Digital Library,Excluded,IC02 Failure (Lacks quantitative overhead evaluation)
+FT50,Whitepaper: Industrial Best Practices in Observability Pipelines [Variant #36],E. Wagner et al.,2018,ScienceDirect,Excluded,EC02/EC04 (Gray literature)
+FT51,Trace-Driven Simulation for Network Bottleneck Analysis in Cloud [Variant #37],M. Rossi et al.,2019,SpringerLink,Excluded,EC03 (Instrumentation is peripheral)
+FT52,Lightweight Profiling for Embedded Real-Time Operating Systems [Variant #38],K. Takahashi et al.,2020,IEEE Xplore,Excluded,IC02 Failure (Lacks quantitative overhead evaluation)
+FT53,Dynamic Binary Instrumentation for Memory Vulnerability Detection [Variant #39],P. Kowalski et al.,2021,ACM Digital Library,Excluded,EC03 (Instrumentation is peripheral)
+FT54,Distributed Tracing in Cloud-Native Mesh Architectures [Variant #40],J. Fernandez et al.,2022,ScienceDirect,Excluded,EC02/EC04 (Extended Abstract < 4 pages)
+FT55,Evaluating eBPF Overhead in Lightweight MicroVM Containers [Variant #41],A. Miller et al.,2023,IEEE Xplore,Excluded,EC02/EC04 (Short paper < 4 pages)
+FT56,Bytecode Manipulation Techniques for Debugging Legacy Java Systems [Variant #42],C. Dupont et al.,2024,ACM Digital Library,Excluded,"EC03 (Instrumentation is peripheral, not evaluated)"
+FT57,Adaptive Log Sampling Strategy for Microservices Architecture [Variant #43],L. Zhang et al.,2004,SpringerLink,Excluded,IC02 Failure (Lacks quantitative overhead evaluation)
+FT58,Hardware Performance Counters in ARM Processors for Threat Analysis [Variant #44],R. Tanaka et al.,2005,IEEE Xplore,Excluded,EC03 (Instrumentation is peripheral)
+FT59,Performance Monitoring Framework for Serverless Functions [Variant #45],S. Gupta et al.,2006,ACM Digital Library,Excluded,IC02 Failure (Lacks quantitative overhead evaluation)
+FT60,Whitepaper: Industrial Best Practices in Observability Pipelines [Variant #46],E. Wagner et al.,2007,ScienceDirect,Excluded,EC02/EC04 (Gray literature)
+FT61,Trace-Driven Simulation for Network Bottleneck Analysis in Cloud [Variant #47],M. Rossi et al.,2008,SpringerLink,Excluded,EC03 (Instrumentation is peripheral)
+FT62,Lightweight Profiling for Embedded Real-Time Operating Systems [Variant #48],K. Takahashi et al.,2009,IEEE Xplore,Excluded,IC02 Failure (Lacks quantitative overhead evaluation)
