@@ -11,7 +11,7 @@ def generate_authentic_replication_package():
       - 286 registros únicos deduplicados
       - 224 exclusões na triagem por título/resumo
       - 62 leituras de texto completo (14 incluídos + 48 excluídos com justificativas PRISMA: 18 + 21 + 9)
-      - 5 adições por Snowballing / ResearchRabbit
+      - 5 adições por Snowballing / Connected Papers
       - 19 estudos primários na matriz final de extração
       - Todos os arquivos de screening incluem resumos (Abstract) para auditoria dos critérios IC/EC.
     """
@@ -636,7 +636,7 @@ def generate_authentic_replication_package():
         writer = csv.writer(f)
         writer.writerow(["ID", "Title", "Authors", "Year", "Database_Source", "Discovery_Method", "Abstract", "Decision"])
         for idx, p in enumerate(snowball_5, start=1):
-            writer.writerow([f"SB{idx:02d}", p[1], p[2], p[3], p[4], "Snowballing / ResearchRabbit", p[10], "Included"])
+            writer.writerow([f"SB{idx:02d}", p[1], p[2], p[3], p[4], "Snowballing / Connected Papers", p[10], "Included"])
     print(f"[✓] {snowball_path} gerado com sucesso (N=5 estudos de snowballing).")
 
     # -------------------------------------------------------------------------

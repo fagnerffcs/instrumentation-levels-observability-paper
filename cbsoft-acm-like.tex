@@ -110,6 +110,25 @@ O objetivo deste estudo é mapear o panorama atual das abordagens de instrumenta
     \item \textbf{RQ03:} Quais estratégias e melhores práticas permitem uma observabilidade eficaz minimizando a sobrecarga de desempenho?
 \end{itemize}
 
+Para assegurar a reprodutibilidade da seleção dos estudos e responder rigorosamente às RQs, foram estabelecidos critérios formais de inclusão (\textit{Inclusion Criteria} - IC) e exclusão (\textit{Exclusion Criteria} - EC):
+
+\begin{itemize}
+    \item \textbf{IC01 (Foco Temático em Instrumentação):} Estudos primários cujo foco central seja a proposta, avaliação, implementação ou análise de níveis de instrumentação (hardware, kernel/SO, VM/runtime, aplicação/bytecode ou adaptativo) voltados à observabilidade de sistemas computacionais;
+    \item \textbf{IC02 (Avaliação Empírica de Desempenho):} Publicações que apresentem dados empíricos quantitativos ou mensurações comparativas de sobrecarga (\textit{overhead} de CPU, memória, latência de execução ou degradação de vazão);
+    \item \textbf{IC03 (Recorte Temporal):} Trabalhos publicados entre 2003 e 2025, cobrindo o período de transição dos sistemas distribuídos clássicos para a computação moderna em nuvem e heterogênea;
+    \item \textbf{IC04 (Idioma):} Artigos redigidos nos idiomas inglês ou português.
+\end{itemize}
+
+De forma complementar, foram definidos os seguintes critérios de exclusão:
+\begin{itemize}
+    \item \textbf{EC01 (Duplicatas):} Registros idênticos recuperados em múltiplas bases de dados bibliográficas;
+    \item \textbf{EC02 (Literatura Cinzenta Informal e Comercial):} Publicações não acadêmicas desprovidas de metodologia experimental auditável, tais como postagens em blogs de engenharia, fóruns técnicos, manuais de produtos comerciais de fornecedores e relatórios corporativos de marketing;
+    \item \textbf{EC03 (Instrumentação Periférica ou Secundária):} Estudos em que a instrumentação é empregada apenas como ferramenta utilitária secundária (e.g., injeção de cargas para validação de algoritmos de roteamento, testes de interface ou fatiamento de código), sem que as propriedades, mecanismos ou custos da instrumentação em si constituam o objeto de análise;
+    \item \textbf{EC04 (Artigos Curtos e Resumos Expandidos):} Trabalhos com menos de 4 páginas (\textit{short papers}, pôsteres e \textit{extended abstracts}) que não apresentem detalhamento metodológico suficiente ou dados consolidados de avaliação.
+\end{itemize}
+
+Ressalta-se que, no contexto de Revisões Rápidas orientadas ao suporte prático em Engenharia de Software \cite{cartaxo_2018}, publicações acadêmicas com metodologia e dados empíricos completos recuperadas via busca em grafos de citação e \textit{snowballing} — a exemplo de teses doutorais institucionais e preprints científicos formais com modelos quantitativos consolidados, como Haghshenas et al. \cite{haghshenas_2023} — foram elegíveis por cumprirem integralmente os critérios de rigor (IC01 e IC02), distinguindo-se categoricamente do material comercial opinativo descartado por EC02.
+
 \subsection{Fase de Execução}
 
 A execução envolveu a busca sistemática na literatura utilizando quatro bases de dados científicas de relevância primária na área de Ciência da Computação e Engenharia de Software: IEEE Xplore, ACM Digital Library, SpringerLink e ScienceDirect. O recorte temporal foi estabelecido entre \textbf{2003} e \textbf{2025} para capturar as abordagens mais contemporâneas.
@@ -144,13 +163,13 @@ $\downarrow$ \\
 \hline
 \textbf{4. Leitura do Texto Completo ($N = 62$ Avaliados na Íntegra)} \\
 \small $\rightarrow$ $N = 48$ Excluídos com justificativas: \\
-\small • EC02 / EC04 (Artigos curtos/literatura cinzenta): $n = 18$ \\
+\small • EC02 / EC04 (Artigos curtos / literatura cinzenta informal): $n = 18$ \\
 \small • EC03 (Instrumentação apenas como ferramenta periférica): $n = 21$ \\
-\small • Ausência de dados de overhead/desempenho: $n = 9$ \\
+\small • Falha no IC02 (Ausência de dados empíricos de overhead/desempenho): $n = 9$ \\
 \hline
 $\downarrow$ \\
 \hline
-\textbf{5. Adição via \textit{Snowballing} e Grafos de Citação (\textit{Research Rabbit}) ($N = +5$ Novos Estudos)} \\
+\textbf{5. Adição via \textit{Snowballing} e Grafos de Citação (\textit{Connected Papers}) ($N = +5$ Novos Estudos)} \\
 \hline
 $\downarrow$ \\
 \hline
@@ -164,9 +183,9 @@ $\downarrow$ \\
 
 O processo de filtragem seguiu três etapas rigorosas:
 \begin{enumerate}
-    \item \textbf{Triagem Inicial:} Avaliação de títulos e resumos por um único pesquisador frente aos critérios IC/EC, resultando na exclusão de $N = 224$ trabalhos irrelevantes.
-    \item \textbf{Revisão de Texto Completo:} Os $N = 62$ estudos retidos foram lidos na íntegra. Desses, $N = 48$ foram excluídos por motivos específicos: trabalhos curtos ou literatura cinzenta ($n = 18$), instrumentação tratada apenas como recurso secundário sem análise direta de suas propriedades ($n = 21$) e ausência de dados empíricos de \textit{overhead} ou recursos ($n = 9$).
-    \item \textbf{Recuperação Adicional e Resolução de Conflitos:} Para expandir a cobertura e mitigar limitações da \textit{string} principal, aplicou-se \textit{Snowballing} (\textit{forward} e \textit{backward}) e busca gráfica pelo \textit{Research Rabbit}, adicionando $N = 5$ estudos elegíveis. Em casos de incerteza quanto à inclusão, um segundo pesquisador foi consultado para a decisão final de consenso, resultando no corpus final de $N = 19$ artigos primários.
+    \item \textbf{Triagem Inicial:} Avaliação de títulos e resumos por um único pesquisador frente aos critérios IC/EC, resultando na exclusão de $N = 224$ trabalhos irrelevantes que não abordavam níveis de instrumentação de sistemas.
+    \item \textbf{Revisão de Texto Completo:} Os $N = 62$ estudos retidos foram lidos na íntegra. Desses, $N = 48$ foram excluídos por motivos específicos: trabalhos curtos ou literatura cinzenta informal (EC02/EC04, $n = 18$), instrumentação tratada apenas como recurso secundário sem análise direta de suas propriedades (EC03, $n = 21$) e ausência de dados empíricos de \textit{overhead} ou recursos (falha no IC02, $n = 9$).
+    \item \textbf{Recuperação Adicional e Resolução de Conflitos:} Para expandir a cobertura e mitigar limitações da \textit{string} principal, aplicou-se \textit{Snowballing} (\textit{forward} e \textit{backward}) e busca gráfica pelo \textit{Connected Papers}, adicionando $N = 5$ estudos elegíveis. Em casos de incerteza quanto à inclusão, um segundo pesquisador foi consultado para a decisão final de consenso, resultando no corpus final de $N = 19$ artigos primários.
 \end{enumerate}
 
 \subsection{Fase de Extração e Relatório}
@@ -179,7 +198,7 @@ Para cada estudo selecionado na etapa anterior, os dados foram extraídos sistem
 A condução desta Revisão Rápida envolveu escolhas metodológicas orientadas pelo equilíbrio entre a tempestividade da entrega e o rigor científico necessário para apoiar decisões práticas \cite{cartaxo_2018}. Para assegurar a credibilidade e a transparência dos achados, as potenciais ameaças à validade foram identificadas, estruturadas e tratadas com base no esquema taxonômico de Wohlin et al. \cite{wohlin_2012}:
 
 \begin{itemize}
-    \item \textbf{Validade de Construto:} Trata da adequação entre os conceitos teóricos investigados e as medidas operacionais aplicadas \cite{wohlin_2012}. O viés de delimitação do escopo da busca foi mitigado formulando uma \textit{string} com múltiplos sinônimos cobrindo observabilidade, monitoramento, \textit{tracing}, \textit{profiling} e impacto computacional. Além disso, a aplicação de \textit{Snowballing} e a descoberta baseada em grafos de citação (\textit{Research Rabbit}) permitiram capturar estudos relevantes que utilizavam terminologias alternativas.
+    \item \textbf{Validade de Construto:} Trata da adequação entre os conceitos teóricos investigados e as medidas operacionais aplicadas \cite{wohlin_2012}. O viés de delimitação do escopo da busca foi mitigado formulando uma \textit{string} com múltiplos sinônimos cobrindo observabilidade, monitoramento, \textit{tracing}, \textit{profiling} e impacto computacional. Além disso, a aplicação de \textit{Snowballing} e a descoberta baseada em grafos de citação (\textit{Connected Papers}) permitiram capturar estudos relevantes que utilizavam terminologias alternativas.
     
     \item \textbf{Validade Interna:} Refere-se a fatores e vieses não controlados que podem ter afetado a seleção e a extração dos dados \cite{wohlin_2012}. A condução da triagem inicial por apenas um pesquisador representa uma limitação intrínseca ao formato de Revisão Rápida \cite{cartaxo_2018}. Para mitigar esse viés, a fase de avaliação do texto completo e a resolução de casos ambíguos contaram com a revisão pareada e validação cruzada por um segundo autor. O uso da ferramenta \textit{Parsifal} assegurou a rastreabilidade e auditabilidade do protocolo.
     

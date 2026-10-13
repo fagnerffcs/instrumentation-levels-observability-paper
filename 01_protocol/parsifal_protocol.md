@@ -34,13 +34,13 @@ Mapear e analisar o panorama atual das abordagens e níveis de instrumentação 
 - **IC01:** Foco primário na avaliação ou proposta de níveis de instrumentação (hardware, kernel, runtime, bytecode ou aplicação) para observabilidade.
 - **IC02:** Estudos que apresentam análises quantitativas ou qualitativas do overhead e do impacto no desempenho sistêmico.
 - **IC03:** Artigos publicados entre 2003 e 2025.
-- **IC04:** Artigos escritos na língua inglesa.
+- **IC04:** Artigos escritos na língua inglesa ou portuguesa.
 
 ### Critérios de Exclusão (EC):
 - **EC01:** Estudos duplicados entre as bases.
-- **EC02:** Literatura cinzenta (*gray literature*), como posts de blogs, manuais comerciais, pre-prints sem revisão por pares e whitepapers.
+- **EC02:** Literatura cinzenta informal e comercial (*gray literature*), como posts de blogs corporativos, fóruns técnicos, manuais comerciais de produtos e whitepapers industriais de marketing.
 - **EC03:** Estudos onde a instrumentação é mencionada apenas como ferramenta periférica, sem compor o objeto de estudo principal.
-- **EC04:** Resumos expandidos, pôsteres e trabalhos curtos (*short papers*) com menos de 4 páginas.
+- **EC04:** Resumos expandidos, pôsteres e trabalhos curtos (*short papers*) com menos de 4 páginas sem metodologia detalhada.
 
 ## 5. Procedimento de Extração de Dados
 Para cada estudo aprovado na leitura de texto completo, foram extraídos os seguintes campos:
