@@ -25,18 +25,27 @@ Este repositório contém o Pacote de Replicação (Replication Package) complet
 ```
 ---
 ⚙️ Automação e Reconstrução com `startup.py`
+
 Para garantir a transparência, auditabilidade e reprodutibilidade exigidas pelos padrões de Ciência Aberta (Open Science & Empirical Standards da ACM/IEEE), a geração dos datasets tabulares foi automatizada via script Python autônomo: `startup.py`.
+
 1. Instruções para Execução
-Não há dependências externas de bibliotecas de terceiros (o script utiliza apenas os módulos nativos `os`, `csv` e `random`).
-Certifique-se de ter o Python 3.8+ instalado.
-Na raiz do repositório, execute o script:
+
+- Não há dependências externas de bibliotecas de terceiros (o script utiliza apenas os módulos nativos `os`, `csv` e `random`).
+
+- Certifique-se de ter o Python 3.8+ instalado.
+
+- Na raiz do repositório, execute o script:
+
 ```bash
    python startup.py
-   ```
-O script criará/atualizará automaticamente a estrutura de diretórios e reconstruirá todos os 5 arquivos CSV do pacote.
+```
+
+- O script criará/atualizará automaticamente a estrutura de diretórios e reconstruirá todos os 5 arquivos CSV do pacote.
 ---
 2. Lógica de Execução do `startup.py`
+
 O script foi projetado para espelhar a taxonomia e as fases do protocolo PRISMA descrito na Seção 3 do artigo:
+
 ```text
   [ raw_search_results.csv ] (N = 348)
              │
