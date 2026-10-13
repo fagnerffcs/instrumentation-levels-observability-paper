@@ -56,33 +56,48 @@ O script foi projetado para espelhar a taxonomia e as fases do protocolo PRISMA 
              ▼
   [ extraction_matrix.csv ] (N = 19 Estudos Primários Finais)
 ```
-Detalhes das Fases Implementadas no Script:
-Determinismo e Semente Fixa (`random.seed(42)`):
+## Detalhes das Fases Implementadas no Script:
+
+### Determinismo e Semente Fixa (`random.seed(42)`):
 Garante a geração idêntica dos identificadores e sequenciamentos bibliográficos em qualquer ambiente de execução.
-Geração dos Resultados Brutos (`02_search_results/raw_search_results.csv` — $N = 348$):
+
+### Geração dos Resultados Brutos (`02_search_results/raw_search_results.csv` — $N = 348$):
+
 Modela com precisão as cotas de retorno por base bibliográfica indexada:
-IEEE Xplore: 124 registros
-ACM Digital Library: 102 registros
-SpringerLink: 76 registros
-ScienceDirect: 46 registros
+- IEEE Xplore: 124 registros
+- ACM Digital Library: 102 registros
+- SpringerLink: 76 registros
+- ScienceDirect: 46 registros
+
 Incorpora os metadados bibliográficos autênticos dos 14 artigos primários mantidos.
-Geração do Dataset Deduplicado (`02_search_results/deduplicated_dataset.csv` — $N = 286$):
+
+### Geração do Dataset Deduplicado (`02_search_results/deduplicated_dataset.csv` — $N = 286$):
+
 Consolida a coleção de trabalhos únicos obtidos após expurgar as 62 duplicatas resultantes do cruzamento das bases.
-Triagem de Texto Completo (`03_screening/full_text_screening.csv` — $N = 62$):
+
+### Triagem de Texto Completo (`03_screening/full_text_screening.csv` — $N = 62$):
+
 Registra os 62 artigos avaliados na íntegra.
+
 Modela individualmente as 48 exclusões mapeadas na Figura 1 do manuscrito, associando cada descarte ao seu devido critério de exclusão (ex.: EC02/EC04 para artigos curtos e literatura cinzenta; EC03 para abordagens em que a instrumentação é periférica; e IC02 para ausência de avaliação empírica de overhead).
-Aporte por Snowballing (`03_screening/snowballing_additions.csv` — $N = +5$):
+
+### Aporte por Snowballing (`03_screening/snowballing_additions.csv` — $N = +5$):
 Registra os 5 artigos primários adicionados iterativamente via grafos de citação (ResearchRabbit) e busca regressiva/progressiva (backward/forward snowballing).
-Matriz de Extração de Dados (`04_data_extraction/extraction_matrix.csv` — $N = 19$):
+
+### Matriz de Extração de Dados (`04_data_extraction/extraction_matrix.csv` — $N = 19$):
+
 Estrutura os 19 artigos primários finais relacionando suas chaves BibTeX (`spensky_2016`, `cantrill_2004`, `volpert_2025`, etc.), níveis de instrumentação (Hardware, Kernel/SO, Runtime, Bytecode, Adaptativo/Custo), ferramentas propostas, dados quantitativos de impacto e casos de uso.
+
 ---
-📊 Aderência à Metodologia do Estudo
+
+## 📊 Aderência à Metodologia do Estudo
 Métrica do Funil PRISMA	Total no Artigo	Representação no Repositório	Arquivo Correspondente
 Registros Recuperados nas Bases	348	348 linhas	`02_search_results/raw_search_results.csv`
 Registros Após Deduplicação	286	286 linhas	`02_search_results/deduplicated_dataset.csv`
 Leitura de Texto Completo	62	62 linhas (14 Mantidos / 48 Excluídos)	`03_screening/full_text_screening.csv`
 Adições via Snowballing	+5	5 linhas	`03_screening/snowballing_additions.csv`
 Corpus de Estudos Primários	19	19 linhas	`04_data_extraction/extraction_matrix.csv`
+
 ---
 📜 Licença
 Este pacote de replicação é distribuído sob a licença MIT License.
