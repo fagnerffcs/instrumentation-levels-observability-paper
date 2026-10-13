@@ -83,13 +83,14 @@ A gravidade do efeito de sonda está intimamente associada à chamada ``lacuna s
 
 A evolução histórica da instrumentação reflete os esforços da Engenharia de Software para mitigar essa lacuna semântica sem inviabilizar o desempenho em produção. As abordagens tradicionais das décadas de 1970 a 1990 focavam em instrumentação estática em tempo de compilação para sistemas procedurais e paralelos homogêneos \cite{sivasubramaniam_1994}. No entanto, a consolidação de arquiteturas distribuídas, computação em nuvem e microsserviços introduziu novos desafios que tornaram a instrumentação estática proibitiva: a impossibilidade de paradas programadas (\textit{zero downtime}), a heterogeneidade das pilhas tecnológicas e a volatilidade das cargas de trabalho. Esses fatores impulsionaram o desenvolvimento de mecanismos de instrumentação dinâmica e interceptação baseada em \textit{middleware} \cite{reilly_2006}, permitindo a injeção e remoção de sondas sob demanda sem recompilação ou interrupção dos serviços.
 
-Com base nesse corpo teórico, os compromissos de observabilidade podem ser estruturados em quatro dimensões ortogonais:
+Com base nesse corpo teórico, os compromissos de observabilidade podem ser estruturados em quatro dimensões fundamentais, governadas pelo \textbf{Princípio da Ortogonalidade} aplicado à taxonomia e ao projeto de sistemas computacionais \cite{nickerson_2013}. Em Engenharia de Software e arquitetura de sistemas, a ortogonalidade postula que as dimensões de um modelo devem ser conceituadas de modo independente e não redundante, garantindo que uma escolha arquitetural em um determinado eixo possa ser realizada sem impor restrições ou acoplamentos espúrios sobre os demais eixos. Nesse sentido, a estruturação multidimensional da observabilidade desdobra-se em quatro eixos ortogonais:
 \begin{enumerate}
-    \item \textbf{Camada do Sistema:} a posição na pilha arquitetural onde as medições ocorrem (hardware, kernel, runtime de linguagem ou código de aplicação);
-    \item \textbf{Características Temporais:} momento de vinculação das sondas, variando de inserção permanente em tempo de compilação (estática) a modificação do fluxo de instruções em tempo de execução (dinâmica);
-    \item \textbf{Granularidade dos Dados:} resolução da telemetria produzida, abrangendo desde contadores agregados de baixo custo (\textit{coarse-grained}) até rastreamentos evento a evento com captura de contexto (\textit{fine-grained});
-    \item \textbf{Política de Ativação:} estratégia de controle operacional, oscilando entre monitoramento contínuo (\textit{always-on}) e amostragem condicional ou adaptativa orientada por detecção de anomalias (\textit{cost-aware}).
+    \item \textbf{Camada do Sistema (Eixo Espacial):} a posição na pilha arquitetural onde as medições ocorrem (hardware, kernel, runtime de linguagem ou código de aplicação);
+    \item \textbf{Características Temporais (Eixo de Vinculação):} o momento de inserção e ativação das sondas, variando de vinculação estática em tempo de compilação a instrumentação dinâmica em tempo de execução sem reinicialização;
+    \item \textbf{Granularidade dos Dados (Eixo de Resolução):} a densidade da telemetria produzida, oscilando de contadores agregados de baixo custo (\textit{coarse-grained}) até rastreamentos evento a evento com retenção de contexto de chamada (\textit{fine-grained});
+    \item \textbf{Política de Ativação (Eixo Operacional):} o regime de funcionamento das medições, alternando entre monitoramento ininterrupto (\textit{always-on}) e amostragem adaptativa ou sob demanda orientada por desvios de desempenho (\textit{cost-aware}).
 \end{enumerate}
+A adoção explícita do Princípio da Ortogonalidade \cite{nickerson_2013} assegura que o espaço de soluções de observabilidade seja formulado como um produto cartesiano desses eixos. Isso esclarece por que avanços tecnológicos recentes — como o eBPF no kernel ou os agentes dinâmicos de bytecode — combinam pontos distintos dessas dimensões (e.g., sondas dinâmicas de grão fino no kernel ativadas sob demanda), desacoplando a localização física da sonda de sua política de amostragem.
 
 \section{Metodologia}
 
@@ -190,7 +191,9 @@ A condução desta Revisão Rápida envolveu escolhas metodológicas orientadas 
 \section{Níveis de Instrumentação}
 \label{sec:niveis-instrumentacao}
 
-A observabilidade em sistemas computacionais modernos é viabilizada pela inserção de pontos de medição em diferentes camadas da pilha de execução \cite{shende_2001, cantrill_2004}. Cada camada oferece uma perspectiva distinta sobre o comportamento do sistema, estabelecendo um compromisso (\textit{trade-off}) inerente entre a riqueza semântica dos dados capturados, a profundidade de visibilidade e a sobrecarga (\textit{overhead}) de desempenho induzida \cite{haghshenas_2023, vysocky_2019}. Enquanto a instrumentação de grão grosso em níveis mais baixos favorece a cobertura global com baixo impacto, a visibilidade fina em níveis superiores expõe detalhes da lógica de negócios ao custo de maior perturbação \cite{ghanta_2017}. Com base na literatura analisada ($N=19$), as abordagens de instrumentação foram categorizadas em quatro níveis fundamentais de abstração, dispostos hierarquicamente da camada física até a lógica de aplicação, conforme ilustrado na Figura~\ref{fig:niveis_hierarchy}.
+A observabilidade em sistemas computacionais modernos é viabilizada pela inserção de pontos de medição em diferentes camadas da pilha de execução \cite{shende_2001, cantrill_2004}. Cada camada oferece uma perspectiva distinta sobre o comportamento do sistema, estabelecendo um compromisso (\textit{trade-off}) inerente entre a riqueza semântica dos dados capturados, a profundidade de visibilidade e a sobrecarga (\textit{overhead}) de desempenho induzida \cite{haghshenas_2023, vysocky_2019}. Enquanto a instrumentação de grão grosso em níveis mais baixos favorece a cobertura global com baixo impacto, a visibilidade fina em níveis superiores expõe detalhes da lógica de negócios ao custo de maior perturbação \cite{ghanta_2017}. 
+
+Sob a ótica do método taxonômico de Nickerson et al. \cite{nickerson_2013}, os quatro níveis de abstração identificados na literatura analisada ($N=19$) constituem a \textbf{dimensão espacial primária} da observabilidade. Essa hierarquia organiza-se desde os recursos físicos de silício até a semântica da aplicação de usuário, conforme esquematizado na Figura~\ref{fig:niveis_hierarchy}. As demais características operacionais (como vinculação dinâmica e amostragem adaptativa) operam como eixos ortogonais que qualificam o comportamento de cada ferramenta dentro de sua respectiva camada.
 
 \begin{figure*}[t]
 \centering
@@ -299,7 +302,7 @@ Abordagens adaptativas reconhecem que nem todos os estados do sistema exigem o m
 
 \section{Discussões e Trabalhos Futuros}
 
-A Tabela \ref{tab:analise_comparativa} sintetiza as principais características das maiores abordagens de instrumentação discutidas na literatura, comparando suas capacidades de observabilidade, implicações de desempenho e casos de uso primários.
+A Tabela~\ref{tab:analise_comparativa} sintetiza as principais características das abordagens de instrumentação analisadas na literatura ($N=19$), estruturando-as a partir da matriz taxonômica multidimensional. Fundamentada no Princípio da Ortogonalidade \cite{nickerson_2013}, a matriz de classificação desacopla a camada física de execução (nível do sistema) de suas propriedades temporais, estratégias de agregação e políticas adaptativas de custo. Essa abordagem permite aos projetistas identificar claramente os compromissos de cada proposta, comparando suas capacidades diagnósticas, a ordem de grandeza do impacto no desempenho e seus domínios primários de aplicação.
 
 \begin{table*}[htbp]
 \centering
