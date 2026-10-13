@@ -110,24 +110,13 @@ O objetivo deste estudo é mapear o panorama atual das abordagens de instrumenta
     \item \textbf{RQ03:} Quais estratégias e melhores práticas permitem uma observabilidade eficaz minimizando a sobrecarga de desempenho?
 \end{itemize}
 
-Para assegurar a reprodutibilidade da seleção dos estudos e responder rigorosamente às RQs, foram estabelecidos critérios formais de inclusão (\textit{Inclusion Criteria} - IC) e exclusão (\textit{Exclusion Criteria} - EC):
+Para assegurar a reprodutibilidade da seleção dos estudos e responder rigorosamente às RQs, foram estabelecidos critérios formais de inclusão (\textit{Inclusion Criteria} - IC) e exclusão (\textit{Exclusion Criteria} - EC). 
 
-\begin{itemize}
-    \item \textbf{IC01 (Foco Temático em Instrumentação):} Estudos primários cujo foco central seja a proposta, avaliação, implementação ou análise de níveis de instrumentação (hardware, kernel/SO, VM/runtime, aplicação/bytecode ou adaptativo) voltados à observabilidade de sistemas computacionais;
-    \item \textbf{IC02 (Avaliação Empírica de Desempenho):} Publicações que apresentem dados empíricos quantitativos ou mensurações comparativas de sobrecarga (\textit{overhead} de CPU, memória, latência de execução ou degradação de vazão);
-    \item \textbf{IC03 (Recorte Temporal):} Trabalhos publicados entre 2003 e 2025, cobrindo o período de transição dos sistemas distribuídos clássicos para a computação moderna em nuvem e heterogênea;
-    \item \textbf{IC04 (Idioma):} Artigos redigidos nos idiomas inglês ou português.
-\end{itemize}
+Foram adotados seis critérios de inclusão (IC): \textbf{IC01} - Foco primário em observabilidade e técnicas de instrumentação para sistemas de software; \textbf{IC02} - Contexto relacionado a camadas da pilha computacional (hardware, kernel, runtime ou aplicação); \textbf{IC03} - Avaliação empírica ou quantificação de sobrecarga (\textit{overhead} de CPU, latência, memória ou vazão); \textbf{IC04} - Proposta ou análise de ferramentas, \textit{frameworks} ou arquiteturas de telemetria; \textbf{IC05} - Artigos publicados no recorte temporal de 2003 a 2025; \textbf{IC06} - Artigos redigidos nos idiomas inglês ou português.
 
-De forma complementar, foram definidos os seguintes critérios de exclusão:
-\begin{itemize}
-    \item \textbf{EC01 (Duplicatas):} Registros idênticos recuperados em múltiplas bases de dados bibliográficas;
-    \item \textbf{EC02 (Literatura Cinzenta Informal e Comercial):} Publicações não acadêmicas desprovidas de metodologia experimental auditável, tais como postagens em blogs de engenharia, fóruns técnicos, manuais de produtos comerciais de fornecedores e relatórios corporativos de marketing;
-    \item \textbf{EC03 (Instrumentação Periférica ou Secundária):} Estudos em que a instrumentação é empregada apenas como ferramenta utilitária secundária (e.g., injeção de cargas para validação de algoritmos de roteamento, testes de interface ou fatiamento de código), sem que as propriedades, mecanismos ou custos da instrumentação em si constituam o objeto de análise;
-    \item \textbf{EC04 (Artigos Curtos e Resumos Expandidos):} Trabalhos com menos de 4 páginas (\textit{short papers}, pôsteres e \textit{extended abstracts}) que não apresentem detalhamento metodológico suficiente ou dados consolidados de avaliação.
-\end{itemize}
+Similarmente, foram adotados cinco critérios de exclusão (EC): \textbf{EC01} - Artigos duplicados entre as bases científicas; \textbf{EC02} - Literatura cinzenta informal e comercial (e.g., postagens em blogs corporativos, fóruns técnicos, manuais comerciais de fornecedores e relatórios de marketing industrial); \textbf{EC03} - Foco exclusivo em monitoramento operacional genérico sem abordar conceitos ou \textit{trade-offs} de instrumentação e observabilidade; \textbf{EC04} - Estudos onde a instrumentação é apenas mencionada tangencialmente ou utilizada como ferramenta utilitária secundária, não constituindo a contribuição principal; \textbf{EC05} - Trabalhos curtos, resumos expandidos e pôsteres com menos de 4 páginas sem detalhamento metodológico ou validação experimental consolidada.
 
-Ressalta-se que, no contexto de Revisões Rápidas orientadas ao suporte prático em Engenharia de Software \cite{cartaxo_2018}, publicações acadêmicas com metodologia e dados empíricos completos recuperadas via busca em grafos de citação e \textit{snowballing} — a exemplo de teses doutorais institucionais e preprints científicos formais com modelos quantitativos consolidados, como Haghshenas et al. \cite{haghshenas_2023} — foram elegíveis por cumprirem integralmente os critérios de rigor (IC01 e IC02), distinguindo-se categoricamente do material comercial opinativo descartado por EC02.
+Ressalta-se que, no contexto de Revisões Rápidas orientadas ao suporte prático em Engenharia de Software \cite{cartaxo_2018}, publicações acadêmicas com metodologia e dados empíricos completos recuperadas via busca em grafos de citação e \textit{snowballing} — a exemplo de teses doutorais institucionais e preprints científicos formais com modelos quantitativos consolidados, como Haghshenas et al. \cite{haghshenas_2023} — foram elegíveis por cumprirem integralmente os critérios de rigor (IC01 e IC03), distinguindo-se categoricamente do material comercial opinativo descartado por EC02.
 
 \subsection{Fase de Execução}
 
@@ -163,9 +152,9 @@ $\downarrow$ \\
 \hline
 \textbf{4. Leitura do Texto Completo ($N = 62$ Avaliados na Íntegra)} \\
 \small $\rightarrow$ $N = 48$ Excluídos com justificativas: \\
-\small • EC02 / EC04 (Artigos curtos / literatura cinzenta informal): $n = 18$ \\
-\small • EC03 (Instrumentação apenas como ferramenta periférica): $n = 21$ \\
-\small • Falha no IC02 (Ausência de dados empíricos de overhead/desempenho): $n = 9$ \\
+\small • EC02 / EC05 (Artigos curtos / literatura cinzenta informal): $n = 18$ \\
+\small • EC04 (Instrumentação apenas como ferramenta periférica): $n = 21$ \\
+\small • Falha no IC03 (Ausência de dados empíricos de overhead/desempenho): $n = 9$ \\
 \hline
 $\downarrow$ \\
 \hline
@@ -184,7 +173,7 @@ $\downarrow$ \\
 O processo de filtragem seguiu três etapas rigorosas:
 \begin{enumerate}
     \item \textbf{Triagem Inicial:} Avaliação de títulos e resumos por um único pesquisador frente aos critérios IC/EC, resultando na exclusão de $N = 224$ trabalhos irrelevantes que não abordavam níveis de instrumentação de sistemas.
-    \item \textbf{Revisão de Texto Completo:} Os $N = 62$ estudos retidos foram lidos na íntegra. Desses, $N = 48$ foram excluídos por motivos específicos: trabalhos curtos ou literatura cinzenta informal (EC02/EC04, $n = 18$), instrumentação tratada apenas como recurso secundário sem análise direta de suas propriedades (EC03, $n = 21$) e ausência de dados empíricos de \textit{overhead} ou recursos (falha no IC02, $n = 9$).
+    \item \textbf{Revisão de Texto Completo:} Os $N = 62$ estudos retidos foram lidos na íntegra. Desses, $N = 48$ foram excluídos por motivos específicos: trabalhos curtos ou literatura cinzenta informal (EC02/EC05, $n = 18$), instrumentação tratada apenas como recurso secundário sem análise direta de suas propriedades (EC04, $n = 21$) e ausência de dados empíricos de \textit{overhead} ou recursos (falha no IC03, $n = 9$).
     \item \textbf{Recuperação Adicional e Resolução de Conflitos:} Para expandir a cobertura e mitigar limitações da \textit{string} principal, aplicou-se \textit{Snowballing} (\textit{forward} e \textit{backward}) e busca gráfica pelo \textit{Connected Papers}, adicionando $N = 5$ estudos elegíveis. Em casos de incerteza quanto à inclusão, um segundo pesquisador foi consultado para a decisão final de consenso, resultando no corpus final de $N = 19$ artigos primários.
 \end{enumerate}
 
@@ -398,7 +387,21 @@ A literatura revela uma evolução clara da instrumentação estática e sempre 
 
 As direções de pesquisas futuras incluem instrumentação adaptativa aprimorada por aprendizado de máquina, técnicas de correlação entre camadas, instrumentação para arquiteturas emergentes, esforços de padronização, verificação formal da segurança da instrumentação e estratégias de instrumentação conscientes do consumo de energia. À medida que os sistemas continuam a crescer em complexidade e escala, técnicas sofisticadas de instrumentação continuarão essenciais para manter a observabilidade enquanto preservam o desempenho.
 
-A tensão fundamental entre a observabilidade e o overhead de desempenho não pode ser eliminada, mas as técnicas mapeadas nesta revisão demonstram que ela pode ser gerenciada de forma eficaz. Ao selecionar os níveis de instrumentação apropriados, empregar a ativação dinâmica e adotar estratégias adaptativas, as organizações podem alcançar uma observabilidade abrangente com um impacto de desempenho aceitável — variando tipicamente de um overhead quase zero para instrumentação seletiva a custos gerenciáveis para monitoramento de grão fino. O avanço contínuo das técnicas de instrumentação será crítico para garantir a confiabilidade, o desempenho e a segurança dos sistemas de computação do futuro.
+A tensão fundamental entre a observabilidade e o overhead de desempenho não pode ser eliminada, mas as técnicas mapeadas nesta revisão demonstram que ela pode ser gerenciada de forma eficaz. Ao selecionar os níveis de instrumentação apropriados, empregar a ativação dinâmica e adotar estratégias adaptativas, as organizações podem alcançar uma observabilidade abrangente com um impacto de desempenho aceitável — variando tipicamente de um overhead quase zero para instrumentação seletiva a custos gerenciáveis para monitoramento de grão fino. O avanço contínuo das técnicas de instrumentação será crítico para garantir a confiabilidade, o desempenho e a segurança dos sistemas de computação do futuro. \\
+
+\textbf{Uso de Ferramentas de IA} \
+Modelos de Linguagem de Grande Porte (LLMs) e ferramentas assistidas por IA, especialmente Gemini e Grammarly, foram utilizados exclusivamente para edições linguísticas menores e polimento de texto sob a supervisão direta dos autores. As imagens utilizadas neste artigo foram geradas por Gemini e Napkin AI. A IA não gerou nenhuma parte do design da pesquisa, interpretação ou raciocínio científico. Os autores assumem total responsabilidade pelo conteúdo e conclusões deste manuscrito, e todo o trabalho conceitual e analítico foi conduzido inteiramente por autores humanos.
+
+\section{Declarações}
+\label{sec:declarations}
+
+\textbf{Financiamento}: Não aplicável. \\
+\textbf{Conflitos de Interesse}: Não aplicável. \\
+\textbf{Aprovação Ética e Consentimento para Participação}: Não aplicável, visto que este estudo não envolve participantes humanos ou animais. \\
+\textbf{Consentimento para Publicação}: Não aplicável. \\
+\textbf{Disponibilidade de Dados}: Não aplicável, uma vez que nenhum dado externo foi gerado nesta fase deste estudo. \\
+\textbf{Disponibilidade de Materiais}: Não aplicável. \\
+\textbf{Contribuição dos Autores}: O Autor 1 conduziu a concepção do estudo, busca, triagem e síntese. O Autor 2 orientou a metodologia e realizou a revisão crítica do texto. O Autor 3 supervisionou o estudo e contribuiu para a consolidação das seções de discussão e conclusão. Todos os autores leram, revisaram e aprovaram a versão final do manuscrito.
 
 \section*{Disponibilidade de Artefatos}
 Para garantir a reprodutibilidade, auditabilidade e transparência desta Revisão Rápida, o pacote de replicação completo contendo o protocolo do Parsifal, a string de busca adaptada por base, a lista dos $N = 348$ registros recuperados, os critérios de inclusão/exclusão aplicados individualmente em cada etapa e a matriz de extração de dados contendo os $N = 19$ estudos primários foi disponibilizado publicamente no \href{https://github.com/fagnerffcs/instrumentation-levels-observability-paper}{repositório no GitHub}.

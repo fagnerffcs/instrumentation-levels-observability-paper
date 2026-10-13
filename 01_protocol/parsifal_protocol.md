@@ -31,16 +31,19 @@ Mapear e analisar o panorama atual das abordagens e níveis de instrumentação 
 ## 4. Critérios de Elegibilidade
 
 ### Critérios de Inclusão (IC):
-- **IC01:** Foco primário na avaliação ou proposta de níveis de instrumentação (hardware, kernel, runtime, bytecode ou aplicação) para observabilidade.
-- **IC02:** Estudos que apresentam análises quantitativas ou qualitativas do overhead e do impacto no desempenho sistêmico.
-- **IC03:** Artigos publicados entre 2003 e 2025.
-- **IC04:** Artigos escritos na língua inglesa ou portuguesa.
+- **IC01:** Foco primário em observabilidade e técnicas de instrumentação para sistemas de software.
+- **IC02:** Contexto relacionado a camadas da pilha computacional (hardware, kernel, runtime ou aplicação).
+- **IC03:** Avaliação empírica ou quantificação de sobrecarga (*overhead* de CPU, latência, memória ou vazão).
+- **IC04:** Proposta ou análise de ferramentas, *frameworks* ou arquiteturas de telemetria.
+- **IC05:** Artigos publicados no recorte temporal de 2003 a 2025.
+- **IC06:** Artigos redigidos nos idiomas inglês ou português.
 
 ### Critérios de Exclusão (EC):
-- **EC01:** Estudos duplicados entre as bases.
-- **EC02:** Literatura cinzenta informal e comercial (*gray literature*), como posts de blogs corporativos, fóruns técnicos, manuais comerciais de produtos e whitepapers industriais de marketing.
-- **EC03:** Estudos onde a instrumentação é mencionada apenas como ferramenta periférica, sem compor o objeto de estudo principal.
-- **EC04:** Resumos expandidos, pôsteres e trabalhos curtos (*short papers*) com menos de 4 páginas sem metodologia detalhada.
+- **EC01:** Artigos duplicados entre as bases científicas.
+- **EC02:** Literatura cinzenta informal e comercial (*gray literature*, e.g., posts de blogs corporativos, fóruns técnicos, manuais comerciais de fornecedores e relatórios de marketing industrial).
+- **EC03:** Foco exclusivo em monitoramento operacional genérico sem abordar conceitos ou *trade-offs* de instrumentação e observabilidade.
+- **EC04:** Estudos onde a instrumentação é apenas mencionada tangencialmente ou utilizada como ferramenta utilitária secundária, não constituindo a contribuição principal.
+- **EC05:** Trabalhos curtos, resumos expandidos e pôsteres com menos de 4 páginas sem detalhamento metodológico ou validação experimental consolidada.
 
 ## 5. Procedimento de Extração de Dados
 Para cada estudo aprovado na leitura de texto completo, foram extraídos os seguintes campos:

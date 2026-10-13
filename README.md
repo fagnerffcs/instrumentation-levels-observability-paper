@@ -47,9 +47,9 @@ O script foi projetado para espelhar a taxonomia e as fases do protocolo PRISMA 
   [ full_text_screening.csv ] (N = 62)
              ├──────────────────────────┐
              ▼ (N = 14 Incluídos)       ▼ (N = 48 Excluídos com Razão Justificada)
-             │                          ├── EC02/EC04: Short papers / Gray literature
-             │                          ├── EC03: Instrumentação periférica
-             │                          └── IC02: Ausência de dados de overhead
+             │                          ├── EC02/EC05: Short papers / Gray literature
+             │                          ├── EC04: Instrumentação periférica
+             │                          └── IC03: Ausência de dados de overhead
              │
              ├─── [ snowballing_additions.csv ] (N = +5 via Connected Papers)
              │
